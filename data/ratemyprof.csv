@@ -1,1210 +1,1216 @@
-avgDifficulty,avgRating,department,firstName,lastName,numRatings,wouldTakeAgainPercent
-2.6,2.9,Psychology,Carleigh,Pace-Tonna,32,43.75
-3.2,4.7,Mathematics,Mathilde,Gerbelli-Gauthier,24,95.8333
-3.2,3.2,Humanities,Samuel,Akinbo,9,55.5556
-4.2,2.6,Economics,Kripa,Freitas,215,37.5
-2.3,4.0,Biology,Naijin,Li,15,73.3333
-3.3,3.7,History,Chandra,Murdoch,7,42.8571
-3.3,4.3,Economics,Fern,Ramoutar,6,83.3333
-3.0,5.0,Environment,Kayleigh,Swanson,4,100.0
-4.0,1.0,Mathematics,Shahaboddin,Shaabani,2,0.0
-3.0,4.0,Political Science,William,O'Connell ,2,100.0
-3.5,1.9,Political Science,Irene,Poetranto,88,23.8636
-4.4,1.7,Biology,Alexandra,Malinowski,16,6.25
-3.4,1.3,English,Deidre,Flynn,9,0.0
-3.5,2.7,Physics,Matthew,Robbins ,110,39.0909
-4.5,1.5,Criminal Justice,Angela,Medina,38,15.7895
-4.5,1.3,Psychology,Odilia,Yim,33,6.0606
-3.0,3.2,Mathematics,Sabrina,Lin,12,50.0
-4.0,2.4,Engineering,Mark,Jeffrey,9,33.3333
-3.0,5.0,Physical Education,Marcelle,Kitengie,4,100.0
-3.0,5.0,Anthropology,Shawn ,Lehman ,1,100.0
-2.7,5.0,Chemistry,Kylie,Luska,32,100.0
-3.4,3.8,Mathematics,Gracia,Dong,23,73.913
-1.3,5.0,Religion,Rory,Lindsay,12,100.0
-2.5,4.9,Computer Science,Paul,Gries,10,100.0
-3.9,4.3,Mathematics,Benjamin,Landon,10,70.0
-2.7,5.0,Chemistry,Jessica,D'eon,6,100.0
-3.0,3.0,Women's Studies,Loree,Erickson,2,50.0
-3.0,1.0,Music,Darren,Hamilton,1,0.0
-2.2,2.7,Engineering,Chen,Ying,18,33.3333
-3.1,4.5,Psychology,Melanie,Mascarenhas,17,94.1176
-1.5,4.8,Art History,Samantha,Chang,6,100.0
-2.0,5.0,History,James,Toma,1,100.0
-3.0,4.0,Physics,Nicolas,Grisouard,27,77.7778
-3.0,4.8,Engineering,Anthony,Sinclair,17,100.0
-2.4,4.9,History,Jonathan ,Bayer,14,100.0
-3.8,1.3,Biology,Leanne,De Souza-Kenney,12,0.0
-4.0,3.7,Psychology,Mia,Radovanovic,9,77.7778
-1.8,5.0,Biology,Haley,Zubyk,8,100.0
-3.0,3.8,Women's Studies,Barbara,Ferguson,6,83.3333
-1.8,5.0,Mathematics,Yongquan (George),Huang,5,100.0
-3.9,2.1,Geography,Serene,Tan,7,28.5714
-3.4,5.0,History,Jennifer,DeSilva,5,100.0
-3.4,2.2,History,Sara,Verskin,5,20.0
-2.5,2.3,Theater,Douglas,Eacho,4,25.0
-3.7,3.7,Psychology,Patricia,Sanchez,3,66.6667
-3.7,1.7,Political Science,Daniel,Rubenson,3,0.0
-2.5,2.5,Religion,Ronald,Charles,2,50.0
-2.0,5.0,Philosophy,Gwen,Bradford,2,100.0
-1.0,5.0,Classics,Jacob,Dvorak,1,100.0
-3.0,1.0,Humanities,Grant,Wiedenfeld,1,0.0
-4.2,2.2,Mathematics,Bernardo,Galvao-Sousa,165,22.6027
-2.8,4.4,Mathematics,Kyle ,Bower,19,89.4737
-4.4,2.4,Political Science,Joseph,Dattilo ,15,40.0
-3.6,3.3,Biochemistry,Jason,De Melo,11,54.5455
-2.0,3.8,History,Vanessa,McCarthy,4,75.0
-2.3,5.0,Languages,Valeria,Cruz,3,100.0
-4.0,3.0,Design,Noel,Brett,2,50.0
-3.0,4.0,Mathematics,Yi,Shan,1,100.0
-2.5,4.6,Marketing,sheri,allain,20,90.0
-2.0,3.0,Mathematics,Omar,Alshawa,1,0.0
-2.9,4.7,Mathematics,Fabian,Parsch,24,91.6667
-3.2,2.9,History,Constance,de Font-Reaulx,11,54.5455
-1.5,4.0,Mathematics,Aleksandr,Popkovich,2,100.0
-3.7,2.8,Mathematics,Afiny ,Akdemir,22,50.0
-2.7,4.2,Biology,Luke,Mahler,18,83.3333
-2.4,4.8,Computer Science,Paul,He,15,100.0
-3.4,3.3,Psychology,Ashley,Waggoner Denton,12,58.3333
-2.8,4.7,Computer Science,Harry,Sha,9,88.8889
-4.4,1.3,Languages,Susanna,Bejar ,9,0.0
-3.3,3.0,Psychology,Hannah,Gans,61,57.377
-3.3,2.7,Philosophy,Eamon,Darnell,50,40.0
-2.4,5.0,Political Science,Victor,Falkenheim,33,100.0
-3.6,4.3,Psychology,Moaz,Shoura,22,72.7273
-3.4,1.2,Fine Arts,Sarah,Robayo Sheridan,13,0.0
-2.8,3.8,Anthropology,Omer,Ozcan,12,75.0
-3.6,2.9,Mathematics,Wenyu ,Pan ,9,33.3333
-4.0,2.6,Art History,Stephanie,Azzarello,7,28.5714
-4.8,1.0,Environment,Donna,Schatz ,6,0.0
-2.0,5.0,Political Science,Tommaso ,Pavone,6,100.0
-1.5,3.0,Computer Science,Samarendra,Dash,2,50.0
-3.5,3.0,Law,Yukiko,Kobayashi Lui,2,50.0
-2.0,5.0,Pacific & Asian Studies,Larissa ,Lai,1,100.0
-2.4,1.7,Psychology,Joseph,Williams,23,13.0435
-3.3,3.1,Mathematics,Tianhao,Xian,21,42.8571
-4.3,1.7,Economics,Loren,Brandt,18,27.7778
-3.1,4.4,Mathematics,Shuyang ,Shen,14,85.7143
-1.6,5.0,Political Science,Caleb,Pomeroy,11,100.0
-2.7,5.0,Humanities,Maria,Cichosz,9,100.0
-3.4,4.2,Philosophy,Paul,Gooch,9,77.7778
-3.1,4.8,Mathematics,Jorge,Cruz Chapital,8,100.0
-3.4,4.5,Political Science,David,Zarnett,8,87.5
-3.0,3.5,Physics,Tahir,Sharaan,8,62.5
-3.0,2.9,Geography,Ignacio ,Aitken ,7,42.8571
-2.8,4.2,Anthropology,Shirley,Yeung,6,66.6667
-4.0,2.0,Biology,Samuel,Delage,1,0.0
-3.3,3.3,Sociology,Joanna,Pepin,11,45.4545
-3.5,2.3,History,Andres,Kasekamp,8,25.0
-2.5,2.3,Environment,Velez-Villegas,Juan-Manuel,6,33.3333
-3.2,3.2,Classics,Katerina,Apokatanidis,5,60.0
-4.2,1.7,Languages,Daniel,Milway,20,15.0
-1.8,4.5,Political Science,Patricia,Mockler,10,88.8889
-3.8,4.3,Geography,Caitlin,Cunningham,4,75.0
-4.5,1.2,Computer Science,Akshay,Bapat,17,5.8824
-2.0,3.8,Journalism,Shawn,Micallef,11,72.7273
-3.1,4.6,English,Barbara,Simões,10,90.0
-2.8,5.0,Mathematics,Shuofeng,Xu,9,100.0
-4.0,1.0,Information Science,Vera ,Khovanskaya,1,0.0
-2.1,4.9,Sociology,Mitchell,Mclvor ,36,100.0
-2.9,4.9,Chemistry,Sophie,Rousseaux,23,100.0
-2.7,4.9,Psychology,Debanjan ,Borthakur,19,100.0
-4.7,1.1,Art History,Pierre,Marty,13,0.0
-2.7,5.0,Sociology,Fabio,Robibaro,13,100.0
-2.5,5.0,Women's Studies,Frances,O'Shaughnessy,4,100.0
-4.0,4.5,Computer Science,David,Lindell,4,100.0
-2.8,4.0,Business,Dror,Shvadron,4,75.0
-3.0,5.0,Information Science,Bruno Rafael,Vera de Morais e Silva,2,100.0
-4.5,4.0,Mathematics,Aidan,Lindberg,2,50.0
-3.0,3.0,Mathematics,Fabio,Pusateri,2,50.0
-4.5,1.0,Languages,Manuel,Ramirez,2,0.0
-3.0,5.0,History,safia,aidid ,1,100.0
-3.8,3.7,Geology,Tasca,Santimano,25,64.0
-2.0,4.9,Psychology,Hayley,Liebenow,14,100.0
-3.6,3.6,Physics,Sergio,Barrera,5,40.0
-4.5,2.5,Mathematics,Christopher, Blier-wong,4,25.0
-4.0,1.5,Sociology,Yoonkyung,Lee,2,0.0
-2.3,4.2,Engineering,Yulun,Xu,33,78.7879
-2.0,4.8,Sociology,Mitchell,McIvor,31,96.7742
-3.8,1.3,History,Simeon ,Newman,30,10.0
-3.7,4.7,Psychology,Carolyn,Guay,12,91.6667
-4.0,1.0,Criminal Justice,Muhammad,Muhammad Asif,8,0.0
-3.0,3.7,History,Letizia,Tesi,3,66.6667
-4.1,1.9,Mathematics,Gael,Diebou,32,25.0
-2.3,5.0,Chemistry,Aya,Sakaya,26,100.0
-2.8,3.8,Biology,Jessica,Hill,18,72.2222
-2.1,4.7,Mathematics,Dimitrios,Karslidis,14,100.0
-3.3,3.8,Mathematics,Kirill,Kashkan ,6,66.6667
-3.8,3.0,Anthropology,Robert,Mason,4,50.0
-2.0,5.0,English,Lee,Emrich,2,100.0
-2.8,3.8,Sociology,Cinthya,Guzman,48,75.0
-2.7,4.2,Languages,Marcin,Janczak,6,66.6667
-2.6,4.8,Economics,Kathleen,Dobson,5,100.0
-3.4,2.4,Physical Education,Timothy ,Burkhart ,5,60.0
-2.5,5.0,Computer Science,Anwar,Hithnawi,2,100.0
-4.0,5.0,Geography,Kevin,Roy,1,100.0
-3.2,3.8,Biology,Megan,Frederickson,5,100.0
-4.5,1.0,Communication,Hugh ,O'Neill,4,0.0
-2.7,3.7,Chemistry,Mark,Wilson,3,33.3333
-2.6,4.2,Political Science,Elizabeth,McCallion,11,100.0
-4.1,3.8,Public Policy & Administration,Brian,Rathbun,8,75.0
-4.0,4.0,Art History,Philip,Sapirstein,3,66.6667
-2.5,5.0,Sociology,Momo,Tanaka,2,100.0
-5.0,5.0,Languages,Juan Carlos,Rocha Osornio,1,100.0
-1.3,5.0,Languages,Anaisa,Silva Gordino,3,100.0
-3.6,3.6,Economics,Tyler,Paul,49,65.3061
-1.0,5.0,Economics,Zi Yang,Kang,1,100.0
-3.5,4.2,Mathematics,Ali,Feizmohammadi,21,80.9524
-3.7,3.4,Computer Science,Cho Yin,Yong,7,57.1429
-3.3,5.0,Religion,Parnia,Vafaeikia,4,100.0
-2.7,5.0,Mathematics,Ila,Varma,3,100.0
-4.0,2.9,Medicine,Paulo,Koeberle,12,41.6667
-4.8,1.0,History,Noa,Yaari,4,0.0
-2.2,4.6,Philosophy,Alexandra,Gustafson,16,81.25
-2.7,5.0,Engineering,Eldan,Cohen,3,100.0
-4.0,5.0,Mathematics,Shay,Fuchs,2,50.0
-2.0,3.0,Philosophy,Andrew,Lavigne ,1,100.0
-4.2,2.4,Economics,Mark,Rempel,5,40.0
-2.8,4.0,Computer Science,Ali,Rahbar,4,75.0
-4.5,3.0,Geography,Aedan ,Alderson,2,50.0
-2.5,1.0,Biology,Micah,Freedman,2,0.0
-2.1,5.0,Biology,Derek,Ng,8,100.0
-3.7,4.0,Mathematics,Shubhangi,Saraf,3,66.6667
-4.0,1.0,Science,Ashlee,Brunt,2,0.0
-2.0,5.0,Biology,Megan,Bontrager ,1,100.0
-3.0,4.0,Physics,Manmeet,Singh,1,100.0
-3.8,2.1,Architecture,Stephen,Verderber,10,30.0
-4.0,1.0,Mathematics,Jnaneshwar, Baslinker,2,0.0
-2.3,4.8,Computer Science,Joonho,Kim,13,100.0
-1.5,4.2,Languages,Salvador,Alanis,6,83.3333
-3.0,1.0,Health Science,Jodeme,Goldhar ,1,0.0
-3.4,2.7,Architecture,Eric,Nay,7,42.8571
-3.2,4.7,Mathematics,Geoffrey,McGregor,16,93.75
-3.0,5.0,Social Work,Amar,Ghelani,2,100.0
-5.0,5.0,Mathematics,Elden,Elmanto,1,100.0
-2.4,4.2,Humanities,Oren,Siegel,10,80.0
-3.9,1.8,Physical Education,Darren,Lowe,14,14.2857
-3.1,3.8,Environment,Keith,Stewart,8,50.0
-4.0,1.8,Sociology,Stacy,Reardon,6,16.6667
-1.3,5.0,Languages,Abdelhalim , Elamroussy,6,100.0
-3.0,4.5,Biology,Anhadvir,Anhadvir Singh,2,100.0
-3.0,5.0,Political Science,Andrew ,Sabl,1,100.0
-3.7,2.7,Political Science,Eric ,Merkley,6,50.0
-3.0,4.0,Mathematics,Obinna ,Idu,3,66.6667
-3.0,5.0,Music,Ellen,Lockhart,1,100.0
-4.3,2.7,Mathematics,Tamara,Hogan,3,33.3333
-2.4,4.0,"Arts, Culture & Media",Naveen,Minai,9,66.6667
-3.0,5.0,Computer Science,Niv,Dayan,8,100.0
-3.1,3.4,Environment,EvelynLove,Fosu-Duah,21,61.9048
-4.0,4.0,Public Policy & Administration,Darius,Ornston,3,100.0
-3.3,4.4,Engineering,Chirag,Variawa,15,86.6667
-3.3,1.9,Biology,Amber,Hoi,8,0.0
-1.5,5.0,History,Shibi,Kumaraperumal,2,100.0
-3.0,5.0,Mathematics,George,Huang,1,100.0
-3.3,4.2,Biology,Melody,Neumann,10,80.0
-2.8,4.2,Women & Gender Studies,Wafaa,Hasan,5,80.0
-1.0,5.0,Art History,Maya,Harakawa,1,100.0
-3.0,3.0,Religion,Allison,Murphy,1,100.0
-3.0,3.8,Engineering,Michael,Guerzhoy,57,64.8148
-2.7,4.5,Environment,Mark,Hathaway,34,81.25
-2.3,5.0,Engineering,Mohammad,Haghighi,7,100.0
-2.0,4.8,Humanities,Jennifer,Ross,4,100.0
-2.7,5.0,Philosophy,Eric,Mathison,3,100.0
-3.3,4.0,Computer Science,Carolina,Nobre,3,66.6667
-3.6,3.1,International Studies,Madison,Schramm,14,42.8571
-4.6,1.3,Biology,Karen,Williams,7,0.0
-3.0,3.8,Health Science,Cyndriela,Chadambuka,4,75.0
-1.6,5.0,Philosophy,Nikolija,Lukich,5,100.0
-1.7,4.7,Geography,Killian,McCormack,3,100.0
-3.1,4.6,History,Alan,Verskin,7,85.7143
-1.7,4.8,Film,Alberto,Zambenedetti,6,100.0
-2.8,5.0,"Arts, Culture & Media",Xianwei,Wu,6,100.0
-3.0,3.8,Engineering,Jay ,Werber,5,80.0
-2.0,5.0,History,Alex ,Pelegrino,4,100.0
-2.7,5.0,Philosophy,David,Rattray ,3,100.0
-5.0,1.0,Law,Galit,Sarfaty,1,0.0
-2.9,4.5,Mathematics,Denis,Gorodkov,34,88.2353
-5.0,1.0,Art History,rhiannon ,vogl,2,0.0
-2.8,4.6,Languages,Paul,Bessler,12,88.8889
-4.2,1.8,Social Work,Bejan,Raluca,11,9.0909
-2.5,3.9,Architecture,Hadi ,El-Shayeb,10,70.0
-2.8,4.2,Literature,Leanne,Simpson,5,60.0
-2.3,4.3,English,Jim,Hansen,3,100.0
-3.0,5.0,Computer Science,Xujie,Si,1,100.0
-2.1,5.0,Architecture,Phat,Le,8,100.0
-3.4,2.8,History,Joshua,Picard,5,40.0
-3.0,3.0,Languages,Elizabeth ,Lange ,2,50.0
-3.3,3.4,Engineering,Stephen,Armstrong,15,57.1429
-3.8,4.4,Sociology,Rui,Hou,5,80.0
-4.5,2.5,Languages,Marie-Thérèse,Ballin,2,50.0
-4.0,4.0,English,Sebastian,Sobecki,1,100.0
-3.0,2.0,English,Crystal,Chen,1,0.0
-3.2,4.3,Computer Science,Randy,Hickey,6,83.3333
-4.0,3.5,English,Katherine,Williams,2,50.0
-3.0,5.0,Mathematics,Jorge,Antonio Cruz Chapital,1,100.0
-5.0,1.0,Biology,Julie ,Brill,2,0.0
-2.8,5.0,Mathematics,Simone,Coccia,5,100.0
-2.3,5.0,Philosophy,Brookes,Brown,3,100.0
-3.5,3.5,Philosophy,Mark,Kingwell,2,50.0
-3.5,5.0,Mathematics,Yitong,Wang,2,100.0
-0.0,0.0,Law,Angela,Medina,0,-1.0
-3.6,4.2,Philosophy,Brian,Bitar,5,80.0
-2.7,5.0,Computer Science,Bryan,De Bourbon,3,100.0
-1.0,5.0,"Arts, Culture & Media",Kate,Cornell,1,100.0
-5.0,1.0,Management,Opher,Baron,2,0.0
-2.7,2.6,Architecture,Michael,Piper,9,44.4444
-2.4,4.8,Languages,Sebastien,Sacre,5,100.0
-2.0,3.5,Engineering,Trevor,Carey,2,50.0
-2.9,4.7,Psychology,Mark,Miller,13,92.3077
-2.9,4.7,History,Hosam,Helal,13,92.3077
-3.6,3.6,Finance,Chay,Ornthanalai,5,40.0
-3.0,2.0,Business,Becky,Reuber,1,0.0
-2.8,1.6,History,Amy,Wesselink,5,20.0
-4.0,5.0,Philosophy,Jessica,Gelber,1,100.0
-2.2,5.0,Mathematics,Aaron,Tronsgard,9,100.0
-3.5,3.0,Geology,Andrei,Swidinsky,2,0.0
-1.0,1.0,Engineering,Steve,Treiber,1,0.0
-4.0,1.0,Sociology,Simeon,Newman,1,0.0
-2.4,5.0,Art History,Ivana,Dizdar,5,100.0
-5.0,1.7,Science,Denise,Belsham,3,0.0
-3.5,3.3,Economics,Terry,Yip,12,66.6667
-3.9,1.3,Finance,Nishreena ,Nisham ,14,0.0
-3.9,2.2,Biology,Carin,Wittnich,11,18.1818
-2.1,4.5,Sociology,Yukiko,Tanaka,38,84.2105
-2.7,5.0,Mathematics,Tonatiuh,Wiederhold,3,100.0
-3.4,2.0,English,Comfort,Azubuko-Udah,8,12.5
-3.0,5.0,Social Science,Moses,Karanja ,1,100.0
-4.1,2.9,Economics,Kuan,Xu,18,33.3333
-3.6,3.2,Philosophy,Simona ,Vucu,9,44.4444
-3.1,4.4,Engineering,Victoria,Kerr,10,80.0
-3.7,1.0,Sociology,Laura,Bisaillon,3,0.0
-3.5,1.3,Engineering,Nicole,Weckman,6,0.0
-4.0,5.0,Accounting,Thrupthy,Krishnan,4,100.0
-2.2,4.3,Literature,Erol,Boran,15,85.7143
-3.8,4.2,Management,Avni,Shah,20,78.9474
-2.0,5.0,Engineering,Virupaksh,Agrawal,9,100.0
-4.0,1.0,Management,Peter,Monkhouse,1,0.0
-3.7,2.0,Classics,Kale ,Coghlan ,3,0.0
-3.2,4.9,Mathematics,Luciano,Salvetti Martinez,14,100.0
-3.0,4.0,Pharmacology,Anita,Hamadanizadeh,1,100.0
-2.8,5.0,English,Andrea,Walkden,4,100.0
-3.0,5.0,Languages,Lucile,Mulat,2,100.0
-2.6,4.9,Political Science,Christopher (Chris),Greenaway,21,95.2381
-1.0,5.0,Social Work,Roxanne,Francis,1,100.0
-2.7,4.2,Physics,Ania,Harlick,31,83.871
-4.3,1.3,Chemistry,Amanda,Hargrove,20,5.0
-2.3,3.7,Mathematics,Yulun,Xu,3,66.6667
-5.0,4.0,Physics,Daniel,James,1,0.0
-3.5,3.3,Economics,Yuanyuan,Wan,13,61.5385
-2.2,4.4,Business,Chang-Yuan,Lee,5,80.0
-2.0,4.0,Chemistry,Charlie,Kivi,1,100.0
-4.0,2.0,Mathematics,Ignacio,Uriarte-Tuero,3,33.3333
-2.5,5.0,Biochemistry,Joel,Watts,2,100.0
-4.0,1.5,Medicine,Anna,Taddio,2,0.0
-2.6,4.5,English,John,Rogers,12,83.3333
-1.0,1.0,Geography,Juan-Manuel,Velez-Villegas,1,0.0
-3.5,5.0,Mathematics,Yukai,Zhang,2,100.0
-1.0,4.0,History,Hope,Latta,1,100.0
-3.8,3.0,Psychology,Malvina,Skorska,13,53.8462
-4.7,1.5,Finance,Anthony, Peccia ,6,0.0
-3.0,4.3,Anthropology,Anisha,Chadha,6,83.3333
-3.3,1.3,Political Science,María José ,Méndez Gutiérrez,3,0.0
-1.0,5.0,Medicine,Bowen,Li ,1,100.0
-4.1,2.3,Languages,Jeannette ,Sanchez-Naranjo ,8,37.5
-2.8,5.0,Mathematics,Mikale,Reddy,5,100.0
-4.3,4.5,Sociology,Soli,Dubash,4,100.0
-3.0,5.0,Psychology,Emily ,Schwartzman,1,100.0
-2.8,3.4,Biology,Dinesh,Christendat,5,60.0
-2.8,4.6,History,Sam,Bass,5,100.0
-2.6,3.3,Physical Education,Danielle,Dobney,7,42.8571
-2.0,5.0,Mathematics,Tresa ,Doucet,1,100.0
-2.7,4.9,Sociology,Grace,Barakat,14,100.0
-3.9,2.1,Architecture,Negin,Minaei,13,23.0769
-3.5,3.5,Sociology,Elliot,Fonarev,2,50.0
-3.0,5.0,Science,Mark,Miller,1,100.0
-2.0,5.0,Environment,Joel,Goodwin,1,100.0
-3.8,2.2,English,Andrew,Lesk,15,33.3333
-2.6,2.0,Architecture,Erica,Kim,7,14.2857
-2.0,3.0,Sociology,Jooyung,Lee,2,50.0
-0.0,0.0,English,Benjamin,Walsh,0,-1.0
-2.5,4.5,Humanities,James,Ginther,2,100.0
-2.6,5.0,Art History,Claudia,Paparella,7,100.0
-2.7,3.0,Biology,Nicholas,Provart,3,33.3333
-5.0,1.0,Mathematics,Luke,Volk,6,0.0
-3.0,4.0,Engineering,Reza,Danesh,1,100.0
-2.9,4.6,Computer Science,Mehdi,Ataei,10,90.0
-0.0,0.0,Engineering,Christopher,Lucasius,0,-1.0
-3.0,1.5,Humanities,Christina ,Pasqua,2,0.0
-3.5,4.5,History,Jack,McCart,2,100.0
-2.7,4.0,Mathematics,Ali,Pirhosseinloo,10,70.0
-2.0,3.0,Business,Chad,Story,1,100.0
-2.5,1.5,Geography,Michael,Lawler,2,0.0
-3.4,4.3,Social Science,Falak,Mujtaba,48,89.5833
-5.0,5.0,Educational Research,Emil,Marmol,1,100.0
-4.6,1.5,Political Science,Kelsey,Gordon,12,8.3333
-2.8,3.8,Political Science,Labiba,Naeem,4,75.0
-4.0,2.0,Philosophy,Vincent,Lee,1,0.0
-2.6,2.1,Public Policy & Administration,Linda,White,7,28.5714
-4.3,2.9,Economics,Florian,Dendorfer,80,48.75
-3.0,2.0,Information Science,Eveline,Houtman,1,0.0
-3.1,3.1,Political Science,Isabela,Dos Santos,37,45.9459
-3.9,3.6,Social Science,Jordan,Peterson,9,55.5556
-4.0,4.8,Pharmacology,Landon,Edgar,5,100.0
-3.7,5.0,Psychology,Christine,Burton,3,100.0
-2.8,3.0,Engineering,Alex,Bercik,9,44.4444
-1.0,5.0,Music,Carolyne,Sumner,1,100.0
-3.0,5.0,Languages,Tanya,Humeniuk,1,100.0
-2.0,5.0,Languages,Virginia,Shewfelt,1,100.0
-2.6,5.0,Computer Science,Ian,Berlot-Attwell,7,100.0
-3.6,3.0,Political Science,Dani,Nedal,7,28.5714
-2.8,3.7,Science,Matilda,Essandoh Laar,6,83.3333
-3.5,1.5,English,Michael,Johnstone,2,0.0
-1.5,5.0,Languages,Gözde,Mercan,2,100.0
-4.3,1.5,Economics,Robert,Owen,23,13.0435
-4.0,3.0,History,Chris,Chung,6,33.3333
-3.5,2.5,Medicine,Jeff,Kroetsch,2,50.0
-3.0,4.0,Sociology,Leafia ,Ye,2,100.0
-2.5,5.0,Music,Jane,Forner,4,100.0
-3.5,4.0,Languages,nadia,Takhtaganova,2,100.0
-2.5,5.0,Music,Dennis,Lee,4,100.0
-2.0,5.0,Computer Science,Robert,Soden,2,100.0
-4.0,1.0,Geography,Wiley,Sharp,1,0.0
-2.0,5.0,History,Samantha,Wesner,2,100.0
-3.3,3.0,Geography,Catherine,Jimenea,6,33.3333
-3.5,5.0,Engineering,Mahmoud ,Embabi ,4,100.0
-2.0,5.0,Art History,E,Legge,2,100.0
-3.0,5.0,Classics,Sean,Karnani-Stewart,1,100.0
-2.7,4.5,Humanities,Adam,Nayman,12,91.6667
-3.6,2.8,Political Science,Theresa,Enright,21,58.3333
-3.4,4.5,Mathematics,Asif,Zaman,58,86.2069
-2.0,5.0,Sociology,Josh,Harold,1,100.0
-3.5,3.0,Languages,Ramiro,Armas,6,33.3333
-3.3,3.7,Mathematics,Piotr,Zwiernik,3,66.6667
-3.0,2.0,Education,rosalind,hampton ,3,33.3333
-2.8,3.4,Political Science,Armend,Mazreku,8,62.5
-3.3,4.7,Medicine,Jim,Scholey,3,100.0
-2.4,5.0,Mathematics,Mehul,Gupta,7,100.0
-4.2,2.2,Computer Science,Marsha,Chechik,6,33.3333
-3.0,3.4,Religion,Anne-Marie,Fowler,5,60.0
-2.9,2.2,Geography,Rhonda,Solomon,11,18.1818
-4.0,1.3,Accounting,Abdul,Khizer,4,0.0
-4.3,2.1,Sociology,Moutaa, El Waer,7,14.2857
-2.0,5.0,Languages,Laura,Colantoni,2,100.0
-4.3,3.7,Political Science,Laura,Rabinowitz,3,66.6667
-3.2,2.3,Mathematics,Emily,Erlebach,9,33.3333
-2.0,4.0,Mathematics,Sebastian ,Espinosa,1,100.0
-2.5,4.8,History,Christopher,Petrakos,10,100.0
-2.7,2.3,Computer Science,Swastik,Kopparty,3,33.3333
-2.8,4.7,Mathematics,Jamal,Kawach,28,96.4286
-3.0,3.0,English,Gregory,Shupak,1,100.0
-1.0,5.0,History,Erich,Weidenhammer,1,100.0
-1.0,4.0,Pacific & Asian Studies,Bharat,Punjabi,1,100.0
-3.9,2.6,Management,Imran,Syed,22,40.9091
-3.4,2.9,English,Deirdre,Baker,9,44.4444
-4.3,2.3,Anthropology,Saul,Cohen,6,33.3333
-3.2,5.0,Social Science,Santiago,Molina,6,100.0
-2.7,3.7,History,Tobias,Hof,3,66.6667
-2.0,3.3,History,John,Kamau,3,66.6667
-3.3,2.8,Biology,Emily,Bell,4,50.0
-1.4,4.4,Environment,Michael,Classens,5,80.0
-3.9,4.3,Biology,Sergey,Plotnikov,10,70.0
-3.3,5.0,Mathematics,Lior,Gishboliner,3,100.0
-2.5,4.5,English,Deanna,Brooks,2,100.0
-4.5,4.4,Medicine,Danielle,Bentley,18,83.3333
-4.0,2.0,Biology,Richard,Horner,1,0.0
-3.0,4.0,Political Science,Rachael,Desborough,1,100.0
-0.0,0.0,Medicine,Allen,Teng,0,-1.0
-2.4,3.4,Philosophy,Jonny,Cottrell,5,40.0
-3.8,2.1,Philosophy,Sara,Aronowitz,18,27.7778
-4.0,3.0,Information Science,Karen,Maxwell,1,0.0
-3.5,4.7,Philosophy,Reza,Hadisi,6,100.0
-2.8,4.0,Mathematics,Daniel ,Calderon Wilches,5,80.0
-4.0,5.0,Economics,Joao,Ritto,2,100.0
-4.0,2.7,Management,Kristina,McElheran,6,33.3333
-2.4,2.6,Computer Science,Mohi,Reza,5,20.0
-3.8,1.0,Physics,Xiang,Li,6,0.0
-3.7,1.7,Biology,Michael,Wilson,3,0.0
-4.0,1.0,Mathematics,Marco ,Volpe,1,0.0
-3.0,5.0,Biology,Shehryar,Saharan,4,100.0
-1.0,5.0,Education,Katherine ,Entigar,1,100.0
-3.7,4.0,Finance,Marius,Zoican,11,72.7273
-3.1,3.9,Environment,Hanna,Morris,7,57.1429
-2.5,2.5,Women's Studies,Henar,Perales,2,50.0
-5.0,1.0,Criminal Justice,Sara,Ali,1,0.0
-2.4,2.8,Physics,Zhan,Su,5,60.0
-3.9,3.1,Psychology,Dean,Carcone ,9,33.3333
-3.2,3.0,Economics,Chenyue,Liu,5,60.0
-2.0,2.2,Health Science,Ray,Amith,18,22.2222
-3.0,4.6,Sociology,Andrew,Miles,8,87.5
-2.0,4.0,Humanities,lisa,cruikshank ,1,100.0
-3.3,3.8,Computer Science,Khai,Truong,4,75.0
-3.1,4.8,Mathematics,Camelia ,Karimian Pour,8,87.5
-3.5,3.5,Physical Education,Ashley, Stirling,2,50.0
-3.0,5.0,Philosophy,Nathan,Howard,1,100.0
-0.0,0.0,Medicine,Matthew,Danesh,0,-1.0
-3.0,5.0,Pacific & Asian Studies,Peng,Yu,1,100.0
-2.0,3.0,Engineering,Mohini,Sain,2,50.0
-2.8,3.8,Philosophy,Alex,Djedovic,12,75.0
-3.9,2.4,Engineering,Atena,Roshan Fekr,7,28.5714
-3.0,4.6,English,Nick,Mount,42,86.3636
-4.5,1.8,Pharmacology,Alaa,Alsaafin,4,25.0
-2.9,2.5,Classics,Giulio,Leghissa,14,35.7143
-3.1,3.0,Mathematics,Daniel,Alvarez,8,62.5
-2.0,5.0,Economics,Runjing Lu,Lu,1,100.0
-3.0,5.0,Languages,Sophie,Feng,2,100.0
-3.9,1.4,Mathematics,Adrian,She,7,14.2857
-5.0,1.0,Pharmacology,Dasha,Redka,1,0.0
-3.1,1.9,Health Science,David,Fisman,9,22.2222
-4.3,5.0,Mathematics,Mahdi,Rafiei,4,100.0
-3.7,2.2,Engineering,Jose,Armesto,11,45.4545
-2.5,5.0,Psychology,Nelly,Matorina,2,100.0
-4.0,3.0,Philosophy,Nicolas ,Nicola,2,50.0
-4.0,3.0,Engineering,Alison,McGuigan,1,0.0
-4.0,3.0,Political Science,Brendan,McElroy,4,25.0
-3.0,4.0,Mathematics,Vivian,He,1,100.0
-3.5,2.5,Social Science,Patrick,Watson,13,30.7692
-5.0,2.0,Political Science,Abdus,Shuman,1,0.0
-4.0,3.0,Environment,Clare,Wiseman,1,100.0
-3.0,5.0,Computer Science,Akshayaram,Srinivasan,1,100.0
-2.8,5.0,Accounting,Divyesh,Shah,6,100.0
-2.0,5.0,Geology,Barbara,Sherwood Lollar,3,100.0
-3.0,5.0,Sociology,Tyler,Bateman,1,100.0
-2.0,5.0,Mathematics,Fedor,Manin,1,100.0
-2.3,3.7,Engineering,Vaughn,Betz,16,42.8571
-2.5,5.0,English,Rebecca,Hogue,2,100.0
-4.5,1.0,Computer Science,Malik,Khan,4,0.0
-2.5,5.0,Medicine,Amel,Taibi,2,100.0
-2.5,5.0,Economics,Sean,Elliott,2,100.0
-3.0,2.0,Computer Science,Ava,Danialy,4,25.0
-4.0,3.0,Religion,Geethika,Dharmasinghe,1,0.0
-3.0,3.0,Engineering,Shurui,Zhou,3,66.6667
-2.0,5.0,Business,Hansheng,Jiang ,3,100.0
-4.0,4.3,Mathematics,Hunter,Spink,4,75.0
-2.6,3.4,Architecture,Paul,Harrison,7,57.1429
-1.7,4.3,Social Science,Kevin,White,3,66.6667
-1.0,5.0,Mathematics,Daniel ,Hudson,1,100.0
-2.4,4.8,Classics,Adriana,Brook,5,100.0
-1.0,5.0,Languages,Johann,Kirchenbauer,1,100.0
-3.0,3.0,Languages,Yukiko,Yoshizumi,1,0.0
-3.2,4.2,Anthropology,Bence,Viola,9,77.7778
-2.5,4.7,Computer Science,Yasaman ,Rohanifar,6,83.3333
-2.4,5.0,Engineering,Mike,Xue,5,100.0
-3.0,5.0,Business,Wayne,Adlam,4,100.0
-3.0,1.0,Art History,Scott, Schwartz,1,0.0
-3.0,5.0,Psychology,Ariana,Giuliano,2,100.0
-2.0,2.0,Biology,Santiago,Tammaro,1,0.0
-2.5,5.0,Social Work,Keith,Adamson,4,100.0
-3.9,3.3,Languages,Josiane,Loui,7,57.1429
-1.0,5.0,Anthropology,Maya,El Helou,1,100.0
-3.4,3.1,Mathematics,Gavin, Hurd,11,45.4545
-2.0,4.0,Science,Tj,Yi,1,100.0
-2.0,5.0,Physics,Roya,Ghahreman,1,100.0
-5.0,1.0,Business,Carla ,Moore ,2,0.0
-4.0,1.0,Engineering,Mohammad,Hodaei,1,0.0
-3.7,2.1,Psychology,Steve,Joordens,19,31.5789
-3.7,4.3,Aerospace Studies,Swetaprovo,Chaudhuri,3,100.0
-1.0,1.0,Business,Nicolas,Inostroza,1,0.0
-2.7,1.0,Architecture,Luis,Jacobs,6,0.0
-4.5,1.0,Languages,Andrea,Levinstein-Rodriguez,2,0.0
-3.3,2.1,International Studies,Sunita,Guyadeen,7,28.5714
-3.0,5.0,Engineering,Howard,Ho,3,100.0
-5.0,1.0,History,Jack,Cunningham,1,0.0
-3.0,5.0,"Arts, Culture & Media",Kanika,Lawton,1,100.0
-3.5,3.8,"Arts, Culture & Media",Kylie,Caraway,8,62.5
-4.0,5.0,Humanities,Ramez,Bishara,5,100.0
-2.0,3.0,History,John,Meehan,1,100.0
-3.0,5.0,Computer Science,Angela,Bernuy,1,100.0
-1.0,5.0,Biology,Ruth,Isserlin,1,100.0
-1.0,5.0,"Arts, Culture & Media",Suzanne,Edworthy,1,100.0
-2.5,5.0,Health Science,Shafi,Bhuiyan,63,98.4127
-4.5,2.0,Anthropology,Cathie,Sutton,2,0.0
-4.4,2.1,Computer Science,Rahul ,Krishnan,7,28.5714
-2.3,5.0,Finance,Anwar,Husain,3,100.0
-1.7,5.0,History,Joo-Yup,Lee,3,100.0
-2.5,5.0,Engineering,Luis,Bothia,2,100.0
-3.0,1.0,Nursing,ZIYI,LIU,1,100.0
-2.0,5.0,Engineering,Luis,Ardila,1,100.0
-4.7,3.0,Mathematics,Ismael ,Sierra,3,66.6667
-5.0,1.0,History,Soomin,Kim,1,0.0
-2.4,4.2,Biology,Ritu,Sarpal,5,80.0
-3.0,4.0,Mathematics,Alexander, Slamen,1,100.0
-2.3,5.0,Sociology,Andrew,Cooper,24,100.0
-3.0,4.4,Languages,John,Evjen,7,85.7143
-2.8,5.0,Religion,Callie,Callon,4,100.0
-1.7,4.7,Languages,Zdenko,Mandusic,3,100.0
-3.0,5.0,History,Leah,Montange,1,100.0
-2.5,5.0,Accounting,Hadi,Ahmad,2,100.0
-5.0,5.0,Journalism,Sonny,Sachdeva,1,100.0
-2.7,4.7,Psychology,melisa,gumus,3,100.0
-3.5,3.0,Psychology,Nisma,Khan,2,50.0
-2.8,2.1,Science,Tigran,Chalikian,11,27.2727
-0.0,0.0,Health Science,Minhui,Yang,0,-1.0
-3.0,5.0,Information Science,Jenny,Wang,3,100.0
-2.5,1.0,Management,Olga,Bountali,2,0.0
-2.0,1.5,Business,Yvonne,O'reilly,2,0.0
-4.0,2.0,Mathematics,Aleksandr,Berdnikov,2,0.0
-1.8,5.0,Ethnic Studies,Thomas,Saczkowski,4,100.0
-3.0,4.3,Engineering,Leo,Chou,3,66.6667
-3.2,5.0,Mathematics,Kingeon,Tsang,5,100.0
-4.0,4.0,Economics,Stanton,Hudja,1,100.0
-2.6,4.5,Management,Charlie,Wall-Andrews,17,88.2353
-3.0,1.0,Information Science,Natasha,Ali,1,0.0
-4.0,5.0,Political Science,Wael ,Negm,1,100.0
-2.8,1.8,Health Science,James,Hong,5,20.0
-3.0,3.0,History,Paul,Cohen,1,100.0
-3.5,2.0,Art History,Ariella ,Minden,2,50.0
-5.0,5.0,Humanities,Andreas,Winkler,1,100.0
-2.0,5.0,"Arts, Culture & Media",Magdalena,Cabaj,1,100.0
-2.0,5.0,Engineering,Naomi,Matsuura,1,100.0
-3.0,5.0,Information Science,Alan,Galey,2,100.0
-3.4,4.9,Mathematics,Sebastian,Gherghe,14,92.8571
-2.3,2.3,Humanities,Chandni,Desai,3,33.3333
-1.7,4.0,Mathematics,Jiyuan,Lu,3,100.0
-4.5,1.0,Mathematics,Andy,Ramirez-Cote,4,0.0
-1.5,5.0,Management,Brian,Silverman,2,100.0
-5.0,5.0,Mathematics,Joaquin,Sanchez Garcia,1,100.0
-3.0,2.0,Psychology,Eric,Cui,1,0.0
-2.9,4.3,Political Science,Matthew,Walton,12,83.3333
-3.5,2.5,Engineering,Radhakrishnan,Mahadevan,6,33.3333
-3.8,4.8,Medicine,Sev,Perelman,4,100.0
-3.0,5.0,Architecture,Rim,Fathallah,1,100.0
-0.0,0.0,English,Jasleen ,Singh,0,-1.0
-3.0,1.7,Sociology,Jennifer,Peruniak,3,33.3333
-4.0,1.0,Fine Arts,Lauren,Nurse,1,0.0
-2.0,1.0,Psychology,Jida,Jaffran,1,0.0
-3.0,3.6,Philosophy,Zoe,Anthony,5,60.0
-2.0,1.0,Physics,Christopher,Macgowan,1,0.0
-1.0,5.0,Science,Yupeng,zhang,1,100.0
-3.2,3.8,Engineering,Robert,Irish,6,80.0
-4.5,2.5,Sociology,Harvey,Nicholson Jr,2,0.0
-2.1,4.9,Science,Sandy,Lee,18,100.0
-3.2,3.7,Languages,Olga,Tararova,9,75.0
-2.5,5.0,Psychology,Jiarui,Li,2,100.0
-4.0,1.4,Chemistry,RJ Dwayne,Miller,5,0.0
-0.0,0.0,Physical Education,Zeana,Hamdonah,0,-1.0
-4.0,3.0,History,David,Chemhuru,1,0.0
-2.0,4.0,Business,Katarzyna,Odziemkowska,1,100.0
-3.0,4.0,Geography,Susan,Dupej,2,50.0
-4.5,5.0,Mathematics,Malors ,Lara,2,100.0
-2.0,4.0,Physical Education,Madeleine, Orr,1,0.0
-3.0,5.0,Art History,Christina ,Katsougiannopoulou,1,100.0
-4.0,1.0,Engineering,Kevin,Park,1,0.0
-3.7,2.3,Political Science,Robert,Vipond,14,28.5714
-3.6,1.7,Biochemistry,Lauren,Bathurst,9,22.2222
-3.5,2.0,English,Apala,Das,4,25.0
-2.5,5.0,Economics,Dan,Trefler,2,100.0
-5.0,2.0,Computer Science,Dashiel,Elhauge,1,0.0
-4.0,4.0,Economics,Michael,Baker,1,100.0
-2.7,5.0,Political Science,Chengmin,Xu,6,100.0
-3.0,2.0,Architecture,Daniel,Chung,1,0.0
-2.4,5.0,Biology,Stephen,Pastore,5,100.0
-2.0,2.0,Women's Studies,Valentina,Castellini,1,0.0
-3.0,5.0,Science,Anthony,Wong,1,100.0
-5.0,5.0,Engineering,Ziheng,Lin,1,0.0
-3.0,5.0,Computer Science,Tovi,Grossman,1,100.0
-0.0,0.0,Mathematics,Xincheng ,Zhang,0,-1.0
-1.7,3.7,English,Fouad,Oveisy,3,66.6667
-3.8,2.5,Computer Science,Demetres,Kostas,4,25.0
-4.3,3.3,Engineering,Donald,Kirk,3,100.0
-4.0,2.0,Sociology,Harvey,Nicholson,1,0.0
-4.0,4.0,Chemistry,Michael,MacPherson,7,71.4286
-3.9,2.4,Mathematics,Esam,Mahdi,15,40.0
-3.0,5.0,Mathematics,Mohammad,Vasfi,1,100.0
-3.0,2.0,History,Shenella,Charles,3,33.3333
-1.0,5.0,English,Dr. Fouâd ,Oveisy,1,100.0
-3.3,4.0,Engineering,Hendrickson,Sa'diyya,4,75.0
-3.0,3.0,Philosophy,Michael,Miller,3,33.3333
-3.0,5.0,Psychology,Abbey ,Nydam,1,100.0
-3.0,3.5,Architecture,Vivian,Lee,2,50.0
-2.0,5.0,Political Science,Oded,Oron,1,100.0
-4.0,1.0,Computer Science,Sidi Mohamed,Beillahi,3,0.0
-2.0,2.0,Anthropology,Malcolm,Ramsay,1,0.0
-4.0,1.0,Architecture,Margot,Lystra,1,0.0
-1.0,5.0,History,Rebecca,Bleich,1,100.0
-3.0,5.0,Film,Carrie,Reese,2,100.0
-2.0,5.0,Film,Diana,Sanchez,1,100.0
-2.0,5.0,Mathematics,Giulio,Tiozzo,3,100.0
-3.0,5.0,Computer Science,Colin,Raffel,1,100.0
-4.6,1.3,Mathematics,Ziteng,Cheng,18,5.5556
-2.3,4.3,Social Work,Michael,Saini,4,100.0
-1.0,5.0,Computer Science,David,Liu,1,100.0
-2.5,5.0,Physics,Adam,Hincks,2,100.0
-2.0,5.0,Chemistry,Jon,Abbatt,2,100.0
-3.3,4.0,Physics,Aephraim,Steinberg,4,75.0
-4.0,2.0,Physical Education,Joyce,Chen,1,0.0
-2.0,3.3,Languages,Marshall,Chasin,2,0.0
-3.6,1.8,Chemistry,Haissi,Cui,5,0.0
-3.0,5.0,Criminal Justice,Tyler,King,1,100.0
-3.0,4.0,Geography,Beverley,Mullings,3,66.6667
-3.0,2.0,Geography,Yinnon,Geva,1,0.0
-3.0,4.7,Classics,vittorio ,Bottini ,3,100.0
-4.8,1.0,Mathematics,Leo,Jiang,5,0.0
-1.0,5.0,Anthropology,Michelle ,Cameron,1,100.0
-2.3,5.0,Education,Ken,McNeilly,3,100.0
-3.0,5.0,Languages,Owen ,Meunier,1,100.0
-2.3,4.7,English,Trevor,Cook,3,100.0
-3.0,1.0,Languages,Dianne,Hurdle,2,0.0
-4.4,1.2,Mathematics,Murari,Singh,23,0.0
-5.0,3.0,Biology,Noor,Attar,1,0.0
-3.3,2.5,Environment,Erich,Vogt,17,40.0
-2.4,3.8,Accounting,Nayana,Reiter,5,80.0
-4.0,3.0,Engineering,Alvin,Sukmadji,2,50.0
-3.0,5.0,Education,Mary,Saudelli,2,100.0
-2.0,5.0,Philosophy,Eric,Shoemaker,1,100.0
-3.0,4.0,Architecture,Ayca ,Koseoglu,1,100.0
-3.3,3.5,Psychology,Paul,Bloom,4,50.0
-2.5,4.8,"Arts, Culture & Media",David,Nieborg,15,100.0
-4.0,1.0,Education,Barnabas,Emenogu,1,0.0
-1.0,5.0,Languages,Katharina,Logan,1,100.0
-4.0,5.0,Law,Alan,Bruder,1,100.0
-1.7,5.0,Management,Mohammad,Amin,3,100.0
-2.7,2.3,Languages,Neda,Todorovic,6,33.3333
-3.5,3.5,Political Science,Neekoo,Collett,2,50.0
-3.5,2.8,Finance,Joseph,Shaw,4,25.0
-3.7,3.3,Economics,Remi,Daviet,3,66.6667
-3.0,5.0,Humanities,Matthew,Da Mota,2,100.0
-3.0,5.0,Sociology,Jillian,Sunderland,1,100.0
-4.0,4.0,History,Shane,Lynn,1,100.0
-5.0,1.0,Economics,Tommaso,Alba,1,0.0
-3.0,2.0,Pharmacology,Jason,Matthews,1,0.0
-4.0,4.0,Computer Science,Massimiliano ,Meneghin,1,100.0
-1.6,3.3,Environment,Patrick,James,7,57.1429
-3.0,5.0,Biology,Juliana,Vantellingen,1,100.0
-3.0,4.0,Women's Studies,Marieme ,Lo,2,100.0
-3.3,2.0,History,Katie,Davis,6,0.0
-5.0,3.0,Arts Culture amp Media,Scott,Richmond,3,66.6667
-3.0,5.0,Classics,Giuseppe,Castellano,2,100.0
-3.0,5.0,Information Science,John,Summers,2,100.0
-2.0,4.0,Mathematics,Wenyu,Phan,1,100.0
-5.0,1.0,Biochemistry,Karen,Maxwell,1,0.0
-3.7,2.3,Engineering,Cristiana,Amza,7,33.3333
-4.5,1.5,Music,Sadie,Hochman-Ruiz,2,0.0
-2.0,1.0,Social Science,Regina,Hartwick,1,0.0
-4.0,5.0,Philosophy,Karina,Vold,1,100.0
-2.5,4.3,Engineering,Greg,Evans,4,100.0
-4.5,1.0,Engineering,Abderrahmane,Abbou,2,0.0
-3.0,5.0,Communication,Kareem,Roberts,1,100.0
-3.1,4.3,Business,William,Huggins,18,100.0
-4.5,3.0,Philosophy,Adrian,Yee,2,50.0
-2.0,5.0,Classics,Fae ,Amiro,1,100.0
-0.0,0.0,Communication,Emilie,Garan,0,-1.0
-4.0,5.0,Pharmacology,Carolyn,Cummins,1,100.0
-1.0,5.0,Pharmacology,Hong-Shuo,Sun,1,100.0
-2.0,5.0,Anthropology,Esmat,Elhalaby,1,100.0
-4.0,2.0,Biology,Frances ,Wong,1,0.0
-3.0,2.8,Philosophy,Mathew,Mercuri,4,50.0
-3.1,4.5,History,Carol,Chin,8,80.0
-3.0,3.0,Political Science,Peter,Sekyere,1,0.0
-5.0,1.0,English,Ibi,Kaslik,1,0.0
-5.0,1.0,Economics,Robert,McMillan,1,0.0
-3.9,2.6,Information Science,Shelley,Falconer,9,44.4444
-2.8,3.8,Medicine,Kevin,Vuong,4,75.0
-3.5,4.8,Marketing,Michael,Seaton,4,100.0
-3.0,4.9,Education,Peter,Sawchuk,5,100.0
-4.5,1.0,Health Science,Cheryl,Cott,2,0.0
-2.8,5.0,Languages,Anu,Muhonen,4,100.0
-3.6,2.4,Mathematics,Joshua,Lackman,8,25.0
-2.3,4.3,Geography,Bachour,Mary-Kay,4,75.0
-2.5,5.0,Languages,Sara,Galli,21,100.0
-5.0,1.0,Mathematics,Kate,Duan,1,0.0
-3.6,2.9,Anthropology,Laura,Sikstrom,5,50.0
-2.0,5.0,Philosophy,Belinda,Piercy,1,100.0
-4.5,3.0,Economics,Stanley,Subrata,4,50.0
-1.0,1.0,Education,Cassie,Brownell,1,0.0
-2.4,3.0,Anthropology,Keegan,Selig,5,60.0
-4.0,5.0,Science,Noor,Al-Attar,1,100.0
-5.0,1.0,Science,James,Wells,1,0.0
-3.0,2.0,Pharmacology,Lisa,Dolovich,1,0.0
-4.0,5.0,Physics,Sidhartha,Goyal,1,100.0
-2.0,1.0,Philosophy,James,Allen,1,0.0
-3.0,2.0,Engineering,Lennart,Doppenschmitt,1,0.0
-3.3,3.2,Accounting,Vince,Pranjivan,8,100.0
-3.0,5.0,Languages,Kat,Furtado,1,100.0
-4.0,5.0,Women's Studies,Gillian,Einstein,1,100.0
-4.4,2.2,History,Charu,Bhaneja,14,66.6667
-4.0,4.3,Philosophy,Etye,Steinberg,3,66.6667
-3.0,4.0,Business,Bernard,Feder,3,66.6667
-5.0,1.0,English,John,Van,3,0.0
-5.0,1.0,English,Vando,John,1,0.0
-2.6,4.1,Geology,Selina,Wu,15,80.0
-3.7,4.3,Psychology,aedan,li,3,100.0
-3.4,2.4,Mathematics,Larissa,Richards,14,35.7143
-3.0,3.0,Philosophy,Damian,Melamedoff,1,0.0
-4.0,1.4,Mathematics,Daniel,Simpson,5,0.0
-3.0,5.0,Languages,Catherine,Lamaison,3,100.0
-5.0,1.0,Communication,Sabrina,Zhang,1,0.0
-2.4,3.4,Economics,Kunal,Dasgupta,8,80.0
-3.0,5.0,Literature,Brent,Miles,2,100.0
-3.5,5.0,Psychology,Brett,Cochrane,2,100.0
-3.3,1.0,Architecture,Adil,Mansure,3,0.0
-2.5,3.5,History,Kenneth,Duggan,2,50.0
-3.0,3.7,Languages,Marie-Emilie,Masson,3,50.0
-2.0,4.8,Psychology,David,Goldstein,3,100.0
-2.5,4.5,Information Science,Dan,Ryan,2,100.0
-2.0,5.0,Languages,Isabelle,Massicotte,1,100.0
-4.0,5.0,Computer Science,Ehsan,Noei,1,100.0
-3.5,4.3,Psychology,Dan,Dolderman,4,100.0
-4.0,2.7,Art History,Sasha,Gorjeltchan,3,33.3333
-3.7,3.7,Philosophy,Mark,Fortney,3,66.6667
-3.5,4.0,Sociology,Lawrence,Williams,18,72.2222
-4.0,5.0,Computer Science,Syed,Ahmed,2,100.0
-3.0,5.0,Management,Tony,Harris,1,100.0
-4.0,4.0,Languages,Anna,Frolova,1,100.0
-2.7,2.7,Political Science,Karol,Czuba,3,33.3333
-3.7,4.3,Languages,Wendy,Luo,16,93.75
-4.3,4.8,Computer Science,Amir,Ashouri,4,100.0
-3.5,3.2,Philosophy,Benjamin,Wald,14,57.1429
-3.0,1.0,Architecture,Barry,Sampson,1,0.0
-4.0,5.0,Economics,CC,Gadza,1,100.0
-3.3,4.5,Mathematics,Zhengyu,Li,4,75.0
-3.0,3.5,History,Pushpa,Acharya,2,50.0
-4.0,3.0,Mathematics,Casey,Jao,2,0.0
-3.0,3.0,Business,Olga,Kaminer,1,0.0
-4.5,1.9,Mathematics,Richard,Derryberry,8,25.0
-2.2,4.2,Biology,David,Punzalan,5,80.0
-3.2,5.0,Languages,Marco,Lettieri,6,100.0
-3.7,3.8,Business,Steven,Osiel,6,100.0
-4.0,2.0,Computer Science,Toniann,Pitassi,3,33.3333
-2.3,4.9,Physics,Andrew,Meyertholen,25,100.0
-3.0,5.0,Computer Science,Robert,Robere,3,100.0
-3.0,3.0,Medicine,Richard,Foty,1,0.0
-3.8,4.0,Mathematics,Ozgur,Esentepe,6,66.6667
-3.2,3.8,Mathematics,Robert,Jerrard,6,80.0
-4.2,2.9,Psychology,Caitlin,Burton,9,44.4444
-4.0,5.0,Humanities,Matteo,Brera,1,100.0
-3.0,5.0,Environment,Xiao,Han,1,100.0
-3.5,5.0,Computer Science, Abdallah,Farraj,4,100.0
-2.3,3.8,Humanities,Kathy,Voltan,4,50.0
-4.0,2.2,Psychology,Amanda,Sherman,9,33.3333
-3.9,3.7,Psychology,Angelina,Paolozza,8,50.0
-3.2,4.6,Psychology,Iska,Moxon-Emre,7,85.7143
-4.0,5.0,Mathematics,Travis,Ens,1,100.0
-2.5,4.5,Classics,Caitlin,Hines,2,100.0
-3.5,2.5,Theater,Guillermo,Verdecchia,2,50.0
-2.5,5.0,Social Work,Jim,Cullen,2,100.0
-2.0,3.0,Law,Mariana,Mota Prado,2,0.0
-3.0,5.0,Aerospace Studies,Chris,Damaren,1,100.0
-5.0,1.0,Psychology,Yona,Lunsky,1,0.0
-2.0,5.0,Physical Education,Patrick,Jachyra,1,100.0
-3.0,5.0,Political Science,Kai,Arzheimer,1,100.0
-2.0,3.0,Anthropology,Janice,Boddy,1,100.0
-3.0,5.0,Anthropology,Jessika,Tremblay,1,100.0
-4.0,4.0,Anthropology,Julia,Gamble,1,100.0
-3.5,1.5,Geography,Anna,Kramer,2,0.0
-3.5,5.0,Architecture,Nicolas,Barrette,2,100.0
-3.0,4.0,Social Science,Lewis,Kale,1,100.0
-3.0,5.0,Computer Science,Peter,Rutherford,1,100.0
-4.0,5.0,Women's Studies,Nicole,Charles,1,100.0
-3.5,5.0,Chemistry,Andrew,Tilley,2,100.0
-2.5,4.5,Engineering,David,Ruggiero,2,100.0
-2.8,3.4,History,Maria,Brosius,4,0.0
-2.3,5.0,Engineering,Amir,Manbachi,14,100.0
-4.0,5.0,Psychology,Konstantinos,Papazoglou,1,100.0
-2.3,4.5,History,Ryan,Hall,3,100.0
-2.5,5.0,English,Michael,Donnelly,2,-1.0
-3.0,4.5,Business,Marc,Solby,1,-1.0
-4.0,4.5,Economics,Pradeep,Kumar,1,-1.0
-2.5,4.8,Mathematics,Daniel,Rowe,2,-1.0
-4.0,2.5,Accounting,Cara,Orzech,1,-1.0
-2.8,4.2,Philosophy,Charles,Repp,9,-1.0
-2.0,4.8,Languages,Rawya,Tousson,2,-1.0
-3.0,4.0,Women's Studies,Astrida,Neimenis,3,-1.0
-2.8,4.3,Philosophy,Brookes,Sommerville,6,-1.0
-1.0,2.0,Design,Foguni,Gugugi,1,-1.0
-3.0,3.0,Economics,Hélène,Desgagnés,1,-1.0
-2.5,4.5,Languages,Claudio,Palomares,2,-1.0
-1.0,5.0,Engineering,Alex,Mihailidis,1,-1.0
-4.5,1.0,Philosophy,Kyle,Anstey,2,-1.0
-2.0,3.8,Biology,Barrett,Spencer,2,-1.0
-3.0,5.0,Writing,Thom,Vernon,1,-1.0
-1.0,5.0,Computer Science,Mohammad,Shakourifar,2,-1.0
-2.0,4.0,Music,Larysa,Kuzmenko,3,-1.0
-5.0,1.5,Music,Mary Ann,Parker,1,-1.0
-3.0,5.0,Engineering,Meysam,Zargham,1,-1.0
-3.0,1.0,Engineering,Gabriel,Placienza,2,-1.0
-3.0,5.0,Religion,Syed,Hussain,1,-1.0
-3.0,5.0,Criminal Justice,Sandra,Bucerius,2,-1.0
-3.0,4.0,Architecture,Jane,Wolff,1,-1.0
-2.0,5.0,English,Ella,Soper-Jones,2,-1.0
-4.0,5.0,Women's Studies,Dina,Georgis,1,-1.0
-3.0,4.9,Humanities,John,Christopoulos,7,-1.0
-3.0,5.0,Biology,Charlotte,Youngson,2,-1.0
-1.0,5.0,Engineering,Peter,Tan,1,-1.0
-2.5,5.0,Law,Peter,Benson,2,-1.0
-2.8,4.9,Medicine,Michael,Iwama,8,-1.0
-3.0,5.0,Statistics,Laura,Rosella,1,-1.0
-0.0,0.0,Engineering,Abdallah,Farraj,0,-1.0
-0.0,0.0,Biochemistry,Christine,Bear,0,-1.0
-0.0,0.0,Law,Leonard,Griffiths,0,-1.0
-0.0,0.0,Classics,Kayla,akler,0,-1.0
-0.0,0.0,Languages,Song,Jiang,0,-1.0
-0.0,0.0,Accounting,Stuart,Stuart Campbell,0,-1.0
-0.0,0.0,Pharmacology,Suzanne,Caderette,0,-1.0
-0.0,0.0,Education,Claire,Brett,0,-1.0
-0.0,0.0,Languages,Tracey,Edelist,0,-1.0
-0.0,0.0,Mathematics,Alice,Rolf,0,-1.0
-0.0,0.0,Women's Studies,Melissa,Bush,0,-1.0
-0.0,0.0,Mathematics,Lijia,WANG,0,-1.0
-0.0,0.0,Mathematics,Narmada,Varadarajan,0,-1.0
-0.0,0.0,Psychology,Delaram,Farzanfar,0,-1.0
-0.0,0.0,Information Science,Jiazhou,Bi,0,-1.0
-0.0,0.0,Biochemistry,Oliver ,Ernst,0,-1.0
-0.0,0.0,Medicine,Valerie,Dube,0,-1.0
-0.0,0.0,Health Science,jacqueline ,beaudry,0,-1.0
-0.0,0.0,Business,Liang ,Chen,0,-1.0
-0.0,0.0,History,Ari,Finnsson,0,-1.0
-0.0,0.0,Film,Erin,Mick,0,-1.0
-0.0,0.0,Computer Science,Pan,Chen,0,-1.0
-0.0,0.0,Computer Science,Logan,Murphy,0,-1.0
-0.0,0.0,Mathematics,Oliver ,Pankratz,0,-1.0
-0.0,0.0,Political Science,Maria,Mendez-Gutierrez,0,-1.0
-0.0,0.0,Philosophy,Matthew,Scarfone,0,-1.0
-0.0,0.0,English,Ryan ,Stafford,0,-1.0
-0.0,0.0,Religion,Laura,Hare,0,-1.0
-0.0,0.0,Humanities,Tyler ,Pennock,0,-1.0
-0.0,0.0,Political Science,Sheryl,Lightfoot,0,-1.0
-0.0,0.0,Languages,Anna,Szakaly,0,-1.0
-0.0,0.0,Criminal Justice,Maykal,Bailey,0,-1.0
-0.0,0.0,Classics,Melissande,Tomcik,0,-1.0
-0.0,0.0,Education,Melissa,Hunte,0,-1.0
-0.0,0.0,Humanities,Justin,Morris,0,-1.0
-0.0,0.0,Physical Education,Ira,Jacobs,0,-1.0
-0.0,0.0,Computer Science,Jeremy,Ko,0,-1.0
-0.0,0.0,Physical Education,Michael,Jorgensen,0,-1.0
-0.0,0.0,Art History,Maya,Sanchez,0,-1.0
-0.0,0.0,Education,Jenny,Ge,0,-1.0
-0.0,0.0,Geography,Vittoria,Nimmo,0,-1.0
-0.0,0.0,Engineering,Ya-Huei,Chin,0,-1.0
-0.0,0.0,Law,Robert,Stellick ,0,-1.0
-0.0,0.0,English,Raj ,Soni,0,-1.0
-0.0,0.0,Engineering,Abdullah,Shams,0,-1.0
-0.0,0.0,Art History,Tia,Sager,0,-1.0
-0.0,0.0,Physics,Arun,Paramenkanti,0,-1.0
-0.0,0.0,Political Science,Stefan ,Macleod ,0,-1.0
-0.0,0.0,Languages,Tim,Gadanidis,0,-1.0
-0.0,0.0,Anthropology,Greg,Braun,0,-1.0
-0.0,0.0,Geography,Susan,Ruddick,0,-1.0
-0.0,0.0,Architecture,Nuria,Montblanch,0,-1.0
-0.0,0.0,Marketing,Pranya,Yamin,0,-1.0
-0.0,0.0,Architecture,Anthony,Mattacchione,0,-1.0
-0.0,0.0,Science,Phyllis,Tian,0,-1.0
-0.0,0.0,Writing,Rachel,T.,0,-1.0
-0.0,0.0,Criminal Justice,Promise,Skinner,0,-1.0
-0.0,0.0,"Arts, Culture & Media",Roberta,Buiani,0,-1.0
-0.0,0.0,Economics,Mons,Chan,0,-1.0
-0.0,0.0,Philosophy,Denise,Belsham,0,-1.0
-0.0,0.0,Computer Science,Alexei,Lapouchnian,0,-1.0
-0.0,0.0,Computer Science,Barend,Beekhuizen,0,-1.0
-0.0,0.0,Philosophy,Bryan,Reece,0,-1.0
-0.0,0.0,Psychology,Mariana,Bockarova,0,-1.0
-0.0,0.0,Languages,Markus,Stock,0,-1.0
-0.0,0.0,Political Science,Tuba,Eldem,0,-1.0
-0.0,0.0,Philosophy,Bryan,Reece,0,-1.0
-0.0,0.0,Languages,Markus,Stock,0,-1.0
-0.0,0.0,Fine Arts,Mina,Momeni,0,-1.0
-0.0,0.0,Political Science,Tuba,Eldem,0,-1.0
-0.0,0.0,Religion,Thomas,Reynolds,0,-1.0
-0.0,0.0,Biology,Avi,Chakrabartty,0,-1.0
-0.0,0.0,Literature,Rachel,Seelig,0,-1.0
-0.0,0.0,Political Science,Lee,Fujii,0,-1.0
-0.0,0.0,Business,Robert,Papazian,0,-1.0
-0.0,0.0,Classics,Umit,Durghe,0,-1.0
-0.0,0.0,Business,Mina,Mohammadi ,0,-1.0
-0.0,0.0,Physical Education,Aalaya,Milne,0,-1.0
-0.0,0.0,Computer Science,David,Levin,0,-1.0
-0.0,0.0,History,Dilyara,Agisheva,0,-1.0
-0.0,0.0,Mathematics,Maryam,Khaqan,0,-1.0
-0.0,0.0,Literature,Andrew,Westoll ,0,-1.0
-0.0,0.0,Health Science,Keith,Collaco,0,-1.0
-0.0,0.0,Social Work,Corry,Azzopardi,0,-1.0
-0.0,0.0,Engineering,Dionne,Aleman,0,-1.0
-0.0,0.0,Philosophy,James,John,0,-1.0
-0.0,0.0,Business,Anjana ,Dattani,0,-1.0
-0.0,0.0,Humanities,Melissa,Levin,0,-1.0
-0.0,0.0,Education,Clare,Brett ,0,-1.0
-0.0,0.0,Economics,Taryn,Eadie,0,-1.0
-0.0,0.0,Law,Jacob,Yau,0,-1.0
-0.0,0.0,Mathematics,Xiaocui,Yue,0,-1.0
-0.0,0.0,Biology,Ann,Zhang,0,-1.0
-0.0,0.0,Fine Arts,Sue,Lloyd,0,-1.0
-0.0,0.0,Fine Arts,June,Pak,0,-1.0
-0.0,0.0,"Arts, Culture & Media",Aryen,Hoekstra,0,-1.0
-0.0,0.0,Economics,Mir,Kabir,0,-1.0
-0.0,0.0,Political Science,Moses ,Karanja,0,-1.0
-0.0,0.0,Computer Science,Rewad,Assi,0,-1.0
-0.0,0.0,Engineering,Ali,Bereyhi,0,-1.0
-0.0,0.0,Engineering,Karthik,Ganesan,0,-1.0
-0.0,0.0,Political Science,Maria,Mendez Gutierrez,0,-1.0
-0.0,0.0,Law,brenda ,cossmen,0,-1.0
-0.0,0.0,Criminal Justice,Diego ,Tuesta,0,-1.0
-0.0,0.0,Law,Mohammad,Fadel,0,-1.0
-0.0,0.0,Accounting,Andreas,Chariot,0,-1.0
-0.0,0.0,Mathematics,Mathias,Braun,0,-1.0
-0.0,0.0,Finance,Kevin,Mott,0,-1.0
-0.0,0.0,Physics,Boris,Braverman,0,-1.0
-0.0,0.0,English,Rakesh ,Sengupta ,0,-1.0
-0.0,0.0,Health Science,Jessica,Bytautas,0,-1.0
-0.0,0.0,Pharmacology,Nathanael,Caveney,0,-1.0
-0.0,0.0,"Arts, Culture & Media",Sarah, Jensen,0,-1.0
-0.0,0.0,Health Science,Katherine ,Zagrodney,0,-1.0
-0.0,0.0,English,Carol,Percy,0,-1.0
-0.0,0.0,Economics,Daniel,McGee,0,-1.0
-0.0,0.0,Ethnic Studies,Pushparaj,Acharya,0,-1.0
-0.0,0.0,Film,Aman,Patra,0,-1.0
-0.0,0.0,Management,Paul,Chipperton,0,-1.0
-0.0,0.0,English,John,McGaughey,0,-1.0
-0.0,0.0,Physics,Debra,Wunch,0,-1.0
-0.0,0.0,Mathematics,Israel,Sigal,0,-1.0
-0.0,0.0,Computer Science,Leon,Lee,0,-1.0
-0.0,0.0,Art History,Jessice,Mace,0,-1.0
-0.0,0.0,Computer Science,Siphelele,Danisa,0,-1.0
-0.0,0.0,Business,Jun,Yuan,0,-1.0
-0.0,0.0,Philosophy,Dylan,Shaul,0,-1.0
-0.0,0.0,Information Science,Tegan,Maharaj,0,-1.0
-0.0,0.0,Law,Michael,Karambatos,0,-1.0
-0.0,0.0,Biochemistry,Jonathon,Ditlev,0,-1.0
-0.0,0.0,Mathematics,Fabiola,Cruze Li,0,-1.0
-0.0,0.0,Health Science,Jaimie,Coleman,0,-1.0
-0.0,0.0,Educational Research,Kaixin,Chen,0,-1.0
-0.0,0.0,Mathematics,Dmitriy,Panchenko,0,-1.0
-0.0,0.0,Political Science,Kate,Neville ,0,-1.0
-0.0,0.0,Mathematics,Luis,Nieto-Barajas,0,-1.0
-0.0,0.0,Health Science,Brenda,Mori,0,-1.0
-0.0,0.0,Engineering,Mohamed,Sayed,0,-1.0
-0.0,0.0,Mathematics,Alex,Yang,0,-1.0
-0.0,0.0,Biology,Caroline,Parins-Fukuchi,0,-1.0
-0.0,0.0,Biology,mikko,taipale,0,-1.0
-0.0,0.0,Engineering,Ted,Sargent,0,-1.0
-0.0,0.0,Mathematics,Oliver,Bennett,0,-1.0
-0.0,0.0,History,Vojin,Majstorovic,0,-1.0
-0.0,0.0,Medicine,Benjamin,Goldstein,0,-1.0
-0.0,0.0,Mathematics,Stevo,Todorcevic,0,-1.0
-0.0,0.0,Religion,Sean,Capener,0,-1.0
-0.0,0.0,Computer Science,Mike,Molloy,0,-1.0
-0.0,0.0,Geography,Isabel,Urrutia,0,-1.0
-0.0,0.0,Philosophy,Brian,Embry,0,-1.0
-0.0,0.0,Health Science,Jennifer,Bethell,0,-1.0
-0.0,0.0,Environment,Shashi,Kant,0,-1.0
-0.0,0.0,Psychology,Sylvia,Kemenoff,0,-1.0
-0.0,0.0,Architecture,Brenda,Webster-Tweel,0,-1.0
-0.0,0.0,Not Specified,Jenn,Keelan,0,-1.0
-0.0,0.0,Education,Geoff,Lawrence,0,-1.0
-0.0,0.0,English,Ian,McDougall,0,-1.0
-0.0,0.0,Theater,Ryan ,Olfert,0,-1.0
-0.0,0.0,Classics,Jeff,Masse,0,-1.0
-0.0,0.0,History,Andrey,Gornostaev,0,-1.0
-0.0,0.0,Pharmacology,Jauher,Ahmad,0,-1.0
-0.0,0.0,Information Science,Maher,Elshakankiri,0,-1.0
-0.0,0.0,Philosophy,micheal ,miller ,0,-1.0
-0.0,0.0,Mathematics,Ziheng,Lin,0,-1.0
-0.0,0.0,History,Chris,Johnson,0,-1.0
-0.0,0.0,"Arts, Culture & Media",Sarah ,Jensen,0,-1.0
-0.0,0.0,Biochemistry,Stephanie,Ho,0,-1.0
-0.0,0.0,Physics,Michael,Power,0,-1.0
-0.0,0.0,Mathematics,Austin,Brown,0,-1.0
-0.0,0.0,Physical Education,Sachin,Raina,0,-1.0
-0.0,0.0,Health Science,Leanne,De Souza-Kenney,0,-1.0
-0.0,0.0,Education,Anna ,Chmielewski,0,-1.0
-0.0,0.0,Social Work,Tin,Von,0,-1.0
-0.0,0.0,Engineering,Hisham,Hasanein,0,-1.0
-0.0,0.0,Economics,Jeffrey,Sun,0,-1.0
-0.0,0.0,Architecture,Monica,Hutton,0,-1.0
-0.0,0.0,Mathematics, Jorge,Chapital,0,-1.0
-0.0,0.0,Music,Peter,Johnston,0,-1.0
-0.0,0.0,Social Work,Esme,Fuller-Thomson,0,-1.0
-0.0,0.0,Geology,Melissa ,Anderson ,0,-1.0
-0.0,0.0,Languages,Suzi,Oliveira de Lima,0,-1.0
-0.0,0.0,Philosophy,Shweta,Swarup,0,-1.0
-0.0,0.0,Music,Don,Englert,0,-1.0
-0.0,0.0,Anthropology,Michael,Obie,0,-1.0
-0.0,0.0,Physics,Tahir,Shaaran ,0,-1.0
-0.0,0.0,Psychology,Joanna,Dudek,0,-1.0
-0.0,0.0,Computer Science,Ashton,Anderson,0,-1.0
-0.0,0.0,Education,Grace ,Karram,0,-1.0
-0.0,0.0,Mathematics,Federico,Manganello,0,-1.0
-0.0,0.0,Mathematics,Eric,Hart,0,-1.0
-0.0,0.0,Anthropology,William,Boily,0,-1.0
-0.0,0.0,Information Science,Ferris,Adi,0,-1.0
-0.0,0.0,Film,Nadine,Chan,0,-1.0
-0.0,0.0,Languages,Ana,Ptrov,0,-1.0
-0.0,0.0,Communication,Elaine,Khoo,0,-1.0
-0.0,0.0,Engineering,Kevin,Course,0,-1.0
-0.0,0.0,Accounting,Zifan,Wang,0,-1.0
-0.0,0.0,History,Joseph,Stollenwerk,0,-1.0
-0.0,0.0,Social Work,Natalia,Serenko,0,-1.0
-0.0,0.0,Engineering,Aryan,Rezaei Rad,0,-1.0
-0.0,0.0,Music,Steven,Philcox,0,-1.0
-0.0,0.0,"Arts, Culture & Media",Miguel ,Esteban,0,-1.0
-0.0,0.0,Physical Education,Saro,Fara,0,-1.0
-0.0,0.0,Computer Science,Saeid,Abolfazli,0,-1.0
-0.0,0.0,Political Science, Salar, Asadolahi,0,-1.0
-0.0,0.0,Law,Jennifer,Wooton,0,-1.0
-0.0,0.0,English,Mary,Nyquist,0,-1.0
-0.0,0.0,Economics,William,Wolfson,0,-1.0
-0.0,0.0,Biology,Isabella,Caniggia,0,-1.0
-0.0,0.0,Biology,Tianna,Peller,0,-1.0
-0.0,0.0,Political Science,Lynette ,Ong,0,-1.0
-0.0,0.0,Languages,Merlin,Charles,0,-1.0
-0.0,0.0,English,David,Adkins,0,-1.0
-0.0,0.0,Languages,Enrica,Piccardo,0,-1.0
-0.0,0.0,Computer Science,Fatemeh,Panahi,0,-1.0
-0.0,0.0,Education,Xi,Chen-Bumgardner,0,-1.0
-0.0,0.0,Languages,Michael,Hager,0,-1.0
-0.0,0.0,Computer Science,Amirali,Abari,0,-1.0
-0.0,0.0,Law,Kent,Roach,0,-1.0
-0.0,0.0,Sociology,Rosemary,Gartner,0,-1.0
-0.0,0.0,Ethnic Studies,Pushpa,Acharya,0,-1.0
-0.0,0.0,Accounting,Valerie,Lennox,0,-1.0
-0.0,0.0,Information Science,Max,Dionsio,0,-1.0
-0.0,0.0,Music,David,Briskin,0,-1.0
-0.0,0.0,Engineering,Jon,Norman,0,-1.0
-0.0,0.0,Engineering,Joyce,Poon,0,-1.0
-0.0,0.0,History,Liam,Vanbeek,0,-1.0
-0.0,0.0,Economics,Viktoria,Zezerova,0,-1.0
-0.0,0.0,Languages,Andrew, Byrne,0,-1.0
-0.0,0.0,Environment,Elisa,Privitera,0,-1.0
-0.0,0.0,Biology,Benjamin,Gilbert,0,-1.0
-0.0,0.0,Languages,Veronica ,Curran,0,-1.0
-0.0,0.0,English,Alice,Kim,0,-1.0
-0.0,0.0,English,Carson,Hammond,0,-1.0
-0.0,0.0,Medicine,Andrew,Fraser,0,-1.0
-0.0,0.0,Anthropology,Kayla,Akler,0,-1.0
-0.0,0.0,Accounting,Scott,Douglas,0,-1.0
-0.0,0.0,Classics,Elliott,Fuller,0,-1.0
-0.0,0.0,Medicine,Christie,Lee,0,-1.0
-0.0,0.0,Architecture,Parastoo,Anoushapour,0,-1.0
-0.0,0.0,Sociology,Scott,Schieman,0,-1.0
-0.0,0.0,Pharmacology,Vanessa,Goncalves,0,-1.0
-0.0,0.0,Mathematics,Jorge,Chapital,0,-1.0
-0.0,0.0,Sociology,Prentiss,Dantzler,0,-1.0
-0.0,0.0,Geography,Bronwyn ,Clement ,0,-1.0
-0.0,0.0,Engineering,Luis,Ardilla,0,-1.0
-0.0,0.0,Mathematics,Luciano,Martinez,0,-1.0
-0.0,0.0,Information Science,Justin,Bi,0,-1.0
-0.0,0.0,Information Science,Ebrahim,Bagheri,0,-1.0
-0.0,0.0,Computer Science,Christodoulos,Karavasilis,0,-1.0
-0.0,0.0,Philosophy,Jessie,Hall,0,-1.0
-0.0,0.0,Economics,Shijun,Su,0,-1.0
-0.0,0.0,Public Policy & Administration,Beverley,Essue,0,-1.0
-0.0,0.0,Fine Arts,Angela,Leach,0,-1.0
-0.0,0.0,Philosophy,Yonathan,Fiat,0,-1.0
-0.0,0.0,Physics,Ziqing,Hong,0,-1.0
-0.0,0.0,Engineering,David,Steinman,0,-1.0
-0.0,0.0,Engineering,Azadeh,Yadollahi,0,-1.0
-0.0,0.0,History,Michal,Mlynarz,0,-1.0
-0.0,0.0,Humanities,Sophia,Bello,0,-1.0
-0.0,0.0,Chemistry,Turar,Tanirbergenov,0,-1.0
-0.0,0.0,Religion,Nyasha,Junior,0,-1.0
-0.0,0.0,Management,Jerrard,Gaertner,0,-1.0
-0.0,0.0,Architecture,Richard,Sommer,0,-1.0
-0.0,0.0,Engineering,David,Warnica,0,-1.0
-0.0,0.0,Women's Studies,Pat,Durish,0,-1.0
-0.0,0.0,Finance,Mike,Bigdeli,0,-1.0
-0.0,0.0,Languages,Jing,Wang,0,-1.0
-0.0,0.0,Political Science,Phillip,Lipscy,0,-1.0
-0.0,0.0,Business,Natasha,Kordonska,0,-1.0
-0.0,0.0,Business,David,Vrbanek,0,-1.0
-0.0,0.0,Mathematics,Jessica,Liu,0,-1.0
-0.0,0.0,Information Science,Heather,Sanguins,0,-1.0
-0.0,0.0,Biology,Rosalind,Silverman,0,-1.0
-0.0,0.0,Languages,Alejandro,Perez,0,-1.0
-0.0,0.0,Economics,Joyee,Yang,0,-1.0
-0.0,0.0,Psychology,Grace,Wang,0,-1.0
-0.0,0.0,Economics,Paul,Tyler,0,-1.0
-0.0,0.0,Music,Hamidreza,Salehyar,0,-1.0
-0.0,0.0,Political Science,Blake,Lee-Whiting,0,-1.0
-0.0,0.0,Mathematics,Alexander,Kreinin ,0,-1.0
-0.0,0.0,Mathematics,Clovis,Hamel,0,-1.0
-0.0,0.0,Health Science,Deepika,Chugh,0,-1.0
-0.0,0.0,Political Science,Victor ,Bruzzone ,0,-1.0
-0.0,0.0,Philosophy,Regine,Bohar,0,-1.0
-0.0,0.0,Architecture,Kanwal,Aftab,0,-1.0
-0.0,0.0,Pharmacology,David,Dubins,0,-1.0
-0.0,0.0,Electrical & Computer Engineering,John,Simpson-Porco,0,-1.0
-0.0,0.0,Languages,Pedro ,Pedro,0,-1.0
-0.0,0.0,Biology,David,Evans,0,-1.0
-0.0,0.0,Religion,David,Belfon,0,-1.0
-0.0,0.0,Management,Julian,House,0,-1.0
-0.0,0.0,Political Science,Kimberly,Carter,0,-1.0
-0.0,0.0,Writing,Dennis,Bock,0,-1.0
-0.0,0.0,Psychology,Heidi,Gordon,0,-1.0
-0.0,0.0,Biology,Jill,Melino,0,-1.0
-0.0,0.0,Education,Shaun,Young,0,-1.0
-0.0,0.0,Law,Anita,Anand,0,-1.0
-0.0,0.0,Humanities,Elaine,Gold,0,-1.0
-0.0,0.0,Classics,Anastasia,Zabalueva,0,-1.0
-0.0,0.0,Education,Daphne,Heywood,0,-1.0
-0.0,0.0,Mathematics,Kyle,Thompson,0,-1.0
-0.0,0.0,History,Lawrin,Armstrong,0,-1.0
-0.0,0.0,Engineering,Kim,Vicente,0,-1.0
-0.0,0.0,Biology,Andrews,Brenda,0,-1.0
-0.0,0.0,Information Science,Carli,Fink,0,-1.0
-0.0,0.0,Education,Sigrid,Roman,0,-1.0
-0.0,0.0,Pharmacology,Ian,Greig,0,-1.0
-0.0,0.0,Classics,David,Sutton,0,-1.0
-0.0,0.0,Law,Catherine,Valcke,0,-1.0
-0.0,0.0,Anthropology,nkem,ike,0,-1.0
-0.0,0.0,"Arts, Culture & Media",Georgia,Phillips-Amos,0,-1.0
-0.0,0.0,Business,Jillian,Adams,0,-1.0
-0.0,0.0,Physics,Maria  ,Drout,0,-1.0
-0.0,0.0,Agriculture,James,Quizzo,0,-1.0
-0.0,0.0,Business,Christine,Brown,0,-1.0
-0.0,0.0,Geology,Neil,Bennett,0,-1.0
-0.0,0.0,Humanities,Dilyara ,Agisheva,0,-1.0
-0.0,0.0,Humanities,Kevin,Edmonds,0,-1.0
-0.0,0.0,Humanities,Ninaatig,Staats Pangowish,0,-1.0
-0.0,0.0,English,Randy,Boyagoda,0,-1.0
-0.0,0.0,Business,Chris,Ferguson,0,-1.0
-0.0,0.0,Environment,Micheal,Belanger,0,-1.0
-0.0,0.0,Business,Zeeshan,Khan,0,-1.0
-0.0,0.0,Geology,David,Kynaston,0,-1.0
-0.0,0.0,Engineering,Stephen ,Brown,0,-1.0
-0.0,0.0,Film,æryka,hollis o-neil,0,-1.0
-0.0,0.0,Mathematics,Isabella,Negrini,0,-1.0
-0.0,0.0,Fine Arts,Charles,Stankievech,0,-1.0
-0.0,0.0,Political Science,Patricia,Mocker,0,-1.0
-0.0,0.0,Languages,Ivan,Bondoc,0,-1.0
-0.0,0.0,Economics,Jerry,Zhou,0,-1.0
-0.0,0.0,Writing,Daniel,Tysdal,0,-1.0
-0.0,0.0,Sociology,Tahohtharatye ,Brant,0,-1.0
-0.0,0.0,Science,Kim,Tait,0,-1.0
-0.0,0.0,Psychology,Michael,Best,0,-1.0
-0.0,0.0,English,Valentine ,Baxen,0,-1.0
-0.0,0.0,Geography,Whitney,Bai,0,-1.0
-0.0,0.0,Economics,Daniel,Trefler,0,-1.0
-0.0,0.0,Physics,Stephen,Julian,0,-1.0
-0.0,0.0,Languages,Pedro,Mateo Pedro,0,-1.0
-0.0,0.0,Engineering,Murray,Grabinsky,0,-1.0
-0.0,0.0,Business,Yvonne,O'rilley,0,-1.0
-0.0,0.0,Philosophy,Julia,Smith,0,-1.0
-0.0,0.0,Psychology,Vanessa,Maggisano,0,-1.0
-0.0,0.0,Business,Richard,Picart,0,-1.0
-0.0,0.0,Geography,Gregoire,Benzakin,0,-1.0
-0.0,0.0,History,Anna,Butkiewicz,0,-1.0
-0.0,0.0,Chemistry,Marvin,Morales,0,-1.0
-0.0,0.0,Languages,Maria,Mosco,0,-1.0
-0.0,0.0,Mathematics,Fabiola ,Li,0,-1.0
-0.0,0.0,Humanities,Simone,Davis,0,-1.0
-0.0,0.0,Mathematics,clovis,ascanio,0,-1.0
-0.0,0.0,Science,Mounir,AbouHaidar,0,-1.0
-0.0,0.0,Engineering,Tarek,Abdelrahman,0,-1.0
-0.0,0.0,Engineering,Craig, Steeves,0,-1.0
-0.0,0.0,Physical Education,Janelle,Joseph,0,-1.0
-0.0,0.0,Biology,Neil,Macpherson,0,-1.0
-0.0,0.0,Educational Research,Sajjad,Nejatie,0,-1.0
-0.0,0.0,Health Science,Erjia,Ge,0,-1.0
-0.0,0.0,Science,Zhong-Ping,Feng,0,-1.0
-0.0,0.0,Biology,Ashley,Reynolds,0,-1.0
-0.0,0.0,Science,Micheline,Piquette-Miller,0,-1.0
-0.0,0.0,History,leonid,livak,0,-1.0
-0.0,0.0,Medicine,Marc,Jeschke,0,-1.0
-0.0,0.0,Pharmacology,Micheal ,Saikali,0,-1.0
-0.0,0.0,Educational Research,Sajjad,Nejatie,0,-1.0
-0.0,0.0,Health Science,Erjia,Ge,0,-1.0
-0.0,0.0,Political Science,Lee Ann,Fujii,0,-1.0
-0.0,0.0,Aerospace Studies,Behrad,Vatankhahghadim,0,-1.0
-0.0,0.0,Computer Science,Lisa,Zhang,0,-1.0
-0.0,0.0,Languages,Arta,Sedaghat,0,-1.0
-0.0,0.0,Social Work,Marilyn,Herie,0,-1.0
-0.0,0.0,Humanities,Kevin,Chabot,0,-1.0
-0.0,0.0,Education,Frank,Gong,0,-1.0
+avgDifficulty,avgRating,department,firstName,lastName,numRatings,wouldTakeAgainPercent,id
+1.4,5.0,Religion,Rory,Lindsay,13,100.0,VGVhY2hlci0zMDA3ODM2
+3.6,3.7,Economics,Tyler,Paul,50,65.3061,VGVhY2hlci0yOTg0MTkz
+3.8,3.5,Computer Science,Cho Yin,Yong,8,62.5,VGVhY2hlci0yOTY4ODk3
+3.1,3.0,History,Sara,Verskin,7,42.8571,VGVhY2hlci0yOTc5OTQ1
+3.0,5.0,History,Andrey,Gornostaev,1,100.0,VGVhY2hlci0zMDg4NDc0
+2.5,2.5,Mathematics,Omar,Alshawa,2,0.0,VGVhY2hlci0zMTQwNjY0
+3.5,2.7,Physics,Matthew,Robbins ,111,40.5405,VGVhY2hlci0zMDMyMTc0
+3.2,4.7,Mathematics,Mathilde,Gerbelli-Gauthier,28,96.4286,VGVhY2hlci0zMDUxNDY2
+3.0,1.0,Biology,Micah,Freedman,4,0.0,VGVhY2hlci0zMTM3MTI4
+4.2,2.6,Economics,Kripa,Freitas,217,37.1287,VGVhY2hlci0xODc3MDkz
+1.7,5.0,Political Science,Caleb,Pomeroy,13,100.0,VGVhY2hlci0zMDkyNDY5
+5.0,3.0,Educational Research,Emil,Marmol,2,50.0,VGVhY2hlci0yOTk2NTM1
+3.6,3.2,Anthropology,Robert,Mason,5,60.0,VGVhY2hlci0yOTMwMDA1
+1.5,4.5,Humanities,lisa,cruikshank ,2,100.0,VGVhY2hlci0zMDgzNTQ1
+4.5,1.3,Psychology,Odilia,Yim,36,5.5556,VGVhY2hlci0yODk2Mjg2
+2.2,4.9,Psychology,Hayley,Liebenow,15,100.0,VGVhY2hlci0zMDcxNTg0
+1.9,5.0,Biology,Haley,Zubyk,9,100.0,VGVhY2hlci0zMDkwNDI1
+4.0,3.3,Mathematics,Tamara,Hogan,4,50.0,VGVhY2hlci0zMTQ2ODA5
+2.1,5.0,Sociology,Mitchell,Mclvor ,37,100.0,VGVhY2hlci0yODcwMDQ1
+4.0,2.3,Philosophy,Karina,Vold,3,33.3333,VGVhY2hlci0yODAyMDQy
+2.0,4.8,Sociology,Mitchell,McIvor,32,96.875,VGVhY2hlci0yNzgwMzMx
+4.4,1.7,Biology,Alexandra,Malinowski,17,5.8824,VGVhY2hlci0zMTIxMTQx
+3.4,1.1,Fine Arts,Sarah,Robayo Sheridan,14,0.0,VGVhY2hlci0zMTI0MTY3
+2.8,4.7,Computer Science,Harry,Sha,10,90.0,VGVhY2hlci0yOTIxMTIw
+3.7,4.7,Biology,Anhadvir,Anhadvir Singh,3,100.0,VGVhY2hlci0zMTMwMDIz
+3.0,5.0,Science,Mark,Miller,2,100.0,VGVhY2hlci0zMTE3NDU1
+3.5,3.5,Political Science,Andrew ,Sabl,2,100.0,VGVhY2hlci0zMDI4NjM3
+0.0,0.0,Classics,Anastasia,Zabalueva,0,-1.0,VGVhY2hlci0zMTU3MDQw
+2.7,5.0,Chemistry,Kylie,Luska,33,100.0,VGVhY2hlci0zMDIyODQ1
+3.0,2.5,Sociology,Jennifer,Peruniak,4,50.0,VGVhY2hlci0zMDEzMTA1
+3.0,1.0,Engineering,Aryan,Rezaei Rad,1,0.0,VGVhY2hlci0yOTY4Mzc3
+3.0,2.0,Mathematics,Friedemann ,Krannich,1,0.0,VGVhY2hlci0zMTU5Mzk0
+4.0,5.0,English,Jeff,Noh,1,100.0,VGVhY2hlci0zMTU5Njcw
+3.7,2.0,Science,Ashlee,Brunt,3,33.3333,VGVhY2hlci0yOTY5MTI1
+5.0,1.0,Mathematics,Eric,Hart,1,0.0,VGVhY2hlci0zMTEzNjc5
+2.8,3.1,Architecture,Paul,Harrison,8,50.0,VGVhY2hlci0yOTIwNDA5
+2.7,3.7,Biology,Tianna,Peller,3,66.6667,VGVhY2hlci0zMTU3ODY4
+3.5,2.0,Political Science,Irene,Poetranto,90,25.5556,VGVhY2hlci0zMDczNDcw
+3.9,2.6,Engineering,Mark,Jeffrey,10,40.0,VGVhY2hlci0yOTM2NzA4
+3.0,5.0,Electrical & Computer Engineering,John,Simpson-Porco,1,100.0,VGVhY2hlci0yODcxMDYx
+4.3,2.0,Mathematics,Ignacio,Uriarte-Tuero,4,25.0,VGVhY2hlci0yODExNTMx
+3.5,1.4,English,Deidre,Flynn,12,0.0,VGVhY2hlci0zMTIwMTI3
+1.4,5.0,Languages,Abdelhalim , Elamroussy,7,100.0,VGVhY2hlci0zMDI0NjUy
+2.9,3.5,Anthropology,Omer,Ozcan,13,69.2308,VGVhY2hlci0yODQ3ODY3
+3.7,3.1,Biochemistry,Jason,De Melo,12,50.0,VGVhY2hlci0zMDU2NzA0
+4.4,2.0,Sociology,Moutaa, El Waer,8,12.5,VGVhY2hlci0zMDY4MzEx
+3.0,2.5,Physical Education,Madeleine, Orr,2,0.0,VGVhY2hlci0zMDA4MDYw
+0.0,0.0,Physics,Valentin,Crepel,0,-1.0,VGVhY2hlci0zMTU5Mzc5
+2.7,4.5,Environment,Mark,Hathaway,34,81.25,VGVhY2hlci0xNzk5Mzkw
+3.4,3.2,Mathematics,Tianhao,Xian,22,45.4545,VGVhY2hlci0zMDQxMDY2
+2.3,4.3,Literature,Erol,Boran,16,87.5,VGVhY2hlci0xNjQyNjE1
+4.0,1.0,Physics,Xiang,Li,7,0.0,VGVhY2hlci0yOTg4Mzg4
+3.3,2.7,Philosophy,Eamon,Darnell,51,41.1765,VGVhY2hlci0yNjIzOTMx
+2.3,5.0,Political Science,Victor,Falkenheim,35,100.0,VGVhY2hlci0yNjQ1ODUw
+3.4,4.6,Political Science,David,Zarnett,9,88.8889,VGVhY2hlci0zMDcwODg3
+3.5,4.4,Psychology,Moaz,Shoura,23,73.913,VGVhY2hlci0zMDIyMzU4
+2.6,3.6,Psychology,Carleigh,Pace-Tonna,32,62.5,VGVhY2hlci0zMTI5NDEx
+2.3,4.9,Chemistry,Aya,Sakaya,27,100.0,VGVhY2hlci0zMDMzOTE3
+3.6,4.2,Mathematics,Ali,Feizmohammadi,22,77.2727,VGVhY2hlci0yMjI3ODEy
+4.3,1.3,Chemistry,Amanda,Hargrove,21,4.7619,VGVhY2hlci0zMDg0MjMx
+2.7,4.2,Biology,Luke,Mahler,20,80.0,VGVhY2hlci0zMDQzMjY4
+3.1,3.1,Mathematics,Sabrina,Lin,13,46.1538,VGVhY2hlci0zMTE2NDc2
+3.0,5.0,Computer Science,Niv,Dayan,9,100.0,VGVhY2hlci0yOTE0OTEw
+2.7,4.9,Chemistry,Jessica,D'eon,7,100.0,VGVhY2hlci0zMDY2MzM1
+3.2,3.8,Biology,Megan,Frederickson,6,100.0,VGVhY2hlci0zMTI4ODk1
+2.8,3.8,Chemistry,Mark,Wilson,4,50.0,VGVhY2hlci0zMTMwMzI5
+4.5,5.0,Mathematics,Elden,Elmanto,2,100.0,VGVhY2hlci0zMTUzNjY3
+4.0,2.5,Sociology,Simeon,Newman,2,50.0,VGVhY2hlci0zMDcyNjMw
+3.1,4.3,Mathematics,Shuyang ,Shen,15,80.0,VGVhY2hlci0yOTUyMzg3
+2.6,4.0,Architecture,Hadi ,El-Shayeb,11,72.7273,VGVhY2hlci0yOTUwNTUy
+2.0,4.8,Humanities,Jennifer,Ross,5,100.0,VGVhY2hlci0yOTY3MDgx
+3.7,3.7,Social Work,Amar,Ghelani,3,66.6667,VGVhY2hlci0zMDQzMjEw
+2.6,2.0,Theater,Douglas,Eacho,5,20.0,VGVhY2hlci0zMDQ0NDEw
+3.5,1.8,Political Science,Daniel,Rubenson,4,0.0,VGVhY2hlci0zMTU2NjE5
+4.0,1.0,Law,Galit,Sarfaty,2,0.0,VGVhY2hlci0zMTI5Njc4
+3.0,1.0,Chemistry,Marvin,Morales,1,0.0,VGVhY2hlci0yOTg0MTU3
+3.2,3.2,Humanities,Samuel,Akinbo,9,55.5556,VGVhY2hlci0yOTg5MDEy
+3.0,4.0,Political Science,Lynette ,Ong,1,100.0,VGVhY2hlci0zMTI4Njgy
+3.3,3.7,History,Chandra,Murdoch,7,42.8571,VGVhY2hlci0yODczMDA0
+3.3,4.3,Economics,Fern,Ramoutar,6,83.3333,VGVhY2hlci0zMTMyMzU0
+3.0,5.0,Environment,Kayleigh,Swanson,4,100.0,VGVhY2hlci0zMTU1OTY2
+4.0,1.0,Mathematics,Shahaboddin,Shaabani,2,0.0,VGVhY2hlci0zMTIxNzc5
+3.0,4.0,Political Science,William,O'Connell ,2,100.0,VGVhY2hlci0yOTIzOTA2
+4.5,1.5,Criminal Justice,Angela,Medina,38,15.7895,VGVhY2hlci0zMTE3MTg4
+3.0,5.0,Physical Education,Marcelle,Kitengie,4,100.0,VGVhY2hlci0zMTUwNTA5
+3.0,5.0,Anthropology,Shawn ,Lehman ,1,100.0,VGVhY2hlci0zMTUxMzc3
+3.4,3.8,Mathematics,Gracia,Dong,23,73.913,VGVhY2hlci0zMDIyNDY3
+2.5,4.9,Computer Science,Paul,Gries,10,100.0,VGVhY2hlci0xNzU4MzQ0
+3.9,4.3,Mathematics,Benjamin,Landon,10,70.0,VGVhY2hlci0yOTkxOTc0
+3.0,3.0,Women's Studies,Loree,Erickson,2,50.0,VGVhY2hlci0zMTUzNTYy
+3.0,1.0,Music,Darren,Hamilton,1,0.0,VGVhY2hlci0zMTMwMzQ2
+2.2,2.7,Engineering,Chen,Ying,18,33.3333,VGVhY2hlci0zMDgyMzEz
+3.1,4.5,Psychology,Melanie,Mascarenhas,17,94.1176,VGVhY2hlci0zMDQ4MzMw
+1.5,4.8,Art History,Samantha,Chang,6,100.0,VGVhY2hlci0yODQ4NjM4
+2.0,5.0,History,James,Toma,1,100.0,VGVhY2hlci0zMTU0ODQy
+3.0,4.0,Physics,Nicolas,Grisouard,27,77.7778,VGVhY2hlci0yOTI0Mjg0
+2.4,4.9,History,Jonathan ,Bayer,14,100.0,VGVhY2hlci0yOTkxNzY2
+4.0,3.7,Psychology,Mia,Radovanovic,9,77.7778,VGVhY2hlci0yOTY2ODk5
+3.0,3.8,Women's Studies,Barbara,Ferguson,6,83.3333,VGVhY2hlci0yOTE3NTU1
+1.8,5.0,Mathematics,Yongquan (George),Huang,5,100.0,VGVhY2hlci0zMTE4OTI2
+3.9,2.1,Geography,Serene,Tan,7,28.5714,VGVhY2hlci0yNDUzNTE4
+3.4,5.0,History,Jennifer,DeSilva,5,100.0,VGVhY2hlci0zMDUxMzE4
+3.7,3.7,Psychology,Patricia,Sanchez,3,66.6667,VGVhY2hlci0zMDgzMDQ5
+2.5,2.5,Religion,Ronald,Charles,2,50.0,VGVhY2hlci0yODQ5Mjg5
+2.0,5.0,Philosophy,Gwen,Bradford,2,100.0,VGVhY2hlci0zMTIzNDA1
+1.0,5.0,Classics,Jacob,Dvorak,1,100.0,VGVhY2hlci0yOTcwMjk2
+3.0,1.0,Humanities,Grant,Wiedenfeld,1,0.0,VGVhY2hlci0zMTM1MTEy
+4.2,2.2,Mathematics,Bernardo,Galvao-Sousa,165,22.6027,VGVhY2hlci0xMTg3Njk3
+2.8,4.4,Mathematics,Kyle ,Bower,19,89.4737,VGVhY2hlci0zMTE3Nzk5
+4.4,2.4,Political Science,Joseph,Dattilo ,15,40.0,VGVhY2hlci0yOTQ2MTQ1
+2.0,3.8,History,Vanessa,McCarthy,4,75.0,VGVhY2hlci0zMDY4MzM2
+2.3,5.0,Languages,Valeria,Cruz,3,100.0,VGVhY2hlci0zMDc3ODY3
+4.0,3.0,Design,Noel,Brett,2,50.0,VGVhY2hlci0zMTIzNTg5
+3.0,4.0,Mathematics,Yi,Shan,1,100.0,VGVhY2hlci0zMTUxMTY4
+2.5,4.6,Marketing,sheri,allain,20,90.0,VGVhY2hlci0yOTUzMTE5
+2.9,4.7,Mathematics,Fabian,Parsch,24,91.6667,VGVhY2hlci0yMzU0NjQ0
+3.2,2.9,History,Constance,de Font-Reaulx,11,54.5455,VGVhY2hlci0zMDU0NjY5
+1.5,4.0,Mathematics,Aleksandr,Popkovich,2,100.0,VGVhY2hlci0zMTI5Mjk1
+3.7,2.8,Mathematics,Afiny ,Akdemir,22,50.0,VGVhY2hlci0yOTIzMzkx
+2.4,4.8,Computer Science,Paul,He,15,100.0,VGVhY2hlci0zMDM2Nzc2
+3.4,3.3,Psychology,Ashley,Waggoner Denton,12,58.3333,VGVhY2hlci0zMTA5NzIx
+4.4,1.3,Languages,Susanna,Bejar ,9,0.0,VGVhY2hlci0zMTIyNTU2
+3.3,3.0,Psychology,Hannah,Gans,61,57.377,VGVhY2hlci0zMDMwOTI0
+3.6,2.9,Mathematics,Wenyu ,Pan ,9,33.3333,VGVhY2hlci0yOTQ0NjEy
+4.0,2.6,Art History,Stephanie,Azzarello,7,28.5714,VGVhY2hlci0zMTU1NzQz
+4.8,1.0,Environment,Donna,Schatz ,6,0.0,VGVhY2hlci0zMDgzNzUz
+2.0,5.0,Political Science,Tommaso ,Pavone,6,100.0,VGVhY2hlci0yOTY2MDcw
+1.5,3.0,Computer Science,Samarendra,Dash,2,50.0,VGVhY2hlci0zMTEzMDgy
+3.5,3.0,Law,Yukiko,Kobayashi Lui,2,50.0,VGVhY2hlci0yOTQ2Njg1
+2.0,5.0,Pacific & Asian Studies,Larissa ,Lai,1,100.0,VGVhY2hlci0zMTM0NDcx
+2.4,1.7,Psychology,Joseph,Williams,23,13.0435,VGVhY2hlci0yNjgwMTM1
+4.3,1.7,Economics,Loren,Brandt,18,27.7778,VGVhY2hlci0yOTUzMzg5
+2.7,5.0,Humanities,Maria,Cichosz,9,100.0,VGVhY2hlci0yODU4Mzc0
+3.4,4.2,Philosophy,Paul,Gooch,9,77.7778,VGVhY2hlci0yOTYzNjk0
+3.1,4.8,Mathematics,Jorge,Cruz Chapital,8,100.0,VGVhY2hlci0zMDg4NzQ1
+3.0,3.5,Physics,Tahir,Sharaan,8,62.5,VGVhY2hlci0zMTA1MzAz
+3.0,2.9,Geography,Ignacio ,Aitken ,7,42.8571,VGVhY2hlci0zMDY2ODA3
+2.8,4.2,Anthropology,Shirley,Yeung,6,66.6667,VGVhY2hlci0yOTAxNTU1
+4.0,2.0,Biology,Samuel,Delage,1,0.0,VGVhY2hlci0zMTU2NTUx
+2.1,4.2,Biology,Naijin,Li,14,78.5714,VGVhY2hlci0yOTEzMDU3
+3.3,3.3,Sociology,Joanna,Pepin,11,45.4545,VGVhY2hlci0yOTkwNDEy
+3.5,2.3,History,Andres,Kasekamp,8,25.0,VGVhY2hlci0yOTE0ODgw
+2.5,2.3,Environment,Velez-Villegas,Juan-Manuel,6,33.3333,VGVhY2hlci0zMTE1NDIy
+3.2,3.2,Classics,Katerina,Apokatanidis,5,60.0,VGVhY2hlci0zMTA4NjI1
+4.2,1.7,Languages,Daniel,Milway,20,15.0,VGVhY2hlci0yNDkwMzQy
+1.8,4.5,Political Science,Patricia,Mockler,10,88.8889,VGVhY2hlci0zMDkyNDgx
+3.8,4.3,Geography,Caitlin,Cunningham,4,75.0,VGVhY2hlci0zMDM3Njkz
+4.5,1.2,Computer Science,Akshay,Bapat,17,5.8824,VGVhY2hlci0yOTMxNTY1
+2.0,3.8,Journalism,Shawn,Micallef,11,72.7273,VGVhY2hlci0yMjcxMDUy
+3.1,4.6,English,Barbara,Simões,10,90.0,VGVhY2hlci0yOTYwNDc5
+2.8,5.0,Mathematics,Shuofeng,Xu,9,100.0,VGVhY2hlci0yOTE1OTcx
+4.0,1.0,Information Science,Vera ,Khovanskaya,1,0.0,VGVhY2hlci0zMTU2NTAy
+2.9,4.9,Chemistry,Sophie,Rousseaux,23,100.0,VGVhY2hlci0yMjE3MTQ1
+2.7,4.9,Psychology,Debanjan ,Borthakur,19,100.0,VGVhY2hlci0zMDQ4Nzg5
+2.7,5.0,Sociology,Fabio,Robibaro,13,100.0,VGVhY2hlci0zMTE3MjQ1
+4.7,1.1,Art History,Pierre,Marty,13,0.0,VGVhY2hlci0zMTI4MzM5
+2.5,5.0,Women's Studies,Frances,O'Shaughnessy,4,100.0,VGVhY2hlci0zMTA3MDI4
+4.0,4.5,Computer Science,David,Lindell,4,100.0,VGVhY2hlci0yOTc4ODAy
+2.8,4.0,Business,Dror,Shvadron,4,75.0,VGVhY2hlci0zMDgzODE2
+4.5,4.0,Mathematics,Aidan,Lindberg,2,50.0,VGVhY2hlci0zMTUwODQw
+3.0,5.0,Information Science,Bruno Rafael,Vera de Morais e Silva,2,100.0,VGVhY2hlci0zMTQ5Mjkz
+3.0,3.0,Mathematics,Fabio,Pusateri,2,50.0,VGVhY2hlci0zMDg3Nzk1
+4.5,1.0,Languages,Manuel,Ramirez,2,0.0,VGVhY2hlci0zMTU2NDI3
+3.0,5.0,History,safia,aidid ,1,100.0,VGVhY2hlci0zMDgwMDQ1
+3.8,3.7,Geology,Tasca,Santimano,25,64.0,VGVhY2hlci0yNTgzMzQ5
+3.6,3.6,Physics,Sergio,Barrera,5,40.0,VGVhY2hlci0zMTE4NDg4
+4.5,2.5,Mathematics,Christopher, Blier-wong,4,25.0,VGVhY2hlci0zMTUxMjE4
+4.0,1.5,Sociology,Yoonkyung,Lee,2,0.0,VGVhY2hlci0zMDgwMzY5
+2.3,4.2,Engineering,Yulun,Xu,33,78.7879,VGVhY2hlci0zMTE4MjM0
+3.8,1.3,History,Simeon ,Newman,30,10.0,VGVhY2hlci0zMDgwMzY4
+3.7,4.7,Psychology,Carolyn,Guay,12,91.6667,VGVhY2hlci0yOTI1NzI2
+4.0,1.0,Criminal Justice,Muhammad,Muhammad Asif,8,0.0,VGVhY2hlci0zMTIyODE1
+3.0,3.7,History,Letizia,Tesi,3,66.6667,VGVhY2hlci0zMDg2NzIx
+4.1,1.9,Mathematics,Gael,Diebou,32,25.0,VGVhY2hlci0zMDE5NDAw
+2.8,3.8,Biology,Jessica,Hill,18,72.2222,VGVhY2hlci0yMjI3MTAw
+2.1,4.7,Mathematics,Dimitrios,Karslidis,14,100.0,VGVhY2hlci0zMDY1Njgy
+3.3,3.8,Mathematics,Kirill,Kashkan ,6,66.6667,VGVhY2hlci0zMDcxMDcy
+2.0,5.0,English,Lee,Emrich,2,100.0,VGVhY2hlci0zMDc5MTky
+2.7,4.2,Languages,Marcin,Janczak,6,66.6667,VGVhY2hlci0yOTMzNjc2
+2.6,4.8,Economics,Kathleen,Dobson,5,100.0,VGVhY2hlci0zMTAxNzI5
+3.4,2.4,Physical Education,Timothy ,Burkhart ,5,60.0,VGVhY2hlci0zMDA1NzUz
+2.5,5.0,Computer Science,Anwar,Hithnawi,2,100.0,VGVhY2hlci0zMTQ3Njkz
+4.0,5.0,Geography,Kevin,Roy,1,100.0,VGVhY2hlci0zMTM0NDE2
+4.5,1.0,Communication,Hugh ,O'Neill,4,0.0,VGVhY2hlci0zMTI0MzIz
+2.6,4.2,Political Science,Elizabeth,McCallion,11,100.0,VGVhY2hlci0yOTc4MDQ2
+4.1,3.8,Public Policy & Administration,Brian,Rathbun,8,75.0,VGVhY2hlci0zMTE5MzU1
+4.0,4.0,Art History,Philip,Sapirstein,3,66.6667,VGVhY2hlci0yOTAwMjk5
+2.5,5.0,Sociology,Momo,Tanaka,2,100.0,VGVhY2hlci0zMTI5MjE4
+5.0,5.0,Languages,Juan Carlos,Rocha Osornio,1,100.0,VGVhY2hlci0zMTQ1NzYz
+1.3,5.0,Languages,Anaisa,Silva Gordino,3,100.0,VGVhY2hlci0zMTI2MTM1
+1.0,5.0,Economics,Zi Yang,Kang,1,100.0,VGVhY2hlci0zMTU1NDA5
+3.3,5.0,Religion,Parnia,Vafaeikia,4,100.0,VGVhY2hlci0yOTE2MTcw
+2.7,5.0,Mathematics,Ila,Varma,3,100.0,VGVhY2hlci0zMDY4OTIx
+4.0,2.9,Medicine,Paulo,Koeberle,12,41.6667,VGVhY2hlci0yNTY0MTE4
+4.8,1.0,History,Noa,Yaari,4,0.0,VGVhY2hlci0yOTM0MzEz
+2.2,4.6,Philosophy,Alexandra,Gustafson,16,81.25,VGVhY2hlci0yNTMwOTYx
+2.7,5.0,Engineering,Eldan,Cohen,3,100.0,VGVhY2hlci0yOTc3NTQ3
+4.0,5.0,Mathematics,Shay,Fuchs,2,50.0,VGVhY2hlci0yMzU2OTE3
+2.0,3.0,Philosophy,Andrew,Lavigne ,1,100.0,VGVhY2hlci0zMTM1OTU3
+4.2,2.4,Economics,Mark,Rempel,5,40.0,VGVhY2hlci0yOTU5ODMz
+2.8,4.0,Computer Science,Ali,Rahbar,4,75.0,VGVhY2hlci0zMDU2NzE3
+4.0,4.0,Geography,Aedan ,Alderson,1,100.0,VGVhY2hlci0zMTE2ODEz
+2.1,5.0,Biology,Derek,Ng,8,100.0,VGVhY2hlci0yNDUwNDEy
+3.7,4.0,Mathematics,Shubhangi,Saraf,3,66.6667,VGVhY2hlci0yODUzNDQ5
+2.0,5.0,Biology,Megan,Bontrager ,1,100.0,VGVhY2hlci0zMDcxMDU3
+3.0,4.0,Physics,Manmeet,Singh,1,100.0,VGVhY2hlci0zMTU0Nzc0
+3.8,2.1,Architecture,Stephen,Verderber,10,30.0,VGVhY2hlci0yNjI3MDEx
+4.0,1.0,Mathematics,Jnaneshwar, Baslinker,2,0.0,VGVhY2hlci0zMTE4MDc3
+2.3,4.8,Computer Science,Joonho,Kim,13,100.0,VGVhY2hlci0yOTc5Njg4
+1.5,4.2,Languages,Salvador,Alanis,6,83.3333,VGVhY2hlci0zMDQxNjI4
+3.0,1.0,Health Science,Jodeme,Goldhar ,1,0.0,VGVhY2hlci0yODgyODQy
+3.4,2.7,Architecture,Eric,Nay,7,42.8571,VGVhY2hlci0zMDc3MDE0
+3.2,4.7,Mathematics,Geoffrey,McGregor,16,93.75,VGVhY2hlci0yOTU2NjIy
+2.4,4.2,Humanities,Oren,Siegel,10,80.0,VGVhY2hlci0yOTQxNzU2
+3.9,1.8,Physical Education,Darren,Lowe,14,14.2857,VGVhY2hlci0yODUyMjcw
+3.1,3.8,Environment,Keith,Stewart,8,50.0,VGVhY2hlci0xOTAyOTYx
+4.0,1.8,Sociology,Stacy,Reardon,6,16.6667,VGVhY2hlci0yOTkyNTQ3
+4.0,1.3,Biology,Leanne,De Souza-Kenney,11,0.0,VGVhY2hlci0yOTgxNDI5
+3.7,2.7,Political Science,Eric ,Merkley,6,50.0,VGVhY2hlci0yOTY2MDY5
+3.0,4.0,Mathematics,Obinna ,Idu,3,66.6667,VGVhY2hlci0zMDk1NjQ1
+3.0,5.0,Music,Ellen,Lockhart,1,100.0,VGVhY2hlci0yOTU3OTQ2
+2.4,4.0,"Arts, Culture & Media",Naveen,Minai,9,66.6667,VGVhY2hlci0yOTI0NDUy
+3.1,3.4,Environment,EvelynLove,Fosu-Duah,21,61.9048,VGVhY2hlci0zMTA2OTk4
+4.0,4.0,Public Policy & Administration,Darius,Ornston,3,100.0,VGVhY2hlci0zMTQ0OTQx
+3.3,4.4,Engineering,Chirag,Variawa,15,86.6667,VGVhY2hlci0yNDUyNTUz
+3.3,1.9,Biology,Amber,Hoi,8,0.0,VGVhY2hlci0zMDIxMjY0
+1.5,5.0,History,Shibi,Kumaraperumal,2,100.0,VGVhY2hlci0zMTA4ODI2
+3.0,5.0,Mathematics,George,Huang,1,100.0,VGVhY2hlci0zMTI1MDkx
+3.3,4.2,Biology,Melody,Neumann,10,80.0,VGVhY2hlci0yMTc2MTI4
+2.8,4.2,Women & Gender Studies,Wafaa,Hasan,5,80.0,VGVhY2hlci0yODIxNDE2
+1.0,5.0,Art History,Maya,Harakawa,1,100.0,VGVhY2hlci0zMTQ3MjA5
+3.0,3.0,Religion,Allison,Murphy,1,100.0,VGVhY2hlci0yODIyMjI4
+3.0,3.8,Engineering,Michael,Guerzhoy,57,64.8148,VGVhY2hlci0yMDUxNzM1
+2.3,5.0,Engineering,Mohammad,Haghighi,7,100.0,VGVhY2hlci0zMDU4Mzg1
+2.7,5.0,Philosophy,Eric,Mathison,3,100.0,VGVhY2hlci0zMDgwMTQw
+3.3,4.0,Computer Science,Carolina,Nobre,3,66.6667,VGVhY2hlci0zMDEzNTYy
+3.6,3.1,International Studies,Madison,Schramm,14,42.8571,VGVhY2hlci0yODg5NDY3
+4.6,1.3,Biology,Karen,Williams,7,0.0,VGVhY2hlci0yOTI5NjYw
+3.0,3.8,Health Science,Cyndriela,Chadambuka,4,75.0,VGVhY2hlci0zMDY1MTU0
+1.6,5.0,Philosophy,Nikolija,Lukich,5,100.0,VGVhY2hlci0zMDgxODY3
+1.7,4.7,Geography,Killian,McCormack,3,100.0,VGVhY2hlci0yOTM2MzY2
+3.1,4.6,History,Alan,Verskin,7,85.7143,VGVhY2hlci0zMDIxODcy
+1.7,4.8,Film,Alberto,Zambenedetti,6,100.0,VGVhY2hlci0yMjM3MDQw
+2.8,5.0,"Arts, Culture & Media",Xianwei,Wu,6,100.0,VGVhY2hlci0yODU1NzA3
+3.0,3.8,Engineering,Jay ,Werber,5,80.0,VGVhY2hlci0yODcwMTM2
+2.0,5.0,History,Alex ,Pelegrino,4,100.0,VGVhY2hlci0zMDQ5NzA0
+2.7,5.0,Philosophy,David,Rattray ,3,100.0,VGVhY2hlci0yOTI1MzQ4
+2.9,4.5,Mathematics,Denis,Gorodkov,34,88.2353,VGVhY2hlci0yODc1NjE1
+5.0,1.0,Art History,rhiannon ,vogl,2,0.0,VGVhY2hlci0zMDEzMjQ5
+2.8,4.6,Languages,Paul,Bessler,12,88.8889,VGVhY2hlci0xNzgzMDAw
+4.2,1.8,Social Work,Bejan,Raluca,11,9.0909,VGVhY2hlci0yMjEyMjUx
+2.8,4.2,Literature,Leanne,Simpson,5,60.0,VGVhY2hlci0zMDg2MDY2
+2.3,4.3,English,Jim,Hansen,3,100.0,VGVhY2hlci0zMTA4NjE4
+3.0,5.0,Computer Science,Xujie,Si,1,100.0,VGVhY2hlci0yOTkxNjg1
+2.1,5.0,Architecture,Phat,Le,8,100.0,VGVhY2hlci0yODczNjg0
+3.4,2.8,History,Joshua,Picard,5,40.0,VGVhY2hlci0zMDgxNTY2
+3.0,3.0,Languages,Elizabeth ,Lange ,2,50.0,VGVhY2hlci0zMDE5NjY2
+3.3,3.4,Engineering,Stephen,Armstrong,15,57.1429,VGVhY2hlci0xODc4MjY4
+3.8,4.4,Sociology,Rui,Hou,5,80.0,VGVhY2hlci0yODg4NDcz
+4.5,2.5,Languages,Marie-Thérèse,Ballin,2,50.0,VGVhY2hlci0yODc4MjUx
+4.0,4.0,English,Sebastian,Sobecki,1,100.0,VGVhY2hlci0zMDg2NDA0
+3.0,2.0,English,Crystal,Chen,1,0.0,VGVhY2hlci0zMTI2NTA0
+3.2,4.3,Computer Science,Randy,Hickey,6,83.3333,VGVhY2hlci0yOTE0MDQy
+4.0,3.5,English,Katherine,Williams,2,50.0,VGVhY2hlci0zMDc0NzY3
+3.0,5.0,Mathematics,Jorge,Antonio Cruz Chapital,1,100.0,VGVhY2hlci0zMDg1NDk2
+5.0,1.0,Biology,Julie ,Brill,2,0.0,VGVhY2hlci0zMTI4MTE4
+2.8,5.0,Mathematics,Simone,Coccia,5,100.0,VGVhY2hlci0zMDQxMDcz
+2.3,5.0,Philosophy,Brookes,Brown,3,100.0,VGVhY2hlci0yOTY1MzM1
+3.5,3.5,Philosophy,Mark,Kingwell,2,50.0,VGVhY2hlci0zMDI2NjMz
+3.5,5.0,Mathematics,Yitong,Wang,2,100.0,VGVhY2hlci0zMTA4NzQw
+0.0,0.0,Law,Angela,Medina,0,-1.0,VGVhY2hlci0zMTE3ODA0
+3.6,4.2,Philosophy,Brian,Bitar,5,80.0,VGVhY2hlci0yODg1ODg3
+2.7,5.0,Computer Science,Bryan,De Bourbon,3,100.0,VGVhY2hlci0xODQ0NzAw
+1.0,5.0,"Arts, Culture & Media",Kate,Cornell,1,100.0,VGVhY2hlci0zMTI4MjAz
+5.0,1.0,Management,Opher,Baron,2,0.0,VGVhY2hlci0yODE0NDE3
+2.7,2.6,Architecture,Michael,Piper,9,44.4444,VGVhY2hlci0yMTM5OTQ4
+2.4,4.8,Languages,Sebastien,Sacre,5,100.0,VGVhY2hlci0zMDY5OTMz
+2.0,3.5,Engineering,Trevor,Carey,2,50.0,VGVhY2hlci0zMDg5Mjc1
+2.9,4.7,Psychology,Mark,Miller,13,92.3077,VGVhY2hlci0zMDIxNjk2
+2.9,4.7,History,Hosam,Helal,13,92.3077,VGVhY2hlci0zMDg0OTM2
+3.6,3.6,Finance,Chay,Ornthanalai,5,40.0,VGVhY2hlci0yOTgzOTMw
+3.0,2.0,Business,Becky,Reuber,1,0.0,VGVhY2hlci0zMDI4NzQ5
+2.8,1.6,History,Amy,Wesselink,5,20.0,VGVhY2hlci0zMTE2NjQ0
+4.0,5.0,Philosophy,Jessica,Gelber,1,100.0,VGVhY2hlci0zMDkyNDMx
+2.2,5.0,Mathematics,Aaron,Tronsgard,9,100.0,VGVhY2hlci0yOTU1MzY4
+3.5,3.0,Geology,Andrei,Swidinsky,2,0.0,VGVhY2hlci0yOTk4NjI4
+1.0,1.0,Engineering,Steve,Treiber,1,0.0,VGVhY2hlci0yOTMwNzgy
+2.4,5.0,Art History,Ivana,Dizdar,5,100.0,VGVhY2hlci0yOTkwMDI2
+5.0,1.7,Science,Denise,Belsham,3,0.0,VGVhY2hlci0yOTg5Mzg2
+3.5,3.3,Economics,Terry,Yip,12,66.6667,VGVhY2hlci0zMDAxNTYy
+3.9,1.3,Finance,Nishreena ,Nisham ,14,0.0,VGVhY2hlci0yOTg0MDg2
+3.9,2.2,Biology,Carin,Wittnich,11,18.1818,VGVhY2hlci0yMjc3ODYw
+2.1,4.5,Sociology,Yukiko,Tanaka,38,84.2105,VGVhY2hlci0yNjA1MzMw
+2.7,5.0,Mathematics,Tonatiuh,Wiederhold,3,100.0,VGVhY2hlci0zMDI1NTEx
+3.4,2.0,English,Comfort,Azubuko-Udah,8,12.5,VGVhY2hlci0yOTI5MTEz
+3.0,5.0,Social Science,Moses,Karanja ,1,100.0,VGVhY2hlci0zMDI5NjU3
+4.1,2.9,Economics,Kuan,Xu,18,33.3333,VGVhY2hlci0yOTM4ODc0
+3.6,3.2,Philosophy,Simona ,Vucu,9,44.4444,VGVhY2hlci0yODk2ODky
+3.1,4.4,Engineering,Victoria,Kerr,10,80.0,VGVhY2hlci0yODcwNDQ5
+3.7,1.0,Sociology,Laura,Bisaillon,3,0.0,VGVhY2hlci0zMDcxOTMz
+3.5,1.3,Engineering,Nicole,Weckman,6,0.0,VGVhY2hlci0zMDg4MzQw
+4.0,5.0,Accounting,Thrupthy,Krishnan,4,100.0,VGVhY2hlci0zMTE0NzQ1
+3.8,4.2,Management,Avni,Shah,20,78.9474,VGVhY2hlci0yMTIzNDgy
+2.0,5.0,Engineering,Virupaksh,Agrawal,9,100.0,VGVhY2hlci0zMTIxMDUz
+4.0,1.0,Management,Peter,Monkhouse,1,0.0,VGVhY2hlci0yMzU2NDI2
+3.7,2.0,Classics,Kale ,Coghlan ,3,0.0,VGVhY2hlci0zMDY2MDgx
+3.2,4.9,Mathematics,Luciano,Salvetti Martinez,14,100.0,VGVhY2hlci0zMDY4MjE2
+3.0,4.0,Pharmacology,Anita,Hamadanizadeh,1,100.0,VGVhY2hlci0zMTI0OTQx
+2.8,5.0,English,Andrea,Walkden,4,100.0,VGVhY2hlci0yOTc4NTA2
+3.0,5.0,Languages,Lucile,Mulat,2,100.0,VGVhY2hlci0yNzg0NjYx
+2.6,4.9,Political Science,Christopher (Chris),Greenaway,21,95.2381,VGVhY2hlci0yNzAzNzQw
+1.0,5.0,Social Work,Roxanne,Francis,1,100.0,VGVhY2hlci0zMTIzNjUy
+2.7,4.2,Physics,Ania,Harlick,31,83.871,VGVhY2hlci0yODkwOTgx
+2.3,3.7,Mathematics,Yulun,Xu,3,66.6667,VGVhY2hlci0zMTE4MjM4
+5.0,4.0,Physics,Daniel,James,1,0.0,VGVhY2hlci0zMTIyNjI3
+3.5,3.3,Economics,Yuanyuan,Wan,13,61.5385,VGVhY2hlci0yNjYxMzg3
+2.2,4.4,Business,Chang-Yuan,Lee,5,80.0,VGVhY2hlci0zMDAwMTg5
+2.0,4.0,Chemistry,Charlie,Kivi,1,100.0,VGVhY2hlci0zMDI0NTU2
+2.5,5.0,Biochemistry,Joel,Watts,2,100.0,VGVhY2hlci0yODk1Mjk3
+4.0,1.5,Medicine,Anna,Taddio,2,0.0,VGVhY2hlci0yNjM4NzU5
+2.6,4.5,English,John,Rogers,12,83.3333,VGVhY2hlci0yNzMzMzYy
+1.0,1.0,Geography,Juan-Manuel,Velez-Villegas,1,0.0,VGVhY2hlci0zMTE5NTkz
+3.5,5.0,Mathematics,Yukai,Zhang,2,100.0,VGVhY2hlci0zMTE0Njcw
+1.0,4.0,History,Hope,Latta,1,100.0,VGVhY2hlci0zMTIwNDM5
+3.8,3.0,Psychology,Malvina,Skorska,13,53.8462,VGVhY2hlci0yOTk5Mjcz
+4.7,1.5,Finance,Anthony, Peccia ,6,0.0,VGVhY2hlci0zMDMxNTY3
+3.0,4.3,Anthropology,Anisha,Chadha,6,83.3333,VGVhY2hlci0yODQ3ODcx
+3.3,1.3,Political Science,María José ,Méndez Gutiérrez,3,0.0,VGVhY2hlci0zMTAzNDky
+1.0,5.0,Medicine,Bowen,Li ,1,100.0,VGVhY2hlci0zMTIwMDky
+4.1,2.3,Languages,Jeannette ,Sanchez-Naranjo ,8,37.5,VGVhY2hlci0yOTg1OTk1
+2.8,5.0,Mathematics,Mikale,Reddy,5,100.0,VGVhY2hlci0zMDE1NjM1
+4.3,4.5,Sociology,Soli,Dubash,4,100.0,VGVhY2hlci0zMDgxNTQ3
+3.0,5.0,Psychology,Emily ,Schwartzman,1,100.0,VGVhY2hlci0zMDg0MDA0
+2.8,3.4,Biology,Dinesh,Christendat,5,60.0,VGVhY2hlci0yOTAxMDgy
+2.8,4.6,History,Sam,Bass,5,100.0,VGVhY2hlci0zMDkwMTY2
+2.6,3.3,Physical Education,Danielle,Dobney,7,42.8571,VGVhY2hlci0yOTY0NTkx
+2.0,5.0,Mathematics,Tresa ,Doucet,1,100.0,VGVhY2hlci0zMTE2OTI1
+2.7,4.9,Sociology,Grace,Barakat,14,100.0,VGVhY2hlci0yODc3NTE0
+3.9,2.1,Architecture,Negin,Minaei,13,23.0769,VGVhY2hlci0zMDY5MjIy
+3.5,3.5,Sociology,Elliot,Fonarev,2,50.0,VGVhY2hlci0zMDkwMDEz
+2.0,5.0,Environment,Joel,Goodwin,1,100.0,VGVhY2hlci0zMTE3MjA2
+3.8,2.2,English,Andrew,Lesk,15,33.3333,VGVhY2hlci0yNDczOTkx
+2.6,2.0,Architecture,Erica,Kim,7,14.2857,VGVhY2hlci0yOTgwMDY1
+2.0,3.0,Sociology,Jooyung,Lee,2,50.0,VGVhY2hlci0yODgwNTg0
+0.0,0.0,English,Benjamin,Walsh,0,-1.0,VGVhY2hlci0zMTE3MDA0
+2.5,4.5,Humanities,James,Ginther,2,100.0,VGVhY2hlci0zMDg1Mzk1
+2.6,5.0,Art History,Claudia,Paparella,7,100.0,VGVhY2hlci0zMDc5MDIx
+2.7,3.0,Biology,Nicholas,Provart,3,33.3333,VGVhY2hlci0yOTAxMDg0
+5.0,1.0,Mathematics,Luke,Volk,6,0.0,VGVhY2hlci0yOTIwMDcy
+3.0,4.0,Engineering,Reza,Danesh,1,100.0,VGVhY2hlci0zMTE0ODgz
+2.9,4.6,Computer Science,Mehdi,Ataei,10,90.0,VGVhY2hlci0yOTI5OTkx
+0.0,0.0,Engineering,Christopher,Lucasius,0,-1.0,VGVhY2hlci0zMTAxNjky
+3.0,1.5,Humanities,Christina ,Pasqua,2,0.0,VGVhY2hlci0zMTExMDkw
+3.5,4.5,History,Jack,McCart,2,100.0,VGVhY2hlci0zMTEzMTAz
+2.7,4.0,Mathematics,Ali,Pirhosseinloo,10,70.0,VGVhY2hlci0yOTk2OTM2
+2.0,3.0,Business,Chad,Story,1,100.0,VGVhY2hlci0zMTE0MTI5
+2.5,1.5,Geography,Michael,Lawler,2,0.0,VGVhY2hlci0zMTEwMzk2
+3.4,4.3,Social Science,Falak,Mujtaba,48,89.5833,VGVhY2hlci0zMDIzNjEw
+4.6,1.5,Political Science,Kelsey,Gordon,12,8.3333,VGVhY2hlci0yOTQ2MTUz
+2.8,3.8,Political Science,Labiba,Naeem,4,75.0,VGVhY2hlci0yOTgwMjA4
+4.0,2.0,Philosophy,Vincent,Lee,1,0.0,VGVhY2hlci0zMTEyNTEy
+2.6,2.1,Public Policy & Administration,Linda,White,7,28.5714,VGVhY2hlci0yMDQwOTU0
+4.3,2.9,Economics,Florian,Dendorfer,80,48.75,VGVhY2hlci0yOTMzMTA3
+3.0,2.0,Information Science,Eveline,Houtman,1,0.0,VGVhY2hlci0zMTExOTI1
+3.1,3.1,Political Science,Isabela,Dos Santos,37,45.9459,VGVhY2hlci0zMDMyNzA4
+3.9,3.6,Social Science,Jordan,Peterson,9,55.5556,VGVhY2hlci0yNjc3NzUz
+4.0,4.8,Pharmacology,Landon,Edgar,5,100.0,VGVhY2hlci0yNzY0ODcw
+3.7,5.0,Psychology,Christine,Burton,3,100.0,VGVhY2hlci0zMDI3MDk1
+2.8,3.0,Engineering,Alex,Bercik,9,44.4444,VGVhY2hlci0yOTg0MzAw
+1.0,5.0,Music,Carolyne,Sumner,1,100.0,VGVhY2hlci0zMTExMDk5
+2.0,5.0,Languages,Virginia,Shewfelt,1,100.0,VGVhY2hlci0zMTExMDk3
+3.0,5.0,Languages,Tanya,Humeniuk,1,100.0,VGVhY2hlci0zMTExMDk4
+2.6,5.0,Computer Science,Ian,Berlot-Attwell,7,100.0,VGVhY2hlci0yODk2NzE4
+3.6,3.0,Political Science,Dani,Nedal,7,28.5714,VGVhY2hlci0yODQ4MzM4
+2.8,3.7,Science,Matilda,Essandoh Laar,6,83.3333,VGVhY2hlci0zMDE3NDMw
+3.5,1.5,English,Michael,Johnstone,2,0.0,VGVhY2hlci0zMTA4NjIx
+1.5,5.0,Languages,Gözde,Mercan,2,100.0,VGVhY2hlci0zMTA5NzI3
+4.3,1.5,Economics,Robert,Owen,23,13.0435,VGVhY2hlci0yOTMyMzcy
+4.0,3.0,History,Chris,Chung,6,33.3333,VGVhY2hlci0yOTM4NzEy
+3.5,2.5,Medicine,Jeff,Kroetsch,2,50.0,VGVhY2hlci0zMDE3NDMx
+3.0,4.0,Sociology,Leafia ,Ye,2,100.0,VGVhY2hlci0zMDA4OTI5
+2.5,5.0,Music,Jane,Forner,4,100.0,VGVhY2hlci0zMDQyOTAy
+3.5,4.0,Languages,nadia,Takhtaganova,2,100.0,VGVhY2hlci0zMTAyNTI0
+2.5,5.0,Music,Dennis,Lee,4,100.0,VGVhY2hlci0yOTgyMjIz
+2.0,5.0,Computer Science,Robert,Soden,2,100.0,VGVhY2hlci0yODk0Mzgw
+4.0,1.0,Geography,Wiley,Sharp,1,0.0,VGVhY2hlci0zMTA5MDcw
+2.0,5.0,History,Samantha,Wesner,2,100.0,VGVhY2hlci0zMDU0NjY3
+3.3,3.0,Geography,Catherine,Jimenea,6,33.3333,VGVhY2hlci0yNzEyNzQ2
+3.5,5.0,Engineering,Mahmoud ,Embabi ,4,100.0,VGVhY2hlci0zMDc4Njkz
+2.0,5.0,Art History,E,Legge,2,100.0,VGVhY2hlci04NzkzNDA=
+3.0,5.0,Classics,Sean,Karnani-Stewart,1,100.0,VGVhY2hlci0zMTA4NjI0
+2.7,4.5,Humanities,Adam,Nayman,12,91.6667,VGVhY2hlci0yNjk2OTA1
+3.6,2.8,Political Science,Theresa,Enright,21,58.3333,VGVhY2hlci0xODkwMTYy
+3.4,4.5,Mathematics,Asif,Zaman,58,86.2069,VGVhY2hlci0yMjMzMTU0
+2.0,5.0,Sociology,Josh,Harold,1,100.0,VGVhY2hlci0zMTA3Mzg1
+3.5,3.0,Languages,Ramiro,Armas,6,33.3333,VGVhY2hlci0xODM1MDgy
+3.3,3.7,Mathematics,Piotr,Zwiernik,3,66.6667,VGVhY2hlci0yOTMzMDEw
+3.0,2.0,Education,rosalind,hampton ,3,33.3333,VGVhY2hlci0zMTA2Njc3
+2.8,3.4,Political Science,Armend,Mazreku,8,62.5,VGVhY2hlci0yODQ3ODY4
+3.3,4.7,Medicine,Jim,Scholey,3,100.0,VGVhY2hlci0zMDE3NDMy
+2.4,5.0,Mathematics,Mehul,Gupta,7,100.0,VGVhY2hlci0zMDc1Mzg4
+4.2,2.2,Computer Science,Marsha,Chechik,6,33.3333,VGVhY2hlci0zMDA5Njk5
+3.0,3.4,Religion,Anne-Marie,Fowler,5,60.0,VGVhY2hlci0zMDA3NTI2
+2.9,2.2,Geography,Rhonda,Solomon,11,18.1818,VGVhY2hlci0zMDY1MDM0
+4.0,1.3,Accounting,Abdul,Khizer,4,0.0,VGVhY2hlci0yOTU3Nzkz
+2.0,5.0,Languages,Laura,Colantoni,2,100.0,VGVhY2hlci0zMDY1MDQz
+4.3,3.7,Political Science,Laura,Rabinowitz,3,66.6667,VGVhY2hlci0zMDg1NTg5
+3.2,2.3,Mathematics,Emily,Erlebach,9,33.3333,VGVhY2hlci0yODI1MzUy
+2.0,4.0,Mathematics,Sebastian ,Espinosa,1,100.0,VGVhY2hlci0zMDY0Njg1
+2.5,4.8,History,Christopher,Petrakos,10,100.0,VGVhY2hlci0yOTIxOTcz
+2.7,2.3,Computer Science,Swastik,Kopparty,3,33.3333,VGVhY2hlci0yODg1NDA1
+2.8,4.7,Mathematics,Jamal,Kawach,28,96.4286,VGVhY2hlci0yNTQ0ODI4
+3.0,3.0,English,Gregory,Shupak,1,100.0,VGVhY2hlci0yOTQ2NDI2
+3.1,4.8,Engineering,Anthony,Sinclair,16,100.0,VGVhY2hlci0xOTAzOTk0
+1.0,5.0,History,Erich,Weidenhammer,1,100.0,VGVhY2hlci0zMDk5NDQ5
+1.0,4.0,Pacific & Asian Studies,Bharat,Punjabi,1,100.0,VGVhY2hlci0zMDU4NDc4
+3.9,2.6,Management,Imran,Syed,22,40.9091,VGVhY2hlci0yOTIyNjMz
+3.4,2.9,English,Deirdre,Baker,9,44.4444,VGVhY2hlci0yMjA2NjA3
+4.3,2.3,Anthropology,Saul,Cohen,6,33.3333,VGVhY2hlci0zMDE5OTgx
+3.2,5.0,Social Science,Santiago,Molina,6,100.0,VGVhY2hlci0yOTE4MDg3
+2.7,3.7,History,Tobias,Hof,3,66.6667,VGVhY2hlci0zMDc4MTc0
+2.0,3.3,History,John,Kamau,3,66.6667,VGVhY2hlci0yOTE0OTgz
+3.3,2.8,Biology,Emily,Bell,4,50.0,VGVhY2hlci0yODYzNzY5
+1.4,4.4,Environment,Michael,Classens,5,80.0,VGVhY2hlci0yODk4OTEy
+3.9,4.3,Biology,Sergey,Plotnikov,10,70.0,VGVhY2hlci0yMzM0NDM1
+3.3,5.0,Mathematics,Lior,Gishboliner,3,100.0,VGVhY2hlci0zMDU0ODQ0
+2.5,4.5,English,Deanna,Brooks,2,100.0,VGVhY2hlci0zMDY1MDkx
+4.5,4.4,Medicine,Danielle,Bentley,18,83.3333,VGVhY2hlci0yMzU0MDU0
+4.0,2.0,Biology,Richard,Horner,1,0.0,VGVhY2hlci0zMDkyNDU3
+3.0,4.0,Political Science,Rachael,Desborough,1,100.0,VGVhY2hlci0zMDkyNDI1
+0.0,0.0,Medicine,Allen,Teng,0,-1.0,VGVhY2hlci0zMDkxMzIx
+2.4,3.4,Philosophy,Jonny,Cottrell,5,40.0,VGVhY2hlci0yOTMwNTI1
+3.8,2.1,Philosophy,Sara,Aronowitz,18,27.7778,VGVhY2hlci0yOTg2OTk4
+4.0,3.0,Information Science,Karen,Maxwell,1,0.0,VGVhY2hlci0zMDg5NTgy
+3.5,4.7,Philosophy,Reza,Hadisi,6,100.0,VGVhY2hlci0yODQ4NTI0
+2.8,4.0,Mathematics,Daniel ,Calderon Wilches,5,80.0,VGVhY2hlci0yODcyMDc5
+4.0,5.0,Economics,Joao,Ritto,2,100.0,VGVhY2hlci0zMDg3MDM3
+4.0,2.7,Management,Kristina,McElheran,6,33.3333,VGVhY2hlci0yNDI4ODUw
+2.4,2.6,Computer Science,Mohi,Reza,5,20.0,VGVhY2hlci0yOTMxMjUw
+3.7,1.7,Biology,Michael,Wilson,3,0.0,VGVhY2hlci0yNTg4MTMz
+4.0,1.0,Mathematics,Marco ,Volpe,1,0.0,VGVhY2hlci0zMDg4MzIy
+3.0,5.0,Biology,Shehryar,Saharan,4,100.0,VGVhY2hlci0yOTg5MDg3
+1.0,5.0,Education,Katherine ,Entigar,1,100.0,VGVhY2hlci0zMDg3ODM1
+3.7,4.0,Finance,Marius,Zoican,11,72.7273,VGVhY2hlci0yNDcxNzI5
+3.1,3.9,Environment,Hanna,Morris,7,57.1429,VGVhY2hlci0zMDczNTcy
+2.5,2.5,Women's Studies,Henar,Perales,2,50.0,VGVhY2hlci0zMDczNDI0
+5.0,1.0,Criminal Justice,Sara,Ali,1,0.0,VGVhY2hlci0zMDg2Mzg1
+2.4,2.8,Physics,Zhan,Su,5,60.0,VGVhY2hlci0yODUxMjcy
+3.9,3.1,Psychology,Dean,Carcone ,9,33.3333,VGVhY2hlci0yOTQ0MzEz
+3.2,3.0,Economics,Chenyue,Liu,5,60.0,VGVhY2hlci0zMDM3NzUy
+2.0,2.2,Health Science,Ray,Amith,18,22.2222,VGVhY2hlci0yOTE4MTM4
+3.0,4.6,Sociology,Andrew,Miles,8,87.5,VGVhY2hlci0yNDAyNjI1
+3.3,3.8,Computer Science,Khai,Truong,4,75.0,VGVhY2hlci0yOTk2NTAz
+3.1,4.8,Mathematics,Camelia ,Karimian Pour,8,87.5,VGVhY2hlci0yODc0NzY4
+3.5,3.5,Physical Education,Ashley, Stirling,2,50.0,VGVhY2hlci0zMDA4MDQ0
+3.0,5.0,Philosophy,Nathan,Howard,1,100.0,VGVhY2hlci0zMDgxODY2
+0.0,0.0,Medicine,Matthew,Danesh,0,-1.0,VGVhY2hlci0zMDgxOTc1
+3.0,5.0,Pacific & Asian Studies,Peng,Yu,1,100.0,VGVhY2hlci0zMDgxNTU0
+2.0,3.0,Engineering,Mohini,Sain,2,50.0,VGVhY2hlci0yNDU2Mjg0
+2.8,3.8,Sociology,Cinthya,Guzman,47,76.5957,VGVhY2hlci0yNTEzOTQx
+2.8,3.8,Philosophy,Alex,Djedovic,12,75.0,VGVhY2hlci0yOTI3MjU5
+3.9,2.4,Engineering,Atena,Roshan Fekr,7,28.5714,VGVhY2hlci0zMDMzNTg4
+3.0,4.6,English,Nick,Mount,42,86.3636,VGVhY2hlci04Mzc4NTY=
+4.5,1.8,Pharmacology,Alaa,Alsaafin,4,25.0,VGVhY2hlci0yOTI1NDYz
+2.9,2.5,Classics,Giulio,Leghissa,14,35.7143,VGVhY2hlci0yOTUyODY2
+3.1,3.0,Mathematics,Daniel,Alvarez,8,62.5,VGVhY2hlci0yNzE5MTcz
+2.0,5.0,Economics,Runjing Lu,Lu,1,100.0,VGVhY2hlci0zMDMzODY4
+3.0,5.0,Languages,Sophie,Feng,2,100.0,VGVhY2hlci0zMDY5NDEx
+3.9,1.4,Mathematics,Adrian,She,7,14.2857,VGVhY2hlci0zMDI5OTgx
+5.0,1.0,Pharmacology,Dasha,Redka,1,0.0,VGVhY2hlci0yODgzOTc2
+3.1,1.9,Health Science,David,Fisman,9,22.2222,VGVhY2hlci0yNTc1NTk3
+4.3,5.0,Mathematics,Mahdi,Rafiei,4,100.0,VGVhY2hlci0zMDIyMzgy
+3.7,2.2,Engineering,Jose,Armesto,11,45.4545,VGVhY2hlci0yODcxNzk5
+2.5,5.0,Psychology,Nelly,Matorina,2,100.0,VGVhY2hlci0yOTc2NjE4
+4.0,3.0,Philosophy,Nicolas ,Nicola,2,50.0,VGVhY2hlci0zMDAxMjkw
+4.0,3.0,Engineering,Alison,McGuigan,1,0.0,VGVhY2hlci0yMTI3OTYy
+4.0,3.0,Political Science,Brendan,McElroy,4,25.0,VGVhY2hlci0yODI4NzMx
+3.0,4.0,Mathematics,Vivian,He,1,100.0,VGVhY2hlci0zMDc0MTE0
+3.5,2.5,Social Science,Patrick,Watson,13,30.7692,VGVhY2hlci0yOTM5NzIy
+5.0,2.0,Political Science,Abdus,Shuman,1,0.0,VGVhY2hlci0yODc3MDk2
+4.0,3.0,Environment,Clare,Wiseman,1,100.0,VGVhY2hlci0zMDczNDIy
+3.0,5.0,Computer Science,Akshayaram,Srinivasan,1,100.0,VGVhY2hlci0yOTg4MTM0
+2.8,5.0,Accounting,Divyesh,Shah,6,100.0,VGVhY2hlci0zMDY1NTYz
+2.0,5.0,Geology,Barbara,Sherwood Lollar,3,100.0,VGVhY2hlci0yODkxNDcx
+3.0,5.0,Sociology,Tyler,Bateman,1,100.0,VGVhY2hlci0zMDQ0ODk4
+2.0,5.0,Mathematics,Fedor,Manin,1,100.0,VGVhY2hlci0zMDcxNDcx
+2.3,3.7,Engineering,Vaughn,Betz,16,42.8571,VGVhY2hlci0xODU4NjEx
+2.5,5.0,English,Rebecca,Hogue,2,100.0,VGVhY2hlci0zMDYxNDAy
+4.5,1.0,Computer Science,Malik,Khan,4,0.0,VGVhY2hlci0yOTY1NzQy
+2.5,5.0,Medicine,Amel,Taibi,2,100.0,VGVhY2hlci0yODc0MDc5
+2.5,5.0,Economics,Sean,Elliott,2,100.0,VGVhY2hlci0zMDUzODEz
+3.0,2.0,Computer Science,Ava,Danialy,4,25.0,VGVhY2hlci0yODk2NTA0
+4.0,3.0,Religion,Geethika,Dharmasinghe,1,0.0,VGVhY2hlci0zMDY3ODYz
+3.0,3.0,Engineering,Shurui,Zhou,3,66.6667,VGVhY2hlci0yNzc0MjY1
+2.0,5.0,Business,Hansheng,Jiang ,3,100.0,VGVhY2hlci0zMDAyMjU3
+4.0,4.3,Mathematics,Hunter,Spink,4,75.0,VGVhY2hlci0yOTQyNDc3
+1.7,4.3,Social Science,Kevin,White,3,66.6667,VGVhY2hlci0yNTgyMDkz
+1.0,5.0,Mathematics,Daniel ,Hudson,1,100.0,VGVhY2hlci0yOTc0NDUw
+2.4,4.8,Classics,Adriana,Brook,5,100.0,VGVhY2hlci0yOTY3NDQz
+1.0,5.0,Languages,Johann,Kirchenbauer,1,100.0,VGVhY2hlci0zMDY4MTE1
+3.0,3.0,Languages,Yukiko,Yoshizumi,1,0.0,VGVhY2hlci0zMDY4MjE3
+3.2,4.2,Anthropology,Bence,Viola,9,77.7778,VGVhY2hlci0yMzAzMTIy
+2.5,4.7,Computer Science,Yasaman ,Rohanifar,6,83.3333,VGVhY2hlci0zMDAwMjIx
+2.4,5.0,Engineering,Mike,Xue,5,100.0,VGVhY2hlci0yODg1MjA5
+3.0,5.0,Business,Wayne,Adlam,4,100.0,VGVhY2hlci0yODY5Njk3
+3.0,1.0,Art History,Scott, Schwartz,1,0.0,VGVhY2hlci0yOTE5OTYy
+3.0,5.0,Psychology,Ariana,Giuliano,2,100.0,VGVhY2hlci0yODgxMTQ0
+2.0,2.0,Biology,Santiago,Tammaro,1,0.0,VGVhY2hlci0yODk5NTI5
+2.5,5.0,Social Work,Keith,Adamson,4,100.0,VGVhY2hlci0yMTg2ODU3
+3.9,3.3,Languages,Josiane,Loui,7,57.1429,VGVhY2hlci0yNDEyMzU1
+1.0,5.0,Anthropology,Maya,El Helou,1,100.0,VGVhY2hlci0yOTE1MTc3
+3.4,3.1,Mathematics,Gavin, Hurd,11,45.4545,VGVhY2hlci0yOTIyNzY0
+2.0,4.0,Science,Tj,Yi,1,100.0,VGVhY2hlci0zMDY1Njg1
+2.0,5.0,Physics,Roya,Ghahreman,1,100.0,VGVhY2hlci0yODE1NjQx
+5.0,1.0,Business,Carla ,Moore ,2,0.0,VGVhY2hlci0zMDUyMzg5
+4.0,1.0,Engineering,Mohammad,Hodaei,1,0.0,VGVhY2hlci0zMDY0NzA0
+3.7,2.1,Psychology,Steve,Joordens,19,31.5789,VGVhY2hlci0yNTc5MDkx
+3.7,4.3,Aerospace Studies,Swetaprovo,Chaudhuri,3,100.0,VGVhY2hlci0zMDM3MDI1
+1.0,1.0,Business,Nicolas,Inostroza,1,0.0,VGVhY2hlci0zMDYyNzU5
+2.7,1.0,Architecture,Luis,Jacobs,6,0.0,VGVhY2hlci0yODU1Mjkx
+4.5,1.0,Languages,Andrea,Levinstein-Rodriguez,2,0.0,VGVhY2hlci0zMDQ5OTI0
+3.3,2.1,International Studies,Sunita,Guyadeen,7,28.5714,VGVhY2hlci0yNTA2MTIz
+3.0,5.0,Engineering,Howard,Ho,3,100.0,VGVhY2hlci0yOTkzMzQz
+5.0,1.0,History,Jack,Cunningham,1,0.0,VGVhY2hlci0zMDYxNzg0
+3.0,5.0,"Arts, Culture & Media",Kanika,Lawton,1,100.0,VGVhY2hlci0zMDYxMDUz
+3.5,3.8,"Arts, Culture & Media",Kylie,Caraway,8,62.5,VGVhY2hlci0yODI4ODM0
+4.0,5.0,Humanities,Ramez,Bishara,5,100.0,VGVhY2hlci0yMjU2ODMz
+3.0,5.0,Computer Science,Angela,Bernuy,1,100.0,VGVhY2hlci0yOTcyNzc1
+2.0,3.0,History,John,Meehan,1,100.0,VGVhY2hlci0zMDU5ODU4
+1.0,5.0,Biology,Ruth,Isserlin,1,100.0,VGVhY2hlci0yODg1MTQy
+1.0,5.0,"Arts, Culture & Media",Suzanne,Edworthy,1,100.0,VGVhY2hlci0yOTU1OTQz
+2.5,5.0,Health Science,Shafi,Bhuiyan,63,98.4127,VGVhY2hlci0yMTM5MTE1
+4.5,2.0,Anthropology,Cathie,Sutton,2,0.0,VGVhY2hlci0yMzU4MTU4
+4.4,2.1,Computer Science,Rahul ,Krishnan,7,28.5714,VGVhY2hlci0yOTM3OTg3
+2.3,5.0,Finance,Anwar,Husain,3,100.0,VGVhY2hlci0yMTQ3ODMw
+1.7,5.0,History,Joo-Yup,Lee,3,100.0,VGVhY2hlci0zMDA2MTk0
+2.5,5.0,Engineering,Luis,Bothia,2,100.0,VGVhY2hlci0zMDI5MDM2
+3.0,1.0,Nursing,ZIYI,LIU,1,100.0,VGVhY2hlci0zMDUzNDEw
+2.0,5.0,Engineering,Luis,Ardila,1,100.0,VGVhY2hlci0zMDUwODU1
+4.7,3.0,Mathematics,Ismael ,Sierra,3,66.6667,VGVhY2hlci0zMDAzOTM3
+5.0,1.0,History,Soomin,Kim,1,0.0,VGVhY2hlci0yOTU0NDI1
+2.4,4.2,Biology,Ritu,Sarpal,5,80.0,VGVhY2hlci0yODk0ODc5
+3.0,4.0,Mathematics,Alexander, Slamen,1,100.0,VGVhY2hlci0yOTkxNzg4
+2.3,5.0,Sociology,Andrew,Cooper,24,100.0,VGVhY2hlci0yODkwMDc5
+3.0,4.4,Languages,John,Evjen,7,85.7143,VGVhY2hlci0yNDQ1ODM4
+2.8,5.0,Religion,Callie,Callon,4,100.0,VGVhY2hlci0xODA5NTQz
+1.7,4.7,Languages,Zdenko,Mandusic,3,100.0,VGVhY2hlci0yNjMwNzAz
+3.0,5.0,History,Leah,Montange,1,100.0,VGVhY2hlci0zMDUxMTE4
+2.5,5.0,Accounting,Hadi,Ahmad,2,100.0,VGVhY2hlci0yOTc5Mzcy
+5.0,5.0,Journalism,Sonny,Sachdeva,1,100.0,VGVhY2hlci0zMDUwOTQx
+2.7,4.7,Psychology,melisa,gumus,3,100.0,VGVhY2hlci0yOTQ0Nzg0
+3.5,3.0,Psychology,Nisma,Khan,2,50.0,VGVhY2hlci0yOTM1NzQ4
+2.8,2.1,Science,Tigran,Chalikian,11,27.2727,VGVhY2hlci0yMjM3OTEx
+0.0,0.0,Health Science,Minhui,Yang,0,-1.0,VGVhY2hlci0yOTk2ODMx
+3.0,5.0,Information Science,Jenny,Wang,3,100.0,VGVhY2hlci0yODcyOTY3
+2.5,1.0,Management,Olga,Bountali,2,0.0,VGVhY2hlci0yOTM4NTc5
+2.0,1.5,Business,Yvonne,O'reilly,2,0.0,VGVhY2hlci0yNjgwMDcx
+4.0,2.0,Mathematics,Aleksandr,Berdnikov,2,0.0,VGVhY2hlci0yOTczNTk0
+1.8,5.0,Ethnic Studies,Thomas,Saczkowski,4,100.0,VGVhY2hlci0yMDc3MTgz
+3.0,4.3,Engineering,Leo,Chou,3,66.6667,VGVhY2hlci0yODcyMjg1
+3.2,5.0,Mathematics,Kingeon,Tsang,5,100.0,VGVhY2hlci0yMjkyNzc1
+4.0,4.0,Economics,Stanton,Hudja,1,100.0,VGVhY2hlci0yOTM4MjUz
+2.6,4.5,Management,Charlie,Wall-Andrews,17,88.2353,VGVhY2hlci0yNDE0MjM5
+3.0,1.0,Information Science,Natasha,Ali,1,0.0,VGVhY2hlci0yOTgwOTM3
+4.0,5.0,Political Science,Wael ,Negm,1,100.0,VGVhY2hlci0yOTIyMzM4
+2.8,1.8,Health Science,James,Hong,5,20.0,VGVhY2hlci0yODk2MzIx
+3.0,3.0,History,Paul,Cohen,1,100.0,VGVhY2hlci0zMDMzMTg3
+3.5,2.0,Art History,Ariella ,Minden,2,50.0,VGVhY2hlci0zMDI1MzMz
+5.0,5.0,Humanities,Andreas,Winkler,1,100.0,VGVhY2hlci0zMDMxMzA1
+2.0,5.0,"Arts, Culture & Media",Magdalena,Cabaj,1,100.0,VGVhY2hlci0yOTc0MDU4
+2.0,5.0,Engineering,Naomi,Matsuura,1,100.0,VGVhY2hlci0yOTg1MzM2
+3.0,5.0,Information Science,Alan,Galey,2,100.0,VGVhY2hlci0yOTc4MDcy
+3.4,4.9,Mathematics,Sebastian,Gherghe,14,92.8571,VGVhY2hlci0yODc1NjI0
+2.3,2.3,Humanities,Chandni,Desai,3,33.3333,VGVhY2hlci0yOTU4NTc3
+1.7,4.0,Mathematics,Jiyuan,Lu,3,100.0,VGVhY2hlci0zMDI2OTAx
+4.5,1.0,Mathematics,Andy,Ramirez-Cote,4,0.0,VGVhY2hlci0yOTIyNzkz
+1.5,5.0,Management,Brian,Silverman,2,100.0,VGVhY2hlci0yOTE5MTEw
+5.0,5.0,Mathematics,Joaquin,Sanchez Garcia,1,100.0,VGVhY2hlci0yOTIxOTI1
+3.0,2.0,Psychology,Eric,Cui,1,0.0,VGVhY2hlci0zMDIzMjI2
+2.9,4.3,Political Science,Matthew,Walton,12,83.3333,VGVhY2hlci0yODc2NDA0
+3.5,2.5,Engineering,Radhakrishnan,Mahadevan,6,33.3333,VGVhY2hlci0yMjU2MzA4
+3.8,4.8,Medicine,Sev,Perelman,4,100.0,VGVhY2hlci0xMDYwMzA3
+3.0,5.0,Architecture,Rim,Fathallah,1,100.0,VGVhY2hlci0zMDIyMTE3
+0.0,0.0,English,Jasleen ,Singh,0,-1.0,VGVhY2hlci0zMDIwMjQ5
+4.0,1.0,Fine Arts,Lauren,Nurse,1,0.0,VGVhY2hlci0zMDIxNDM1
+2.0,1.0,Psychology,Jida,Jaffran,1,0.0,VGVhY2hlci0zMDIxMzky
+3.0,3.6,Philosophy,Zoe,Anthony,5,60.0,VGVhY2hlci0yNzEzNTE5
+2.0,1.0,Physics,Christopher,Macgowan,1,0.0,VGVhY2hlci0zMDIxMTA3
+1.0,5.0,Science,Yupeng,zhang,1,100.0,VGVhY2hlci0zMDE5ODk5
+3.2,3.8,Engineering,Robert,Irish,6,80.0,VGVhY2hlci0yMTMwNDc2
+4.5,2.5,Sociology,Harvey,Nicholson Jr,2,0.0,VGVhY2hlci0yOTg5MDc0
+2.1,4.9,Science,Sandy,Lee,18,100.0,VGVhY2hlci0yODkwNDg1
+3.2,3.7,Languages,Olga,Tararova,9,75.0,VGVhY2hlci0xODgxMTMy
+2.5,5.0,Psychology,Jiarui,Li,2,100.0,VGVhY2hlci0zMDEyNDIz
+4.0,1.4,Chemistry,RJ Dwayne,Miller,5,0.0,VGVhY2hlci0yOTUzMjY3
+0.0,0.0,Physical Education,Zeana,Hamdonah,0,-1.0,VGVhY2hlci0zMDE3NTI2
+4.0,3.0,History,David,Chemhuru,1,0.0,VGVhY2hlci0zMDEyODA0
+2.0,4.0,Business,Katarzyna,Odziemkowska,1,100.0,VGVhY2hlci0yOTE5NTQx
+3.0,4.0,Geography,Susan,Dupej,2,50.0,VGVhY2hlci0yOTg4MjQ4
+4.5,5.0,Mathematics,Malors ,Lara,2,100.0,VGVhY2hlci0yOTU4MDg1
+3.0,5.0,Art History,Christina ,Katsougiannopoulou,1,100.0,VGVhY2hlci0zMDA2MTI4
+4.0,1.0,Engineering,Kevin,Park,1,0.0,VGVhY2hlci0yOTgxMzQx
+3.7,2.3,Political Science,Robert,Vipond,14,28.5714,VGVhY2hlci0yNjcxMDM1
+3.6,1.7,Biochemistry,Lauren,Bathurst,9,22.2222,VGVhY2hlci0yOTM0MjM1
+3.5,2.0,English,Apala,Das,4,25.0,VGVhY2hlci0yOTgwNzQ3
+2.5,5.0,Economics,Dan,Trefler,2,100.0,VGVhY2hlci0yOTk2MDc3
+5.0,2.0,Computer Science,Dashiel,Elhauge,1,0.0,VGVhY2hlci0yOTk5NDg0
+4.0,4.0,Economics,Michael,Baker,1,100.0,VGVhY2hlci0yOTIxNzQx
+2.7,5.0,Political Science,Chengmin,Xu,6,100.0,VGVhY2hlci0yODg4MjMw
+3.0,2.0,Architecture,Daniel,Chung,1,0.0,VGVhY2hlci0yOTkxMzQ2
+2.4,5.0,Biology,Stephen,Pastore,5,100.0,VGVhY2hlci0yMTEzMjkz
+2.0,2.0,Women's Studies,Valentina,Castellini,1,0.0,VGVhY2hlci0yOTk4NTQw
+3.0,5.0,Science,Anthony,Wong,1,100.0,VGVhY2hlci0yOTk4MzA5
+5.0,5.0,Engineering,Ziheng,Lin,1,0.0,VGVhY2hlci0zMDAxMjM1
+3.0,5.0,Computer Science,Tovi,Grossman,1,100.0,VGVhY2hlci0yOTY1MTA2
+0.0,0.0,Mathematics,Xincheng ,Zhang,0,-1.0,VGVhY2hlci0yOTk5NzI5
+1.7,3.7,English,Fouad,Oveisy,3,66.6667,VGVhY2hlci0yOTc1ODQ4
+3.8,2.5,Computer Science,Demetres,Kostas,4,25.0,VGVhY2hlci0yOTI4ODMw
+4.3,3.3,Engineering,Donald,Kirk,3,100.0,VGVhY2hlci0yNzY1MDM4
+4.0,2.0,Sociology,Harvey,Nicholson,1,0.0,VGVhY2hlci0yOTg1NTkw
+4.0,4.0,Chemistry,Michael,MacPherson,7,71.4286,VGVhY2hlci0yOTgxMzI2
+3.9,2.4,Mathematics,Esam,Mahdi,15,40.0,VGVhY2hlci0yODI1Mzg5
+3.0,5.0,Mathematics,Mohammad,Vasfi,1,100.0,VGVhY2hlci0yOTg1MTQx
+3.0,2.0,History,Shenella,Charles,3,33.3333,VGVhY2hlci0yNzIxODUy
+1.0,5.0,English,Dr. Fouâd ,Oveisy,1,100.0,VGVhY2hlci0yOTgyMTky
+3.3,4.0,Engineering,Hendrickson,Sa'diyya,4,75.0,VGVhY2hlci0yOTM1NDAy
+3.0,3.0,Philosophy,Michael,Miller,3,33.3333,VGVhY2hlci0yOTE3OTYx
+3.0,5.0,Psychology,Abbey ,Nydam,1,100.0,VGVhY2hlci0yOTgxNDMy
+3.0,3.5,Architecture,Vivian,Lee,2,50.0,VGVhY2hlci0yNTY0NTE0
+2.0,5.0,Political Science,Oded,Oron,1,100.0,VGVhY2hlci0yOTE5MjA4
+4.0,1.0,Computer Science,Sidi Mohamed,Beillahi,3,0.0,VGVhY2hlci0yODg3NTEy
+2.0,2.0,Anthropology,Malcolm,Ramsay,1,0.0,VGVhY2hlci0yODIwODEx
+4.0,1.0,Architecture,Margot,Lystra,1,0.0,VGVhY2hlci0yOTc4OTg1
+1.0,5.0,History,Rebecca,Bleich,1,100.0,VGVhY2hlci0yOTc4NzQz
+3.0,5.0,Film,Carrie,Reese,2,100.0,VGVhY2hlci0yOTUyNzg5
+2.0,5.0,Film,Diana,Sanchez,1,100.0,VGVhY2hlci0yODk2NTU5
+2.0,5.0,Mathematics,Giulio,Tiozzo,3,100.0,VGVhY2hlci0yNDgzMTkx
+3.0,5.0,Computer Science,Colin,Raffel,1,100.0,VGVhY2hlci0yOTU0NTQ1
+4.6,1.3,Mathematics,Ziteng,Cheng,18,5.5556,VGVhY2hlci0yODg3ODc4
+2.3,4.3,Social Work,Michael,Saini,4,100.0,VGVhY2hlci0xNjYwNjcx
+1.0,5.0,Computer Science,David,Liu,1,100.0,VGVhY2hlci0yOTMwMTc1
+2.5,5.0,Physics,Adam,Hincks,2,100.0,VGVhY2hlci0yOTY5MTUx
+2.0,5.0,Chemistry,Jon,Abbatt,2,100.0,VGVhY2hlci0yOTE0MTUx
+3.3,4.0,Physics,Aephraim,Steinberg,4,75.0,VGVhY2hlci0yODYxNTgx
+4.0,2.0,Physical Education,Joyce,Chen,1,0.0,VGVhY2hlci0yNTAyMTI0
+2.0,3.3,Languages,Marshall,Chasin,2,0.0,VGVhY2hlci0xOTAyOTY2
+3.6,1.8,Chemistry,Haissi,Cui,5,0.0,VGVhY2hlci0yODg4NDM1
+3.0,5.0,Criminal Justice,Tyler,King,1,100.0,VGVhY2hlci0yOTUzMzA2
+3.0,4.0,Geography,Beverley,Mullings,3,66.6667,VGVhY2hlci0yOTIwNTgw
+3.0,2.0,Geography,Yinnon,Geva,1,0.0,VGVhY2hlci0yODcwNTEz
+3.0,4.7,Classics,vittorio ,Bottini ,3,100.0,VGVhY2hlci0yOTM2MTQ3
+4.8,1.0,Mathematics,Leo,Jiang,5,0.0,VGVhY2hlci0yODkwNzU3
+1.0,5.0,Anthropology,Michelle ,Cameron,1,100.0,VGVhY2hlci0yOTUxNTg5
+2.3,5.0,Education,Ken,McNeilly,3,100.0,VGVhY2hlci0yOTQ3Njc0
+3.0,5.0,Languages,Owen ,Meunier,1,100.0,VGVhY2hlci0yOTU2MDUy
+2.3,4.7,English,Trevor,Cook,3,100.0,VGVhY2hlci0xODEwMDg0
+3.0,1.0,Languages,Dianne,Hurdle,2,0.0,VGVhY2hlci0yOTQ3Mjgw
+4.4,1.2,Mathematics,Murari,Singh,23,0.0,VGVhY2hlci0yNzI1MTQz
+5.0,3.0,Biology,Noor,Attar,1,0.0,VGVhY2hlci0yOTQyMzM0
+3.3,2.5,Environment,Erich,Vogt,17,40.0,VGVhY2hlci0xOTAyOTU2
+2.4,3.8,Accounting,Nayana,Reiter,5,80.0,VGVhY2hlci0yMzkxODMy
+4.0,3.0,Engineering,Alvin,Sukmadji,2,50.0,VGVhY2hlci0yODI4NDc1
+3.0,5.0,Education,Mary,Saudelli,2,100.0,VGVhY2hlci0yOTIxOTE5
+3.0,4.0,Architecture,Ayca ,Koseoglu,1,100.0,VGVhY2hlci0yODY1MjY2
+2.0,5.0,Philosophy,Eric,Shoemaker,1,100.0,VGVhY2hlci0yOTI1MTQ0
+3.3,3.5,Psychology,Paul,Bloom,4,50.0,VGVhY2hlci0yOTEzMzY1
+2.5,4.8,"Arts, Culture & Media",David,Nieborg,15,100.0,VGVhY2hlci0yMjA1MTk3
+4.0,1.0,Education,Barnabas,Emenogu,1,0.0,VGVhY2hlci0yOTIwMTcw
+1.0,5.0,Languages,Katharina,Logan,1,100.0,VGVhY2hlci0yOTIwMDE5
+4.0,5.0,Law,Alan,Bruder,1,100.0,VGVhY2hlci0xNzQ5MDMw
+1.7,5.0,Management,Mohammad,Amin,3,100.0,VGVhY2hlci0yOTE3MDEz
+2.7,2.3,Languages,Neda,Todorovic,6,33.3333,VGVhY2hlci0yODc3NjA3
+3.5,3.5,Political Science,Neekoo,Collett,2,50.0,VGVhY2hlci0yODg4MjI3
+3.5,2.8,Finance,Joseph,Shaw,4,25.0,VGVhY2hlci0yNjc0MTkx
+3.7,3.3,Economics,Remi,Daviet,3,66.6667,VGVhY2hlci0yMzUwNzQ2
+3.0,5.0,Humanities,Matthew,Da Mota,2,100.0,VGVhY2hlci0yNjYxNzgw
+3.0,5.0,Sociology,Jillian,Sunderland,1,100.0,VGVhY2hlci0yOTA4ODY3
+4.0,4.0,History,Shane,Lynn,1,100.0,VGVhY2hlci0yOTA4NDc3
+5.0,1.0,Economics,Tommaso,Alba,1,0.0,VGVhY2hlci0yOTAzMjk0
+3.0,2.0,Pharmacology,Jason,Matthews,1,0.0,VGVhY2hlci0yODk5NTQx
+4.0,4.0,Computer Science,Massimiliano ,Meneghin,1,100.0,VGVhY2hlci0yODk5NDA4
+1.6,3.3,Environment,Patrick,James,7,57.1429,VGVhY2hlci0yNzM1NDA2
+3.0,5.0,Biology,Juliana,Vantellingen,1,100.0,VGVhY2hlci0yODg1MjI3
+3.0,4.0,Women's Studies,Marieme ,Lo,2,100.0,VGVhY2hlci0yODgwMTA3
+3.3,2.0,History,Katie,Davis,6,0.0,VGVhY2hlci0yODI0Mzc5
+5.0,3.0,Arts Culture amp Media,Scott,Richmond,3,66.6667,VGVhY2hlci0yNDY5MDM5
+3.0,5.0,Classics,Giuseppe,Castellano,2,100.0,VGVhY2hlci0yODA4NTM3
+3.0,5.0,Information Science,John,Summers,2,100.0,VGVhY2hlci0yNjgxMDE0
+2.0,4.0,Mathematics,Wenyu,Phan,1,100.0,VGVhY2hlci0yODg3ODcy
+5.0,1.0,Biochemistry,Karen,Maxwell,1,0.0,VGVhY2hlci0yODcyODQw
+3.7,2.3,Engineering,Cristiana,Amza,7,33.3333,VGVhY2hlci0yMTA4Njk4
+4.5,1.5,Music,Sadie,Hochman-Ruiz,2,0.0,VGVhY2hlci0yNzM3Mjg2
+2.0,1.0,Social Science,Regina,Hartwick,1,0.0,VGVhY2hlci0yODgzOTcz
+2.5,4.3,Engineering,Greg,Evans,4,100.0,VGVhY2hlci0xMDM4ODg3
+4.5,1.0,Engineering,Abderrahmane,Abbou,2,0.0,VGVhY2hlci0yODc1MDM4
+3.0,5.0,Communication,Kareem,Roberts,1,100.0,VGVhY2hlci0yNzA1MTI1
+3.1,4.3,Business,William,Huggins,18,100.0,VGVhY2hlci0xMTU1ODI3
+4.5,3.0,Philosophy,Adrian,Yee,2,50.0,VGVhY2hlci0yNDQwOTUz
+2.0,5.0,Classics,Fae ,Amiro,1,100.0,VGVhY2hlci0yODc0NzI1
+0.0,0.0,Communication,Emilie,Garan,0,-1.0,VGVhY2hlci0yODczMjA4
+4.0,5.0,Pharmacology,Carolyn,Cummins,1,100.0,VGVhY2hlci0yODY3ODQ0
+1.0,5.0,Pharmacology,Hong-Shuo,Sun,1,100.0,VGVhY2hlci0yODY3ODUy
+2.0,5.0,Anthropology,Esmat,Elhalaby,1,100.0,VGVhY2hlci0yODY2MzM2
+4.0,2.0,Biology,Frances ,Wong,1,0.0,VGVhY2hlci0yODY1NjA5
+3.0,2.8,Philosophy,Mathew,Mercuri,4,50.0,VGVhY2hlci0yNjUzMjQy
+3.1,4.5,History,Carol,Chin,8,80.0,VGVhY2hlci04NTQwNDk=
+3.0,3.0,Political Science,Peter,Sekyere,1,0.0,VGVhY2hlci0yODAwNzMx
+5.0,1.0,English,Ibi,Kaslik,1,0.0,VGVhY2hlci0yMzM3NTg4
+5.0,1.0,Economics,Robert,McMillan,1,0.0,VGVhY2hlci0yODIzMjM2
+3.9,2.6,Information Science,Shelley,Falconer,9,44.4444,VGVhY2hlci0yNzc5NTA2
+2.8,3.8,Medicine,Kevin,Vuong,4,75.0,VGVhY2hlci0yNDk3NDgz
+3.5,4.8,Marketing,Michael,Seaton,4,100.0,VGVhY2hlci0yNTAwMTU4
+3.0,4.9,Education,Peter,Sawchuk,5,100.0,VGVhY2hlci0xOTE0NjEw
+4.5,1.0,Health Science,Cheryl,Cott,2,0.0,VGVhY2hlci0xNjU4ODQx
+2.8,5.0,Languages,Anu,Muhonen,4,100.0,VGVhY2hlci0yNjE5MTQ2
+3.6,2.4,Mathematics,Joshua,Lackman,8,25.0,VGVhY2hlci0yNjYzNDQ3
+2.3,4.3,Geography,Bachour,Mary-Kay,4,75.0,VGVhY2hlci0yMzQ4MDcw
+2.5,5.0,Languages,Sara,Galli,21,100.0,VGVhY2hlci0yNDEwMDc0
+5.0,1.0,Mathematics,Kate,Duan,1,0.0,VGVhY2hlci0yNzI1ODMy
+3.6,2.9,Anthropology,Laura,Sikstrom,5,50.0,VGVhY2hlci0yMTA0Njgw
+2.0,5.0,Philosophy,Belinda,Piercy,1,100.0,VGVhY2hlci0yNjg2MDUz
+4.5,3.0,Economics,Stanley,Subrata,4,50.0,VGVhY2hlci0yNzA0OTcy
+1.0,1.0,Education,Cassie,Brownell,1,0.0,VGVhY2hlci0yNTY3NDI4
+2.4,3.0,Anthropology,Keegan,Selig,5,60.0,VGVhY2hlci0yNTU5OTU3
+4.0,5.0,Science,Noor,Al-Attar,1,100.0,VGVhY2hlci0yNzYxOTMw
+5.0,1.0,Science,James,Wells,1,0.0,VGVhY2hlci0yNzUyOTU2
+3.0,2.0,Pharmacology,Lisa,Dolovich,1,0.0,VGVhY2hlci0yNzUyOTU0
+4.0,5.0,Physics,Sidhartha,Goyal,1,100.0,VGVhY2hlci0yMzM0MTI3
+2.0,1.0,Philosophy,James,Allen,1,0.0,VGVhY2hlci0yNjg5MjAy
+3.0,2.0,Engineering,Lennart,Doppenschmitt,1,0.0,VGVhY2hlci0yNzM1NDM0
+3.3,3.2,Accounting,Vince,Pranjivan,8,100.0,VGVhY2hlci0xODY4MDE0
+3.0,5.0,Languages,Kat,Furtado,1,100.0,VGVhY2hlci0yNzIwNzUy
+4.0,5.0,Women's Studies,Gillian,Einstein,1,100.0,VGVhY2hlci0yMzEzMjYw
+4.4,2.2,History,Charu,Bhaneja,14,66.6667,VGVhY2hlci0xOTkzOTQy
+4.0,4.3,Philosophy,Etye,Steinberg,3,66.6667,VGVhY2hlci0yNTE0MDc0
+3.0,4.0,Business,Bernard,Feder,3,66.6667,VGVhY2hlci0yNjUwMDc5
+5.0,1.0,English,John,Van,3,0.0,VGVhY2hlci0yNjk2NzI2
+5.0,1.0,English,Vando,John,1,0.0,VGVhY2hlci0yNjk0Mzg0
+2.6,4.1,Geology,Selina,Wu,15,80.0,VGVhY2hlci0yNDI5OTQz
+3.7,4.3,Psychology,aedan,li,3,100.0,VGVhY2hlci0yNjE5NTU0
+3.4,2.4,Mathematics,Larissa,Richards,14,35.7143,VGVhY2hlci0yMjgzNjM2
+3.0,3.0,Philosophy,Damian,Melamedoff,1,0.0,VGVhY2hlci0yMjgyMDgw
+4.0,1.4,Mathematics,Daniel,Simpson,5,0.0,VGVhY2hlci0yNDM5OTIx
+3.0,5.0,Languages,Catherine,Lamaison,3,100.0,VGVhY2hlci0yMjAwOTMx
+5.0,1.0,Communication,Sabrina,Zhang,1,0.0,VGVhY2hlci0yNjc4MjE3
+2.4,3.4,Economics,Kunal,Dasgupta,8,80.0,VGVhY2hlci0xNzMyNDA3
+3.0,5.0,Literature,Brent,Miles,2,100.0,VGVhY2hlci0xOTM5MDY5
+3.5,5.0,Psychology,Brett,Cochrane,2,100.0,VGVhY2hlci0yNjE4MDY3
+3.3,1.0,Architecture,Adil,Mansure,3,0.0,VGVhY2hlci0yMjY4NzI3
+2.5,3.5,History,Kenneth,Duggan,2,50.0,VGVhY2hlci0yNTQ1MDAw
+3.0,3.7,Languages,Marie-Emilie,Masson,3,50.0,VGVhY2hlci0yMTExNDY2
+2.0,4.8,Psychology,David,Goldstein,3,100.0,VGVhY2hlci0xMDMxNDQ0
+2.5,4.5,Information Science,Dan,Ryan,2,100.0,VGVhY2hlci0yNTE5MDA5
+2.0,5.0,Languages,Isabelle,Massicotte,1,100.0,VGVhY2hlci0yNTczODMz
+4.0,5.0,Computer Science,Ehsan,Noei,1,100.0,VGVhY2hlci0yNjI1NTI4
+3.5,4.3,Psychology,Dan,Dolderman,4,100.0,VGVhY2hlci0xMDA1Mjgy
+4.0,2.7,Art History,Sasha,Gorjeltchan,3,33.3333,VGVhY2hlci0yMzIxMzM4
+3.7,3.7,Philosophy,Mark,Fortney,3,66.6667,VGVhY2hlci0yMjc0NDMy
+3.5,4.0,Sociology,Lawrence,Williams,18,72.2222,VGVhY2hlci0yMzgwNzY1
+4.0,5.0,Computer Science,Syed,Ahmed,2,100.0,VGVhY2hlci0yNTI1MDA0
+3.0,5.0,Management,Tony,Harris,1,100.0,VGVhY2hlci0yNjExOTgz
+4.0,4.0,Languages,Anna,Frolova,1,100.0,VGVhY2hlci0yNTkwNTUw
+2.7,2.7,Political Science,Karol,Czuba,3,33.3333,VGVhY2hlci0yMjQ1NDUy
+3.7,4.3,Languages,Wendy,Luo,16,93.75,VGVhY2hlci0yNTgyMDcz
+4.3,4.8,Computer Science,Amir,Ashouri,4,100.0,VGVhY2hlci0yNDUzMDkz
+3.5,3.2,Philosophy,Benjamin,Wald,14,57.1429,VGVhY2hlci0yMjc0NDM2
+3.0,1.0,Architecture,Barry,Sampson,1,0.0,VGVhY2hlci0yNTgwNTMy
+4.0,5.0,Economics,CC,Gadza,1,100.0,VGVhY2hlci0yNTc3MjI5
+3.3,4.5,Mathematics,Zhengyu,Li,4,75.0,VGVhY2hlci0yNTM4MTQ1
+3.0,3.5,History,Pushpa,Acharya,2,50.0,VGVhY2hlci0yMzI1OTUx
+4.0,3.0,Mathematics,Casey,Jao,2,0.0,VGVhY2hlci0yNTE1MTk2
+3.0,3.0,Business,Olga,Kaminer,1,0.0,VGVhY2hlci0yNTU3NzEy
+4.5,1.9,Mathematics,Richard,Derryberry,8,25.0,VGVhY2hlci0yNDcxNzI0
+2.2,4.2,Biology,David,Punzalan,5,80.0,VGVhY2hlci0yMzM2OTk5
+3.2,5.0,Languages,Marco,Lettieri,6,100.0,VGVhY2hlci0yMTcwODU2
+3.7,3.8,Business,Steven,Osiel,6,100.0,VGVhY2hlci0xODcxMDM4
+4.0,2.0,Computer Science,Toniann,Pitassi,3,33.3333,VGVhY2hlci0yMjY2NTk4
+2.3,4.9,Physics,Andrew,Meyertholen,25,100.0,VGVhY2hlci0yMTEyMTM5
+3.0,5.0,Computer Science,Robert,Robere,3,100.0,VGVhY2hlci0xODg5OTk2
+3.0,3.0,Medicine,Richard,Foty,1,0.0,VGVhY2hlci0yNDk3NDg0
+3.8,4.0,Mathematics,Ozgur,Esentepe,6,66.6667,VGVhY2hlci0yMjg4NDAz
+3.2,3.8,Mathematics,Robert,Jerrard,6,80.0,VGVhY2hlci0yMTM2MzY1
+4.2,2.9,Psychology,Caitlin,Burton,9,44.4444,VGVhY2hlci0yMTgyNjg0
+4.0,5.0,Humanities,Matteo,Brera,1,100.0,VGVhY2hlci0yNDAwOTE3
+3.0,5.0,Environment,Xiao,Han,1,100.0,VGVhY2hlci0yMjgxNTI5
+3.5,5.0,Computer Science, Abdallah,Farraj,4,100.0,VGVhY2hlci0yMDQ1MjAw
+2.3,3.8,Humanities,Kathy,Voltan,4,50.0,VGVhY2hlci0xNDUxNjgx
+4.0,2.2,Psychology,Amanda,Sherman,9,33.3333,VGVhY2hlci0yMzI0MjYx
+3.9,3.7,Psychology,Angelina,Paolozza,8,50.0,VGVhY2hlci0yMTcyMTAx
+3.2,4.6,Psychology,Iska,Moxon-Emre,7,85.7143,VGVhY2hlci0yMzI3OTQx
+4.0,5.0,Mathematics,Travis,Ens,1,100.0,VGVhY2hlci0yMzg4Njc1
+2.5,4.5,Classics,Caitlin,Hines,2,100.0,VGVhY2hlci0yMjQ0OTM4
+3.5,2.5,Theater,Guillermo,Verdecchia,2,50.0,VGVhY2hlci0yMzY0NTEw
+2.5,5.0,Social Work,Jim,Cullen,2,100.0,VGVhY2hlci0yMTg2ODU2
+2.0,3.0,Law,Mariana,Mota Prado,2,0.0,VGVhY2hlci0xODMzMTY2
+3.0,5.0,Aerospace Studies,Chris,Damaren,1,100.0,VGVhY2hlci0yMzQ0MzI2
+5.0,1.0,Psychology,Yona,Lunsky,1,0.0,VGVhY2hlci0yMzQxNjI1
+2.0,5.0,Physical Education,Patrick,Jachyra,1,100.0,VGVhY2hlci0yMjg4NjYw
+3.0,5.0,Political Science,Kai,Arzheimer,1,100.0,VGVhY2hlci0yMzEyMjUz
+2.0,3.0,Anthropology,Janice,Boddy,1,100.0,VGVhY2hlci0yMjQ0NzIz
+3.0,5.0,Anthropology,Jessika,Tremblay,1,100.0,VGVhY2hlci0yMzAzMDk4
+4.0,4.0,Anthropology,Julia,Gamble,1,100.0,VGVhY2hlci0yMTc0NTYy
+3.5,1.5,Geography,Anna,Kramer,2,0.0,VGVhY2hlci0yMjY3NDE1
+3.5,5.0,Architecture,Nicolas,Barrette,2,100.0,VGVhY2hlci0yMjQ4MTQ2
+3.0,4.0,Social Science,Lewis,Kale,1,100.0,VGVhY2hlci0yMjc1ODA0
+3.0,5.0,Computer Science,Peter,Rutherford,1,100.0,VGVhY2hlci0yMjcxODY2
+4.0,5.0,Women's Studies,Nicole,Charles,1,100.0,VGVhY2hlci0yMjQwMzI4
+3.5,5.0,Chemistry,Andrew,Tilley,2,100.0,VGVhY2hlci0yMjI1MTc0
+2.5,4.5,Engineering,David,Ruggiero,2,100.0,VGVhY2hlci0yMjE2NjYy
+2.8,3.4,History,Maria,Brosius,4,0.0,VGVhY2hlci0yMDY2NzA0
+2.3,5.0,Engineering,Amir,Manbachi,14,100.0,VGVhY2hlci0xNjg3NzI4
+4.0,5.0,Psychology,Konstantinos,Papazoglou,1,100.0,VGVhY2hlci0yMTU5Nzgz
+2.3,4.5,History,Ryan,Hall,3,100.0,VGVhY2hlci0yMDk0ODU2
+2.5,5.0,English,Michael,Donnelly,2,-1.0,VGVhY2hlci0yMDI0NzI2
+3.0,4.5,Business,Marc,Solby,1,-1.0,VGVhY2hlci0yMTEzMjU0
+4.0,4.5,Economics,Pradeep,Kumar,1,-1.0,VGVhY2hlci0yMDc0OTc5
+2.5,4.8,Mathematics,Daniel,Rowe,2,-1.0,VGVhY2hlci0yMDA3MzY5
+4.0,2.5,Accounting,Cara,Orzech,1,-1.0,VGVhY2hlci0yMDQ2MTkz
+2.8,4.2,Philosophy,Charles,Repp,9,-1.0,VGVhY2hlci0xNzQ4MDYy
+2.0,4.8,Languages,Rawya,Tousson,2,-1.0,VGVhY2hlci0xODM1ODQx
+3.0,4.0,Women's Studies,Astrida,Neimenis,3,-1.0,VGVhY2hlci0xOTAyOTU4
+2.8,4.3,Philosophy,Brookes,Sommerville,6,-1.0,VGVhY2hlci0xMDA0MTU0
+1.0,2.0,Design,Foguni,Gugugi,1,-1.0,VGVhY2hlci0xOTE5MzE3
+3.0,3.0,Economics,Hélène,Desgagnés,1,-1.0,VGVhY2hlci0xOTE4OTQw
+2.5,4.5,Languages,Claudio,Palomares,2,-1.0,VGVhY2hlci0xNzMxNjQ3
+1.0,5.0,Engineering,Alex,Mihailidis,1,-1.0,VGVhY2hlci0xOTA0NDA3
+4.5,1.0,Philosophy,Kyle,Anstey,2,-1.0,VGVhY2hlci0xODc1MzIx
+2.0,3.8,Biology,Barrett,Spencer,2,-1.0,VGVhY2hlci0xNjY2NTc5
+3.0,5.0,Writing,Thom,Vernon,1,-1.0,VGVhY2hlci0xODM1NTgz
+1.0,5.0,Computer Science,Mohammad,Shakourifar,2,-1.0,VGVhY2hlci0xODEyNTA2
+2.0,4.0,Music,Larysa,Kuzmenko,3,-1.0,VGVhY2hlci0xODIzMDM4
+5.0,1.5,Music,Mary Ann,Parker,1,-1.0,VGVhY2hlci0xODIzMDQ0
+3.0,5.0,Engineering,Meysam,Zargham,1,-1.0,VGVhY2hlci0xODA2MzY4
+3.0,1.0,Engineering,Gabriel,Placienza,2,-1.0,VGVhY2hlci0xNzUyMzUz
+3.0,5.0,Religion,Syed,Hussain,1,-1.0,VGVhY2hlci0xNzUzNzA4
+3.0,5.0,Criminal Justice,Sandra,Bucerius,2,-1.0,VGVhY2hlci0xMTg0NDUy
+3.0,4.0,Architecture,Jane,Wolff,1,-1.0,VGVhY2hlci0xNzAyNzQw
+2.0,5.0,English,Ella,Soper-Jones,2,-1.0,VGVhY2hlci0xNDMyMDEx
+4.0,5.0,Women's Studies,Dina,Georgis,1,-1.0,VGVhY2hlci01MjE2MDc=
+3.0,4.9,Humanities,John,Christopoulos,7,-1.0,VGVhY2hlci0xMjI1OTUx
+3.0,5.0,Biology,Charlotte,Youngson,2,-1.0,VGVhY2hlci0xMzEwMTAw
+1.0,5.0,Engineering,Peter,Tan,1,-1.0,VGVhY2hlci0xNTY1MTY1
+2.5,5.0,Law,Peter,Benson,2,-1.0,VGVhY2hlci04MzE3NTM=
+2.8,4.9,Medicine,Michael,Iwama,8,-1.0,VGVhY2hlci05MDA2NzQ=
+3.0,5.0,Statistics,Laura,Rosella,1,-1.0,VGVhY2hlci05NzM2NTk=
+0.0,0.0,Classics,Kayla,akler,0,-1.0,VGVhY2hlci0zMTA5NTgx
+0.0,0.0,Languages,Song,Jiang,0,-1.0,VGVhY2hlci0zMTA4MTAw
+0.0,0.0,Accounting,Stuart,Stuart Campbell,0,-1.0,VGVhY2hlci0zMTA2NjY4
+0.0,0.0,Mathematics,Oliver ,Pankratz,0,-1.0,VGVhY2hlci0zMTE5MTQ3
+0.0,0.0,Mathematics,Lijia,WANG,0,-1.0,VGVhY2hlci0zMTI1ODI5
+0.0,0.0,Mathematics,Narmada,Varadarajan,0,-1.0,VGVhY2hlci0zMTIzMTAy
+0.0,0.0,Psychology,Delaram,Farzanfar,0,-1.0,VGVhY2hlci0zMTIyNjcy
+0.0,0.0,Information Science,Jiazhou,Bi,0,-1.0,VGVhY2hlci0zMTIxMDU2
+0.0,0.0,Biochemistry,Oliver ,Ernst,0,-1.0,VGVhY2hlci0zMTIwODkz
+0.0,0.0,Political Science,Maria,Mendez-Gutierrez,0,-1.0,VGVhY2hlci0zMTA0MzEz
+0.0,0.0,Political Science,Sheryl,Lightfoot,0,-1.0,VGVhY2hlci0zMTU1MzAw
+0.0,0.0,Women's Studies,Melissa,Bush,0,-1.0,VGVhY2hlci0zMDI2NjY2
+0.0,0.0,History,Ari,Finnsson,0,-1.0,VGVhY2hlci0zMDI2MTE1
+0.0,0.0,Education,Melissa,Hunte,0,-1.0,VGVhY2hlci0zMDI1NjY1
+0.0,0.0,Humanities,Justin,Morris,0,-1.0,VGVhY2hlci0zMDIyNTU4
+0.0,0.0,Languages,Tracey,Edelist,0,-1.0,VGVhY2hlci0zMDMxMzU5
+0.0,0.0,Mathematics,Alice,Rolf,0,-1.0,VGVhY2hlci0zMDI4MDY4
+0.0,0.0,Education,Claire,Brett,0,-1.0,VGVhY2hlci0zMDM4MTcw
+0.0,0.0,Political Science,Natasha,Goel,0,-1.0,VGVhY2hlci0zMTYwMjgw
+0.0,0.0,Philosophy,Matthew,Scarfone,0,-1.0,VGVhY2hlci0zMDc4NDAy
+0.0,0.0,English,Ryan ,Stafford,0,-1.0,VGVhY2hlci0zMDc1NDE2
+0.0,0.0,Religion,Laura,Hare,0,-1.0,VGVhY2hlci0zMDcxODE1
+0.0,0.0,Pharmacology,Suzanne,Caderette,0,-1.0,VGVhY2hlci0zMDQ1ODI5
+0.0,0.0,Computer Science,Pan,Chen,0,-1.0,VGVhY2hlci0zMTUyODE3
+0.0,0.0,Computer Science,Logan,Murphy,0,-1.0,VGVhY2hlci0zMTUzNjQz
+0.0,0.0,Humanities,Tyler ,Pennock,0,-1.0,VGVhY2hlci0zMTU2NjQx
+0.0,0.0,Classics,Melissande,Tomcik,0,-1.0,VGVhY2hlci0zMDAxMDkx
+0.0,0.0,Health Science,jacqueline ,beaudry,0,-1.0,VGVhY2hlci0zMDA2Njg5
+0.0,0.0,Physical Education,Ira,Jacobs,0,-1.0,VGVhY2hlci0zMDE2MzYw
+0.0,0.0,Medicine,Valerie,Dube,0,-1.0,VGVhY2hlci0zMDEwODUw
+0.0,0.0,Business,Liang ,Chen,0,-1.0,VGVhY2hlci0yOTk1MjYy
+0.0,0.0,Film,Erin,Mick,0,-1.0,VGVhY2hlci0zMTQ3MTU5
+0.0,0.0,Criminal Justice,Maykal,Bailey,0,-1.0,VGVhY2hlci0zMTE3NDQ2
+0.0,0.0,Languages,Anna,Szakaly,0,-1.0,VGVhY2hlci0zMTI5NTUy
+0.0,0.0,Computer Science,Jeremy,Ko,0,-1.0,VGVhY2hlci0zMTM3Mzg4
+0.0,0.0,Physical Education,Michael,Jorgensen,0,-1.0,VGVhY2hlci0zMTMzODQy
+0.0,0.0,Computer Science,Alexei,Lapouchnian,0,-1.0,VGVhY2hlci0yOTkxNDIy
+0.0,0.0,Philosophy,Denise,Belsham,0,-1.0,VGVhY2hlci0yOTg5Mzg1
+0.0,0.0,English,Raj ,Soni,0,-1.0,VGVhY2hlci0yOTAzMDc1
+0.0,0.0,Engineering,Abdullah,Shams,0,-1.0,VGVhY2hlci0yOTIyMDc2
+0.0,0.0,Art History,Tia,Sager,0,-1.0,VGVhY2hlci0yOTA3NTE3
+0.0,0.0,Physics,Arun,Paramenkanti,0,-1.0,VGVhY2hlci0yOTQzODY0
+0.0,0.0,Political Science,Stefan ,Macleod ,0,-1.0,VGVhY2hlci0yOTE3MDk3
+0.0,0.0,Languages,Tim,Gadanidis,0,-1.0,VGVhY2hlci0yOTA3MTQ1
+0.0,0.0,Law,Robert,Stellick ,0,-1.0,VGVhY2hlci0yODgzODQy
+0.0,0.0,Art History,Maya,Sanchez,0,-1.0,VGVhY2hlci0yODA0NjE2
+0.0,0.0,"Arts, Culture & Media",Roberta,Buiani,0,-1.0,VGVhY2hlci0yNzg3NTcy
+0.0,0.0,Engineering,Ya-Huei,Chin,0,-1.0,VGVhY2hlci0yODY4NjE3
+0.0,0.0,Marketing,Pranya,Yamin,0,-1.0,VGVhY2hlci0yNzA5OTY3
+0.0,0.0,Health Science,Nicholas,Spence,0,-1.0,VGVhY2hlci0yNDAyOTM4
+0.0,0.0,Architecture,Anthony,Mattacchione,0,-1.0,VGVhY2hlci0yNjIyMDQ1
+0.0,0.0,Architecture,Nuria,Montblanch,0,-1.0,VGVhY2hlci0yNzA0MjY4
+0.0,0.0,Economics,Mons,Chan,0,-1.0,VGVhY2hlci0yNTE2Nzkz
+0.0,0.0,Computer Science,Barend,Beekhuizen,0,-1.0,VGVhY2hlci0yNjA0NDQ1
+0.0,0.0,Criminal Justice,Promise,Skinner,0,-1.0,VGVhY2hlci0yNzcxNjY2
+0.0,0.0,Computer Science,Alexei,Lapouchnian,0,-1.0,VGVhY2hlci0yOTkxNDIy
+0.0,0.0,Philosophy,Denise,Belsham,0,-1.0,VGVhY2hlci0yOTg5Mzg1
+0.0,0.0,Economics,Mons,Chan,0,-1.0,VGVhY2hlci0yNTE2Nzkz
+0.0,0.0,Architecture,Anthony,Mattacchione,0,-1.0,VGVhY2hlci0yNjIyMDQ1
+0.0,0.0,Computer Science,Barend,Beekhuizen,0,-1.0,VGVhY2hlci0yNjA0NDQ1
+0.0,0.0,Chemistry,Marc,LaFlamme,0,-1.0,VGVhY2hlci0yMzg2OTE0
+0.0,0.0,Religion,Thomas,Reynolds,0,-1.0,VGVhY2hlci0yMTY5MTEw
+0.0,0.0,Fine Arts,Mina,Momeni,0,-1.0,VGVhY2hlci0yMjM4Mjcw
+0.0,0.0,Languages,Markus,Stock,0,-1.0,VGVhY2hlci0yMjc0Mjc3
+0.0,0.0,Political Science,Tuba,Eldem,0,-1.0,VGVhY2hlci0yMjYxNzcx
+0.0,0.0,Engineering,Abdallah,Farraj,0,-1.0,VGVhY2hlci0yMDc2ODY4
+0.0,0.0,Philosophy,Bryan,Reece,0,-1.0,VGVhY2hlci0yMzQyMDg2
+0.0,0.0,Health Science,Nicholas,Spence,0,-1.0,VGVhY2hlci0yNDAyOTM4
+0.0,0.0,Theater,Janice,Fraser,0,-1.0,VGVhY2hlci0yNDcxNjEw
+0.0,0.0,Psychology,Mariana,Bockarova,0,-1.0,VGVhY2hlci0yMzMwNTE0
+0.0,0.0,Biochemistry,Christine,Bear,0,-1.0,VGVhY2hlci0xNjUxNTYx
+0.0,0.0,Law,Leonard,Griffiths,0,-1.0,VGVhY2hlci0xNjI1NzQx
+0.0,0.0,Biology,Salma,Sheikh-Mohamed ,0,-1.0,VGVhY2hlci0zMTYwMjI3
+0.0,0.0,Finance,Kevin,Mott,0,-1.0,VGVhY2hlci0zMTU4NDA3
+0.0,0.0,Biology,Ann,Zhang,0,-1.0,VGVhY2hlci0zMTI1NTI0
+0.0,0.0,Fine Arts,Sue,Lloyd,0,-1.0,VGVhY2hlci0zMTI0MTY4
+0.0,0.0,Fine Arts,June,Pak,0,-1.0,VGVhY2hlci0zMTI0MTY0
+0.0,0.0,Economics,Taryn,Eadie,0,-1.0,VGVhY2hlci0zMTIyMzMx
+0.0,0.0,Law,Jacob,Yau,0,-1.0,VGVhY2hlci0zMTE5NDc3
+0.0,0.0,Health Science,Katherine ,Zagrodney,0,-1.0,VGVhY2hlci0zMTM1MTU5
+0.0,0.0,English,Carol,Percy,0,-1.0,VGVhY2hlci0zMTMzOTc5
+0.0,0.0,Economics,Daniel,McGee,0,-1.0,VGVhY2hlci0zMTMyMTQ3
+0.0,0.0,Law,Mohammad,Fadel,0,-1.0,VGVhY2hlci0yOTk2ODAy
+0.0,0.0,Accounting,Andreas,Chariot,0,-1.0,VGVhY2hlci0yOTk1NTk0
+0.0,0.0,Business,Anjana ,Dattani,0,-1.0,VGVhY2hlci0zMDIxNzgx
+0.0,0.0,Humanities,Melissa,Levin,0,-1.0,VGVhY2hlci0zMDIxMzg0
+0.0,0.0,Mathematics,Mathias,Braun,0,-1.0,VGVhY2hlci0yOTk4ODE4
+0.0,0.0,English,Rakesh ,Sengupta ,0,-1.0,VGVhY2hlci0zMDA2NzYw
+0.0,0.0,Health Science,Jessica,Bytautas,0,-1.0,VGVhY2hlci0zMDA2NzYx
+0.0,0.0,Physics,Boris,Braverman,0,-1.0,VGVhY2hlci0zMDA2MDkz
+0.0,0.0,Philosophy,James,John,0,-1.0,VGVhY2hlci0zMDIxOTk1
+0.0,0.0,"Arts, Culture & Media",Sarah, Jensen,0,-1.0,VGVhY2hlci0zMTQ1ODgy
+0.0,0.0,Mathematics,Xiaocui,Yue,0,-1.0,VGVhY2hlci0zMTE2NjIw
+0.0,0.0,Economics,Mir,Kabir,0,-1.0,VGVhY2hlci0zMTE0MzI2
+0.0,0.0,Engineering,Ali,Bereyhi,0,-1.0,VGVhY2hlci0zMTEzNzE5
+0.0,0.0,Political Science,Moses ,Karanja,0,-1.0,VGVhY2hlci0zMTEzMDc2
+0.0,0.0,Computer Science,Rewad,Assi,0,-1.0,VGVhY2hlci0zMTEyMzY5
+0.0,0.0,"Arts, Culture & Media",Aryen,Hoekstra,0,-1.0,VGVhY2hlci0zMTUwNzY0
+0.0,0.0,Engineering,Karthik,Ganesan,0,-1.0,VGVhY2hlci0zMDg3Mzk2
+0.0,0.0,Law,brenda ,cossmen,0,-1.0,VGVhY2hlci0zMDgxNDc3
+0.0,0.0,Criminal Justice,Diego ,Tuesta,0,-1.0,VGVhY2hlci0zMDc5NjQ1
+0.0,0.0,Political Science,Maria,Mendez Gutierrez,0,-1.0,VGVhY2hlci0zMDc0NTUz
+0.0,0.0,Computer Science,David,Levin,0,-1.0,VGVhY2hlci0zMDY0MDYx
+0.0,0.0,Mathematics,Maryam,Khaqan,0,-1.0,VGVhY2hlci0zMDYyNjk3
+0.0,0.0,Social Work,Corry,Azzopardi,0,-1.0,VGVhY2hlci0zMDUxNDg0
+0.0,0.0,Physical Education,Aalaya,Milne,0,-1.0,VGVhY2hlci0zMDY0OTI1
+0.0,0.0,History,Dilyara,Agisheva,0,-1.0,VGVhY2hlci0zMDYzNDky
+0.0,0.0,Literature,Andrew,Westoll ,0,-1.0,VGVhY2hlci0zMDY4NTc5
+0.0,0.0,Health Science,Keith,Collaco,0,-1.0,VGVhY2hlci0zMDU2OTY0
+0.0,0.0,Business,Mina,Mohammadi ,0,-1.0,VGVhY2hlci0zMDQ1NzY1
+0.0,0.0,Education,Clare,Brett ,0,-1.0,VGVhY2hlci0zMDM4MTcz
+0.0,0.0,Engineering,Dionne,Aleman,0,-1.0,VGVhY2hlci0zMDI2NjI4
+0.0,0.0,Engineering,Mohamed,Sayed,0,-1.0,VGVhY2hlci0yOTg5NTMy
+0.0,0.0,Pharmacology,Nathanael,Caveney,0,-1.0,VGVhY2hlci0zMTI2OTk2
+0.0,0.0,Film,Aman,Patra,0,-1.0,VGVhY2hlci0yODU0OTI2
+0.0,0.0,Management,Paul,Chipperton,0,-1.0,VGVhY2hlci0yODg2MDI3
+0.0,0.0,English,John,McGaughey,0,-1.0,VGVhY2hlci0yODg1NzU3
+0.0,0.0,Physics,Debra,Wunch,0,-1.0,VGVhY2hlci0yODU3NjIx
+0.0,0.0,Computer Science,Leon,Lee,0,-1.0,VGVhY2hlci0yODc0NzM1
+0.0,0.0,Mathematics,Israel,Sigal,0,-1.0,VGVhY2hlci0yODcyOTQ5
+0.0,0.0,Business,Jun,Yuan,0,-1.0,VGVhY2hlci0yOTUxOTgy
+0.0,0.0,Philosophy,Dylan,Shaul,0,-1.0,VGVhY2hlci0yOTMxMTk2
+0.0,0.0,Mathematics,Dmitriy,Panchenko,0,-1.0,VGVhY2hlci0yOTE4NjQx
+0.0,0.0,Political Science,Kate,Neville ,0,-1.0,VGVhY2hlci0yOTAzMDE5
+0.0,0.0,Mathematics,Luis,Nieto-Barajas,0,-1.0,VGVhY2hlci0yOTc4NTEy
+0.0,0.0,Health Science,Brenda,Mori,0,-1.0,VGVhY2hlci0yOTE3MTgx
+0.0,0.0,Information Science,Tegan,Maharaj,0,-1.0,VGVhY2hlci0yOTM0NzU5
+0.0,0.0,Law,Michael,Karambatos,0,-1.0,VGVhY2hlci0yOTEzNTA1
+0.0,0.0,Biochemistry,Jonathon,Ditlev,0,-1.0,VGVhY2hlci0yODkwMDkw
+0.0,0.0,Mathematics,Fabiola,Cruze Li,0,-1.0,VGVhY2hlci0yODkyNzU5
+0.0,0.0,Health Science,Jaimie,Coleman,0,-1.0,VGVhY2hlci0yOTE1Mzk2
+0.0,0.0,Educational Research,Kaixin,Chen,0,-1.0,VGVhY2hlci0yOTQyNjYy
+0.0,0.0,Computer Science,Siphelele,Danisa,0,-1.0,VGVhY2hlci0yODMxODgz
+0.0,0.0,Art History,Jessice,Mace,0,-1.0,VGVhY2hlci0yODYxODE0
+0.0,0.0,Ethnic Studies,Pushparaj,Acharya,0,-1.0,VGVhY2hlci0yNjQ0NjIw
+0.0,0.0,Mathematics,Alex,Yang,0,-1.0,VGVhY2hlci0yNjkyNzQ0
+0.0,0.0,Biology,Caroline,Parins-Fukuchi,0,-1.0,VGVhY2hlci0yNzY1NTQx
+0.0,0.0,Mathematics,Stevo,Todorcevic,0,-1.0,VGVhY2hlci0yNTY4ODAw
+0.0,0.0,Engineering,Ted,Sargent,0,-1.0,VGVhY2hlci0yNjE4MTI1
+0.0,0.0,Biology,mikko,taipale,0,-1.0,VGVhY2hlci0yNjcxODAz
+0.0,0.0,Religion,Sean,Capener,0,-1.0,VGVhY2hlci0yNTIxNjY1
+0.0,0.0,History,Vojin,Majstorovic,0,-1.0,VGVhY2hlci0yNDQwNjE1
+0.0,0.0,Philosophy,Brian,Embry,0,-1.0,VGVhY2hlci0yMzQyMDg3
+0.0,0.0,Environment,Shashi,Kant,0,-1.0,VGVhY2hlci0yMzEzNzg5
+0.0,0.0,Computer Science,Mike,Molloy,0,-1.0,VGVhY2hlci0yMTM2NzAw
+0.0,0.0,Geography,Isabel,Urrutia,0,-1.0,VGVhY2hlci0yMjEyMDEz
+0.0,0.0,Mathematics,Oliver,Bennett,0,-1.0,VGVhY2hlci0yNDU4MzQ3
+0.0,0.0,Medicine,Benjamin,Goldstein,0,-1.0,VGVhY2hlci0yMzg5MzQ0
+0.0,0.0,Psychology,Sylvia,Kemenoff,0,-1.0,VGVhY2hlci0yMTcwMjAz
+0.0,0.0,Architecture,Brenda,Webster-Tweel,0,-1.0,VGVhY2hlci0yMTY0ODY3
+0.0,0.0,Literature,Rachel,Seelig,0,-1.0,VGVhY2hlci0xODEwMzE3
+0.0,0.0,Political Science,Lee,Fujii,0,-1.0,VGVhY2hlci0xODA5Mzkx
+0.0,0.0,Biology,Avi,Chakrabartty,0,-1.0,VGVhY2hlci0xNjQ4OTc2
+0.0,0.0,Business,Robert,Papazian,0,-1.0,VGVhY2hlci0yMTE1MTky
+0.0,0.0,Classics,Umit,Durghe,0,-1.0,VGVhY2hlci0yMDE3MTMw
+0.0,0.0,Classics,Umit,Durghe,0,-1.0,VGVhY2hlci0yMDE3MTMw
+0.0,0.0,Biology,Isabella,Caniggia,0,-1.0,VGVhY2hlci0zMTU3Njg1
+0.0,0.0,Mathematics,Amenda ,Chow,0,-1.0,VGVhY2hlci0zMTYwODQ3
+0.0,0.0,"Arts, Culture & Media",Sarah ,Jensen,0,-1.0,VGVhY2hlci0zMTQ1ODg0
+0.0,0.0,Philosophy,micheal ,miller ,0,-1.0,VGVhY2hlci0zMTUxMjM3
+0.0,0.0,Music,Don,Englert,0,-1.0,VGVhY2hlci0zMTA5MDg1
+0.0,0.0,Anthropology,Michael,Obie,0,-1.0,VGVhY2hlci0zMTA4Mzk0
+0.0,0.0,Physics,Tahir,Shaaran ,0,-1.0,VGVhY2hlci0zMTA0ODkx
+0.0,0.0,Philosophy,Shweta,Swarup,0,-1.0,VGVhY2hlci0zMTM3Mjk5
+0.0,0.0,Computer Science,Ashton,Anderson,0,-1.0,VGVhY2hlci0zMTE4NzI5
+0.0,0.0,Psychology,Joanna,Dudek,0,-1.0,VGVhY2hlci0zMTE5MDgy
+0.0,0.0,Education,Grace ,Karram,0,-1.0,VGVhY2hlci0zMTE1NDQx
+0.0,0.0,Mathematics,Federico,Manganello,0,-1.0,VGVhY2hlci0zMTE0NjY4
+0.0,0.0,Classics,Jeff,Masse,0,-1.0,VGVhY2hlci0zMDkxMTE2
+0.0,0.0,Mathematics, Jorge,Chapital,0,-1.0,VGVhY2hlci0zMDY4MTA5
+0.0,0.0,Geology,Melissa ,Anderson ,0,-1.0,VGVhY2hlci0zMDY2ODA4
+0.0,0.0,Music,Peter,Johnston,0,-1.0,VGVhY2hlci0zMDY0MTk4
+0.0,0.0,Economics,Jeffrey,Sun,0,-1.0,VGVhY2hlci0zMDcxMDg4
+0.0,0.0,Mathematics,Ziheng,Lin,0,-1.0,VGVhY2hlci0zMDAxMjMz
+0.0,0.0,History,Chris,Johnson,0,-1.0,VGVhY2hlci0yOTk4NjU2
+0.0,0.0,Social Work,Esme,Fuller-Thomson,0,-1.0,VGVhY2hlci0zMDQ0MDk0
+0.0,0.0,Information Science,Maher,Elshakankiri,0,-1.0,VGVhY2hlci0zMTQ5Mjg4
+0.0,0.0,Pharmacology,Jauher,Ahmad,0,-1.0,VGVhY2hlci0zMDc5NDQz
+0.0,0.0,Social Work,Tin,Von,0,-1.0,VGVhY2hlci0zMDczOTQ4
+0.0,0.0,Engineering,Hisham,Hasanein,0,-1.0,VGVhY2hlci0zMDczMDk2
+0.0,0.0,Architecture,Monica,Hutton,0,-1.0,VGVhY2hlci0zMDcwMjM2
+0.0,0.0,Biochemistry,Stephanie,Ho,0,-1.0,VGVhY2hlci0zMDUwOTM3
+0.0,0.0,Physics,Michael,Power,0,-1.0,VGVhY2hlci0zMDUwMzQw
+0.0,0.0,Physical Education,Sachin,Raina,0,-1.0,VGVhY2hlci0zMDMwNTEx
+0.0,0.0,Education,Anna ,Chmielewski,0,-1.0,VGVhY2hlci0zMDI2NTQ4
+0.0,0.0,Mathematics,Austin,Brown,0,-1.0,VGVhY2hlci0zMDM0ODcw
+0.0,0.0,Health Science,Leanne,De Souza-Kenney,0,-1.0,VGVhY2hlci0zMDI4Nzk1
+0.0,0.0,Languages,Suzi,Oliveira de Lima,0,-1.0,VGVhY2hlci0zMTI5NTQ0
+0.0,0.0,Anthropology,William,Boily,0,-1.0,VGVhY2hlci0yODkyNjYx
+0.0,0.0,English,Mary,Nyquist,0,-1.0,VGVhY2hlci0yODAxMTI1
+0.0,0.0,Communication,Elaine,Khoo,0,-1.0,VGVhY2hlci0yOTkxMDky
+0.0,0.0,Languages,Merlin,Charles,0,-1.0,VGVhY2hlci0yNTUwMjM3
+0.0,0.0,Law,Jennifer,Wooton,0,-1.0,VGVhY2hlci0yODA5NTM0
+0.0,0.0,Ethnic Studies,Pushpa,Acharya,0,-1.0,VGVhY2hlci0yNTY0NjUw
+0.0,0.0,Economics,William,Wolfson,0,-1.0,VGVhY2hlci0yNzYxODY3
+0.0,0.0,Accounting,Zifan,Wang,0,-1.0,VGVhY2hlci0yOTc4Nzc5
+0.0,0.0,History,Joseph,Stollenwerk,0,-1.0,VGVhY2hlci0yOTc4NDMx
+0.0,0.0,Social Work,Natalia,Serenko,0,-1.0,VGVhY2hlci0yOTYzNzEz
+0.0,0.0,Music,Steven,Philcox,0,-1.0,VGVhY2hlci0yOTcyODA4
+0.0,0.0,"Arts, Culture & Media",Miguel ,Esteban,0,-1.0,VGVhY2hlci0yOTA4Mzc2
+0.0,0.0,Physical Education,Saro,Fara,0,-1.0,VGVhY2hlci0yODk5MzEx
+0.0,0.0,Computer Science,Saeid,Abolfazli,0,-1.0,VGVhY2hlci0yOTI3NDI0
+0.0,0.0,Political Science, Salar, Asadolahi,0,-1.0,VGVhY2hlci0yOTI0NDYx
+0.0,0.0,Engineering,Kevin,Course,0,-1.0,VGVhY2hlci0yOTgxODEy
+0.0,0.0,Computer Science,Amirali,Abari,0,-1.0,VGVhY2hlci0yNDMyODU2
+0.0,0.0,Languages,Enrica,Piccardo,0,-1.0,VGVhY2hlci0yMzQ1MTA1
+0.0,0.0,Computer Science,Fatemeh,Panahi,0,-1.0,VGVhY2hlci0yMzIyNTgx
+0.0,0.0,Languages,Michael,Hager,0,-1.0,VGVhY2hlci0yMjczNjU5
+0.0,0.0,English,David,Adkins,0,-1.0,VGVhY2hlci0yMjcxMTUx
+0.0,0.0,Sociology,Rosemary,Gartner,0,-1.0,VGVhY2hlci0yNDcyMDA3
+0.0,0.0,Education,Xi,Chen-Bumgardner,0,-1.0,VGVhY2hlci0yMjM4MTcy
+0.0,0.0,Law,Kent,Roach,0,-1.0,VGVhY2hlci0xODU1ODkz
+0.0,0.0,Information Science,Ferris,Adi,0,-1.0,VGVhY2hlci0yODgxOTE1
+0.0,0.0,Languages,Ana,Ptrov,0,-1.0,VGVhY2hlci0yODc2NDcz
+0.0,0.0,Film,Nadine,Chan,0,-1.0,VGVhY2hlci0yODQ5MDE1
+0.0,0.0,Theater,Ryan ,Olfert,0,-1.0,VGVhY2hlci0yMDYwNzQ3
+0.0,0.0,Education,Geoff,Lawrence,0,-1.0,VGVhY2hlci0xNjgxODA0
+0.0,0.0,Not Specified,Jenn,Keelan,0,-1.0,VGVhY2hlci0xNjU0NDQx
+0.0,0.0,English,Ian,McDougall,0,-1.0,VGVhY2hlci0xOTM5MDcw
+0.0,0.0,Economics,Viktoria,Zezerova,0,-1.0,VGVhY2hlci0zMTUyMzEx
+0.0,0.0,Philosophy,Yonathan,Fiat,0,-1.0,VGVhY2hlci0zMTU3NTA2
+0.0,0.0,English,Carson,Hammond,0,-1.0,VGVhY2hlci0zMTEwODEy
+0.0,0.0,Medicine,Andrew,Fraser,0,-1.0,VGVhY2hlci0zMTEwMTQ0
+0.0,0.0,Accounting,Scott,Douglas,0,-1.0,VGVhY2hlci0zMTA3Nzg5
+0.0,0.0,Classics,Elliott,Fuller,0,-1.0,VGVhY2hlci0zMTE5MTU2
+0.0,0.0,Sociology,Scott,Schieman,0,-1.0,VGVhY2hlci0zMTE0Mzgy
+0.0,0.0,Architecture,Parastoo,Anoushapour,0,-1.0,VGVhY2hlci0zMTE0MDM5
+0.0,0.0,Pharmacology,Vanessa,Goncalves,0,-1.0,VGVhY2hlci0zMTExNDE3
+0.0,0.0,Anthropology,Kayla,Akler,0,-1.0,VGVhY2hlci0zMTA5NTM1
+0.0,0.0,Medicine,Christie,Lee,0,-1.0,VGVhY2hlci0zMTE0Njk0
+0.0,0.0,History,Michal,Mlynarz,0,-1.0,VGVhY2hlci0zMTU2MzE5
+0.0,0.0,Environment,Elisa,Privitera,0,-1.0,VGVhY2hlci0zMTU4MTA5
+0.0,0.0,Languages,Andrew, Byrne,0,-1.0,VGVhY2hlci0zMTU4MDQ4
+0.0,0.0,English,Alice,Kim,0,-1.0,VGVhY2hlci0zMTU1MzY4
+0.0,0.0,Mathematics,Jorge,Chapital,0,-1.0,VGVhY2hlci0zMDg1NTAw
+0.0,0.0,Information Science,Justin,Bi,0,-1.0,VGVhY2hlci0zMTQ5MzA1
+0.0,0.0,Sociology,Prentiss,Dantzler,0,-1.0,VGVhY2hlci0zMDgyNzQ0
+0.0,0.0,Information Science,Ebrahim,Bagheri,0,-1.0,VGVhY2hlci0zMDgyMTE2
+0.0,0.0,Computer Science,Christodoulos,Karavasilis,0,-1.0,VGVhY2hlci0zMDc4ODU4
+0.0,0.0,Engineering,Luis,Ardilla,0,-1.0,VGVhY2hlci0zMDY5NjI5
+0.0,0.0,Mathematics,Luciano,Martinez,0,-1.0,VGVhY2hlci0zMDY5MTI3
+0.0,0.0,Geography,Bronwyn ,Clement ,0,-1.0,VGVhY2hlci0zMDY2ODA5
+0.0,0.0,Philosophy,Jessie,Hall,0,-1.0,VGVhY2hlci0zMDQyNDEw
+0.0,0.0,Economics,Shijun,Su,0,-1.0,VGVhY2hlci0zMDM4MTkx
+0.0,0.0,Public Policy & Administration,Beverley,Essue,0,-1.0,VGVhY2hlci0zMDMwNDI3
+0.0,0.0,Fine Arts,Angela,Leach,0,-1.0,VGVhY2hlci0zMDMwMDkx
+0.0,0.0,Physics,Ziqing,Hong,0,-1.0,VGVhY2hlci0zMTUwNDkx
+0.0,0.0,Engineering,David,Steinman,0,-1.0,VGVhY2hlci0zMTIyNzg0
+0.0,0.0,Engineering,Azadeh,Yadollahi,0,-1.0,VGVhY2hlci0zMTUxNDYw
+0.0,0.0,Languages,Veronica ,Curran,0,-1.0,VGVhY2hlci0zMDA1MzI4
+0.0,0.0,Chemistry,Turar,Tanirbergenov,0,-1.0,VGVhY2hlci0zMTM1OTQy
+0.0,0.0,Religion,Nyasha,Junior,0,-1.0,VGVhY2hlci0zMTMzOTgz
+0.0,0.0,Biology,Benjamin,Gilbert,0,-1.0,VGVhY2hlci0yOTk2OTU4
+0.0,0.0,Humanities,Sophia,Bello,0,-1.0,VGVhY2hlci0zMTM4NzY2
+0.0,0.0,Mathematics,Jessica,Liu,0,-1.0,VGVhY2hlci0yODYwNDM1
+0.0,0.0,Music,Hamidreza,Salehyar,0,-1.0,VGVhY2hlci0yOTgwMzc4
+0.0,0.0,Political Science,Blake,Lee-Whiting,0,-1.0,VGVhY2hlci0yOTAzODQ1
+0.0,0.0,Mathematics,Alexander,Kreinin ,0,-1.0,VGVhY2hlci0yODk2NDM5
+0.0,0.0,Mathematics,Clovis,Hamel,0,-1.0,VGVhY2hlci0yOTE5NjI4
+0.0,0.0,Health Science,Deepika,Chugh,0,-1.0,VGVhY2hlci0yOTUxNzMz
+0.0,0.0,Political Science,Victor ,Bruzzone ,0,-1.0,VGVhY2hlci0yOTE3MDk2
+0.0,0.0,Philosophy,Regine,Bohar,0,-1.0,VGVhY2hlci0yOTIzMTE0
+0.0,0.0,Psychology,Grace,Wang,0,-1.0,VGVhY2hlci0yOTg1MDUw
+0.0,0.0,Languages,Alejandro,Perez,0,-1.0,VGVhY2hlci0yNzA0MjY5
+0.0,0.0,Information Science,Heather,Sanguins,0,-1.0,VGVhY2hlci0yNjk1NTM5
+0.0,0.0,Economics,Joyee,Yang,0,-1.0,VGVhY2hlci0yODgyMjk4
+0.0,0.0,Architecture,Kanwal,Aftab,0,-1.0,VGVhY2hlci0yODgwMTMw
+0.0,0.0,Pharmacology,David,Dubins,0,-1.0,VGVhY2hlci0yODY3ODI1
+0.0,0.0,Languages,Pedro ,Pedro,0,-1.0,VGVhY2hlci0yODU3MDg2
+0.0,0.0,Languages,Veronica ,Curran,0,-1.0,VGVhY2hlci0zMDA1MzI4
+0.0,0.0,Medicine,Christie,Lee,0,-1.0,VGVhY2hlci0zMTE0Njk0
+0.0,0.0,Sociology,Scott,Schieman,0,-1.0,VGVhY2hlci0zMTE0Mzgy
+0.0,0.0,Architecture,Parastoo,Anoushapour,0,-1.0,VGVhY2hlci0zMTE0MDM5
+0.0,0.0,Pharmacology,Vanessa,Goncalves,0,-1.0,VGVhY2hlci0zMTExNDE3
+0.0,0.0,English,Carson,Hammond,0,-1.0,VGVhY2hlci0zMTEwODEy
+0.0,0.0,Medicine,Andrew,Fraser,0,-1.0,VGVhY2hlci0zMTEwMTQ0
+0.0,0.0,Anthropology,Kayla,Akler,0,-1.0,VGVhY2hlci0zMTA5NTM1
+0.0,0.0,Accounting,Scott,Douglas,0,-1.0,VGVhY2hlci0zMTA3Nzg5
+0.0,0.0,Mathematics,Jessica,Liu,0,-1.0,VGVhY2hlci0yODYwNDM1
+0.0,0.0,Architecture,Richard,Sommer,0,-1.0,VGVhY2hlci0yNTQzMzMx
+0.0,0.0,Women's Studies,Pat,Durish,0,-1.0,VGVhY2hlci0yMzU4MTYy
+0.0,0.0,Psychology,Heidi,Gordon,0,-1.0,VGVhY2hlci0yNDQwMTA1
+0.0,0.0,Writing,Dennis,Bock,0,-1.0,VGVhY2hlci0yNDM4NDcx
+0.0,0.0,Law,Anita,Anand,0,-1.0,VGVhY2hlci0yMjA1MTg0
+0.0,0.0,Political Science,Kimberly,Carter,0,-1.0,VGVhY2hlci0yMjUzMTkx
+0.0,0.0,Education,Shaun,Young,0,-1.0,VGVhY2hlci0yMzMzODQy
+0.0,0.0,Management,Julian,House,0,-1.0,VGVhY2hlci0yNDY5NjA4
+0.0,0.0,Engineering,David,Warnica,0,-1.0,VGVhY2hlci0xODIyNTYw
+0.0,0.0,Biology,Jill,Melino,0,-1.0,VGVhY2hlci0yMzY1MjU4
+0.0,0.0,Engineering,Jon,Norman,0,-1.0,VGVhY2hlci0xNzQwNDYx
+0.0,0.0,Information Science,Max,Dionsio,0,-1.0,VGVhY2hlci0xNjk2NDUx
+0.0,0.0,Music,David,Briskin,0,-1.0,VGVhY2hlci0xNjg0NzI5
+0.0,0.0,Engineering,Joyce,Poon,0,-1.0,VGVhY2hlci0xNjQ5NzU4
+0.0,0.0,History,Liam,Vanbeek,0,-1.0,VGVhY2hlci0xNjM2NzAy
+0.0,0.0,Accounting,Valerie,Lennox,0,-1.0,VGVhY2hlci0yMTA1NDMy
+0.0,0.0,Geography,Gregoire,Benzakin,0,-1.0,VGVhY2hlci0yNjgyNDMy
+0.0,0.0,Philosophy,Julia,Smith,0,-1.0,VGVhY2hlci0yNzI3NDY2
+0.0,0.0,Business,Yvonne,O'rilley,0,-1.0,VGVhY2hlci0yNjgwMDY5
+0.0,0.0,Pharmacology,Micheal ,Saikali,0,-1.0,VGVhY2hlci0yODY3ODQy
+0.0,0.0,Geography,Elnaz,Yousefzadeh Barri,0,-1.0,VGVhY2hlci0yODI4MTY3
+0.0,0.0,Engineering,Murray,Grabinsky,0,-1.0,VGVhY2hlci0yNjg3MTQ1
+0.0,0.0,History,leonid,livak,0,-1.0,VGVhY2hlci0yNTUwNDU1
+0.0,0.0,Psychology,Vanessa,Maggisano,0,-1.0,VGVhY2hlci0yNzM5MTU2
+0.0,0.0,Business,Richard,Picart,0,-1.0,VGVhY2hlci0yNzU4NDQy
+0.0,0.0,History,Anna,Butkiewicz,0,-1.0,VGVhY2hlci0yNjA1OTky
+0.0,0.0,Physical Education,Janelle,Joseph,0,-1.0,VGVhY2hlci0yNjE4MjUz
+0.0,0.0,Biology,Neil,Macpherson,0,-1.0,VGVhY2hlci0yNjE2NDI3
+0.0,0.0,Science,Micheline,Piquette-Miller,0,-1.0,VGVhY2hlci0yNzUyOTUw
+0.0,0.0,Educational Research,Sajjad,Nejatie,0,-1.0,VGVhY2hlci0yNTQ2MTU5
+0.0,0.0,Health Science,Erjia,Ge,0,-1.0,VGVhY2hlci0yNTQzMzA5
+0.0,0.0,Languages,Pedro,Mateo Pedro,0,-1.0,VGVhY2hlci0yOTkwODYw
+0.0,0.0,Languages,Maria,Mosco,0,-1.0,VGVhY2hlci0yOTUzOTg2
+0.0,0.0,Mathematics,Fabiola ,Li,0,-1.0,VGVhY2hlci0yODkyNzU2
+0.0,0.0,Humanities,Simone,Davis,0,-1.0,VGVhY2hlci0yODk1OTAy
+0.0,0.0,Mathematics,clovis,ascanio,0,-1.0,VGVhY2hlci0yOTIxNzY0
+0.0,0.0,Science,Mounir,AbouHaidar,0,-1.0,VGVhY2hlci0yODkxMDU3
+0.0,0.0,Engineering,Tarek,Abdelrahman,0,-1.0,VGVhY2hlci0yOTU3NDMz
+0.0,0.0,Engineering,Craig, Steeves,0,-1.0,VGVhY2hlci0yOTIwMDc0
+0.0,0.0,Science,Zhong-Ping,Feng,0,-1.0,VGVhY2hlci0yOTM1MTkx
+0.0,0.0,Sociology,Tahohtharatye ,Brant,0,-1.0,VGVhY2hlci0zMTI5MzEx
+0.0,0.0,Classics,Peter,Bing,0,-1.0,VGVhY2hlci0yODU1NzA2
+0.0,0.0,Medicine,Marc,Jeschke,0,-1.0,VGVhY2hlci0yNTAyMTc1
+0.0,0.0,Aerospace Studies,Behrad,Vatankhahghadim,0,-1.0,VGVhY2hlci0yNDE1MDU2
+0.0,0.0,Computer Science,Lisa,Zhang,0,-1.0,VGVhY2hlci0yNDYyNTk3
+0.0,0.0,Political Science,Lee Ann,Fujii,0,-1.0,VGVhY2hlci0yMTYxMzk3
+0.0,0.0,Engineering,Stephen ,Brown,0,-1.0,VGVhY2hlci0zMTU1NzMy
+0.0,0.0,Film,æryka,hollis o-neil,0,-1.0,VGVhY2hlci0zMTU1NjM1
+0.0,0.0,Pharmacology,Ian,Greig,0,-1.0,VGVhY2hlci0zMDc4NTg0
+0.0,0.0,Classics,David,Sutton,0,-1.0,VGVhY2hlci0zMDc0NTQx
+0.0,0.0,Anthropology,nkem,ike,0,-1.0,VGVhY2hlci0zMDcwMDg2
+0.0,0.0,"Arts, Culture & Media",Georgia,Phillips-Amos,0,-1.0,VGVhY2hlci0zMDQwNTQ4
+0.0,0.0,Political Science,Patricia,Mocker,0,-1.0,VGVhY2hlci0zMDk5Njcz
+0.0,0.0,Psychology,Michael,Best,0,-1.0,VGVhY2hlci0yOTk2Njk2
+0.0,0.0,English,Valentine ,Baxen,0,-1.0,VGVhY2hlci0yOTk2Nzg5
+0.0,0.0,Geography,Whitney,Bai,0,-1.0,VGVhY2hlci0yOTk2MzAx
+0.0,0.0,Economics,Daniel,Trefler,0,-1.0,VGVhY2hlci0yOTk2MDc2
+0.0,0.0,Physics,Stephen,Julian,0,-1.0,VGVhY2hlci0zMTQ4MjA0
+0.0,0.0,Law,Catherine,Valcke,0,-1.0,VGVhY2hlci0zMDIyMTA5
+0.0,0.0,Science,Kim,Tait,0,-1.0,VGVhY2hlci0zMDE3NzIx
+0.0,0.0,Business,Jillian,Adams,0,-1.0,VGVhY2hlci0zMDM0OTg4
+0.0,0.0,Humanities,Dilyara ,Agisheva,0,-1.0,VGVhY2hlci0zMDg5NDI5
+0.0,0.0,English,Randy,Boyagoda,0,-1.0,VGVhY2hlci0zMDg4OTAy
+0.0,0.0,Economics,Jerry,Zhou,0,-1.0,VGVhY2hlci0zMDU2MDA3
+0.0,0.0,Education,Sigrid,Roman,0,-1.0,VGVhY2hlci0zMTQ5Mjgx
+0.0,0.0,Mathematics,Isabella,Negrini,0,-1.0,VGVhY2hlci0zMTI0NDkx
+0.0,0.0,Fine Arts,Charles,Stankievech,0,-1.0,VGVhY2hlci0zMTI0MTY2
+0.0,0.0,Geology,David,Kynaston,0,-1.0,VGVhY2hlci0zMTIwMjUy
+0.0,0.0,Environment,Micheal,Belanger,0,-1.0,VGVhY2hlci0zMTE4MzUw
+0.0,0.0,Business,Zeeshan,Khan,0,-1.0,VGVhY2hlci0zMTE3MDU1
+0.0,0.0,Geology,Neil,Bennett,0,-1.0,VGVhY2hlci0zMTEwMjk5
+0.0,0.0,Business,Chris,Ferguson,0,-1.0,VGVhY2hlci0zMTE0MTI2
+0.0,0.0,Humanities,Kevin,Edmonds,0,-1.0,VGVhY2hlci0zMDg2OTcx
+0.0,0.0,Humanities,Ninaatig,Staats Pangowish,0,-1.0,VGVhY2hlci0zMDg2OTcw
+0.0,0.0,Information Science,Carli,Fink,0,-1.0,VGVhY2hlci0zMTQ5Mjk5
+0.0,0.0,Languages,Ivan,Bondoc,0,-1.0,VGVhY2hlci0zMDkyMDMx
+0.0,0.0,Medicine,Marc,Jeschke,0,-1.0,VGVhY2hlci0yNTAyMTc1
+0.0,0.0,Humanities,Kevin,Chabot,0,-1.0,VGVhY2hlci0yMzY1OTgw
+0.0,0.0,Languages,Arta,Sedaghat,0,-1.0,VGVhY2hlci0yMDE5MDE2
+0.0,0.0,Computer Science,Lisa,Zhang,0,-1.0,VGVhY2hlci0yNDYyNTk3
+0.0,0.0,Social Work,Marilyn,Herie,0,-1.0,VGVhY2hlci0yMzAwMTQ2
+0.0,0.0,Aerospace Studies,Behrad,Vatankhahghadim,0,-1.0,VGVhY2hlci0yNDE1MDU2
+0.0,0.0,Education,Frank,Gong,0,-1.0,VGVhY2hlci0yMzgzMTI2
+0.0,0.0,Political Science,Lee Ann,Fujii,0,-1.0,VGVhY2hlci0yMTYxMzk3
+0.0,0.0,Education,Daphne,Heywood,0,-1.0,VGVhY2hlci0yMDk2NzEx
+0.0,0.0,Humanities,Elaine,Gold,0,-1.0,VGVhY2hlci0yMDE0MzU2
+0.0,0.0,Business,Christine,Brown,0,-1.0,VGVhY2hlci0yMTE1MTkx
+0.0,0.0,Engineering,Kim,Vicente,0,-1.0,VGVhY2hlci0xODYwNDI2
+0.0,0.0,Mathematics,Kyle,Thompson,0,-1.0,VGVhY2hlci0xODU0MTky
+0.0,0.0,History,Lawrin,Armstrong,0,-1.0,VGVhY2hlci0xOTM5MDY4
+0.0,0.0,Biology,Andrews,Brenda,0,-1.0,VGVhY2hlci0xNzM3MDEz

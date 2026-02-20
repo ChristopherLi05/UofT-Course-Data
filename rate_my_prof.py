@@ -61,13 +61,17 @@ def fetch_api(cursor=None, count=5):
     data = requests.post("https://www.ratemyprofessors.com/graphql", json=payload, headers=headers).json()
     teachers = data["data"]["search"]["teachers"]["edges"]
 
+    print(teachers[0])
+
     return [[i["node"]["avgDifficulty"],
              i["node"]["avgRating"],
              i["node"]["department"],
              i["node"]["firstName"],
              i["node"]["lastName"],
              i["node"]["numRatings"],
-             i["node"]["wouldTakeAgainPercent"]] for i in teachers], teachers[-1]["cursor"]
+             i["node"]["wouldTakeAgainPercent"],
+             i["node"]["id"]]
+            for i in teachers], teachers[-1]["cursor"]
 
 
 data = []
@@ -78,6 +82,6 @@ for i in range(13):
     data += r
 
 df = pd.DataFrame(data, columns=["avgDifficulty", "avgRating", "department", "firstName", "lastName", "numRatings",
-                                 "wouldTakeAgainPercent"])
+                                 "wouldTakeAgainPercent", "id"])
 
 df.to_csv("data/ratemyprof.csv", index=False)
