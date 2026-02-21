@@ -42,7 +42,6 @@ Dataset Description:
 | number_responses | Number of people who responded                                                                                                         |
 | course_code      | Cleaned course code                                                                                                                    |
 
-
 ## Rate My Prof
 
 Description: Scraped data from Rate My Prof
@@ -53,14 +52,15 @@ Dataset Description:
 
 | Column Name           | Description                                                  |
 |-----------------------|--------------------------------------------------------------|
-| avgDifficulty         | Average difficulty (from 1 to 5)                             |
-| avgRating             | Average rating (from 1 to 5)                                 |
-| department            | Department the professor is in                               |
+| id                    | Internal ID used by Rate My Professors                       |
+| legacyId              | Legacy identifier used by older Rate My Professors systems   |
 | firstName             | First name of the professor                                  |
 | lastName              | Last name of the professor                                   |
+| avgRating             | Average rating (from 1 to 5)                                 |
 | numRatings            | Number of ratings for the professor                          |
 | wouldTakeAgainPercent | Average percentage of people who would take the course again |
-| id                    | Internal ID used by Rate My Prof                             |
+| avgDifficulty         | Average difficulty (from 1 to 5)                             |
+| department            | Department the professor is in                               |
 
 ## Valid Courses
 
