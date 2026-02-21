@@ -62,6 +62,14 @@ Dataset Description:
 | avgDifficulty         | Average difficulty (from 1 to 5)                             |
 | department            | Department the professor is in                               |
 
+## Prof Mapping
+
+Description: A mapping of course eval prof names to their corresponding rate my prof ids; some profs may have multiple due to fuzzy matching used
+
+File location: `data/prof_mappings.json`
+
+Dataset Description: Json Dict containing `"FIRST LAST": [RMP_IDS]`
+
 ## Valid Courses
 
 Description: All valid course ids to be used in `Enrollment-Data`
