@@ -62,9 +62,35 @@ Dataset Description:
 | avgDifficulty         | Average difficulty (from 1 to 5)                             |
 | department            | Department the professor is in                               |
 
+## Rate My Prof
+
+Description: Scraped course data from Rate My Prof
+
+File location: `data/ratings.csv`
+
+Dataset Description
+
+| Column Name         | Description                                         |
+|---------------------|-----------------------------------------------------|
+| prof_id             | Internal id used by Rate My Professors              |
+| comment             | Comment associated with the review                  |
+| date                | YYYY-MM-DD HH-MM-SS +0000 UTC                       |
+| class               | Course code for the class                           |
+| helpfulRating       | How helpful students found the course (from 1 to 5) |
+| clarityRating       | How clear the course was (from 1 to 5)              |
+| difficultyRating    | How difficult the course was (from 1 to 5)          |
+| attendenceMandatory | Whether attendence was mandatory or not             |
+| Would take again    | `1.0` for Yes, `null` or `0.0` for No               |
+| Grade               | The students' self reported grade                   |
+| Textbook Use        | ???                                                 |
+| isForOnlineClass    | True/False                                          |
+| isForCredit         | True/False                                          |
+| ratingTags          | `--` delimited list of rating tags, up to 3         |
+
 ## Prof Mapping
 
-Description: A mapping of course eval prof names to their corresponding rate my prof ids; some profs may have multiple due to fuzzy matching used
+Description: A mapping of course eval prof names to their corresponding rate my prof ids; some profs may have multiple
+due to fuzzy matching used
 
 File location: `data/prof_mappings.json`
 
